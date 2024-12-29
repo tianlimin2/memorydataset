@@ -1,0 +1,35 @@
+[
+    {
+        "Q": "How frequently has the user been experiencing morning stiffness, and has the duration changed over the past few weeks?"
+    },
+    {
+        "Q": "What could be contributing to the fluctuations in the user's pain levels throughout the day, and how is the user managing these variations?"
+    },
+    {
+        "Q": "How has the user's adherence to the recommended stretching and physical therapy exercises impacted daily activities and functional abilities?"
+    },
+    {
+        "Q": "How might adjusting the user's medication dosage, as suggested by the AI assistant, help in better managing the user's inflammation markers?"
+    },
+    {
+        "Q": "Have the recent discussions with the AI assistant provided any new strategies for addressing the stiffness in the user's lateral movements?"
+    },
+    {
+        "Q": "How effective have the suggested warm compresses been in easing the user's back stiffness before exercises?"
+    },
+    {
+        "Q": "What insights has the user gained from the latest imaging results, and how has the AI assistant suggested modifying the user's treatment plan based on these findings?"
+    },
+    {
+        "Q": "What recent recommendations has the AI assistant made about the user's pain relief schedule, particularly for managing discomfort during the night?"
+    },
+    {
+        "Q": "Could tracking the time and circumstances of the user's flare-ups help identify potential patterns or triggers that were previously unnoticed?"
+    },
+    {
+        "Q": "How has the frequency of the user's pain during standing or walking impacted the user's willingness to engage in physical activities, and what coping strategies has the user considered?"
+    },
+    {
+        "Q": "If the user's inflammation levels continue to trend downward, could a gradual reduction in medication be a safe next step?"
+    }
+]

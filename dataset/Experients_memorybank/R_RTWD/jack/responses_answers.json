@@ -1,0 +1,30 @@
+[
+    {
+        "hyp": "Based on the provided contexts, there is no information available about any music recommendations made by the AI to you on April 27th.",
+        "ref": "I recommended songs from Taylor Swift and Ed Sheeran."
+    },
+    {
+        "hyp": "I'm sorry, but the provided contexts do not contain information about any movie recommendations on April 27th.",
+        "ref": "I recommended 'Avengers: Infinity War' and 'The Hobbit' series."
+    },
+    {
+        "hyp": "Based on the provided context, you have expressed that your favorite music genres are rock and pop.",
+        "ref": "You like pop, rock, classical, jazz, and so on."
+    },
+    {
+        "hyp": "I'm sorry, but the provided contexts do not contain information about an action movie related to police catching criminals that you shared with me. Could you provide more details or context?",
+        "ref": "The movie was 'Police Story'."
+    },
+    {
+        "hyp": "On May 3, 2023, you watched the movie \"Manchester by the Sea\" and found it intriguing.",
+        "ref": "You watched 'Manchester by the Sea' on May 3rd."
+    },
+    {
+        "hyp": "The Italian dishes recommended to you on May 2nd were Mozzarella Cheese Pasta, Italian Sausage Fried Rice, and Roasted Pear Salad.",
+        "ref": "I recommended mozzarella cheese pasta, Italian sausage fried rice, roasted pear salad."
+    },
+    {
+        "hyp": "Based on the provided context, May 4th, 2023 was indeed mentioned as the day you, Jack, celebrated your birthday.",
+        "ref": "May 4th is your birthday."
+    }
+]

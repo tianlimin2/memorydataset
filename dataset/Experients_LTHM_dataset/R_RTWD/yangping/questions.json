@@ -1,0 +1,35 @@
+[
+    {
+        "Q": "Could the anxiety user has been feeling be influencing user's asthma control, and how might managing stress improve user's symptoms?"
+    },
+    {
+        "Q": "How frequently has user been using the peak flow meter, and what trends have emerged from the recent readings?"
+    },
+    {
+        "Q": "What health recommendations did the AI assistant provide about monitoring lung function, and has user been following these suggestions?"
+    },
+    {
+        "Q": "What changes, if any, has user made to user's medication plan recently, and how have these changes impacted user's asthma management?"
+    },
+    {
+        "Q": "How did user respond when noticing symptoms after exercise, and has user adapted the exercise routine to manage asthma better?"
+    },
+    {
+        "Q": "What suggestions did the AI assistant offer about minimizing side effects of medications, and has user tried any of these recommendations?"
+    },
+    {
+        "Q": "Could the tightness in user's chest be linked to recent changes in weather or exposure to allergens, and what steps has user taken to mitigate these factors?"
+    },
+    {
+        "Q": "Has user noticed any specific environmental triggers, such as pollen or pollution, worsening user’s asthma symptoms over the past few weeks?"
+    },
+    {
+        "Q": "How often does user experience side effects from the new medication, and has this affected user's daily activities?"
+    },
+    {
+        "Q": "What strategies has user found most helpful for managing the psychological effects of dealing with a chronic condition like asthma?"
+    },
+    {
+        "Q": "How has user’s communication with the healthcare provider evolved, and has it resulted in better management of user’s asthma condition?"
+    }
+]

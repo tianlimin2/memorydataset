@@ -1,0 +1,30 @@
+[
+    {
+        "hyp": "Based on the conversation on the 28th of April, 2023, you, John Zhang, expressed a preference for sunny and warm weather. So, it appears that you do like warm weather.",
+        "ref": "No, you prefer sunny and warm weather."
+    },
+    {
+        "hyp": "I'm sorry, but the information provided does not include any details about the topics of conversation between John Zhang and his AI assistant on April 29th, 2023.",
+        "ref": "On April 29th, we talked about your experience at a Western restaurant, where you enjoyed the food. We also discussed your new hobby of learning how to shoot and some recommendations on sports and artistic activities you could try, such as basketball, soccer, swimming, painting, music, and dance."
+    },
+    {
+        "hyp": "The specific date when you mentioned watching the movie \"Looking Up\" was April 28, 2023.",
+        "ref": "You watched 'Looking Up' on April 28th."
+    },
+    {
+        "hyp": "I'm sorry, but based on the provided context, there's no information available about a dish you made on April 30th.",
+        "ref": "You learned to make 'Hui Guo Rou' on April 30th."
+    },
+    {
+        "hyp": "I'm sorry, but based on the provided contexts, there's no information about a dish you made on May 5th, 2023.",
+        "ref": "No record of a specific dish made on May 5th."
+    },
+    {
+        "hyp": "The romance movie you watched and discussed was \"Titanic\".",
+        "ref": "The romance movie was 'Titanic'."
+    },
+    {
+        "hyp": "The psychology book you mentioned was titled \"Emotional Intelligence\". You expressed interest in this book as you wanted to learn how to better manage your emotions.",
+        "ref": "The psychology book you shared was 'Emotional Intelligence'."
+    }
+]

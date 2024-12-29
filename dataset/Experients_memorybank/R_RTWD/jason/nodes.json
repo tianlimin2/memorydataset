@@ -1,0 +1,224 @@
+{
+    "nodes": [
+        {
+            "node_id": "0",
+            "node_count": 0,
+            "type_count": 0,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-04-27 11:50:02",
+            "expiration": "2023-05-27 11:50:02",
+            "last_accessed": "2023-04-27 11:50:02",
+            "subject": "The assistant",
+            "predicate": "discussed",
+            "object": "Jason's various sports hobbies and his plans for the day.",
+            "description": "The conversation took place on 2023-04-27 between two individuals. The first person, Jason, discussed his interests and activities. He mentioned that he went swimming at the pool that day, which he found very relaxing. He also shared that he enjoys a variety of sports including scuba diving, skiing, running, hiking, and rock climbing. For lunch, he had braised fish, a dish he enjoys making. In terms of his plans for the rest of the day, he intended to watch a movie with friends, although they had not yet decided on the film. The other participant suggested \"The Shawshank Redemption\" as a potential choice. Throughout the conversation, the tone was friendly and casual.",
+            "embedding_key": "The conversation took place on 2023-04-27 between two individuals. The first person, Jason, discussed his interests and activities. He mentioned that he went swimming at the pool that day, which he found very relaxing. He also shared that he enjoys a variety of sports including scuba diving, skiing, running, hiking, and rock climbing. For lunch, he had braised fish, a dish he enjoys making. In terms of his plans for the rest of the day, he intended to watch a movie with friends, although they had not yet decided on the film. The other participant suggested \"The Shawshank Redemption\" as a potential choice. Throughout the conversation, the tone was friendly and casual.",
+            "poignancy": 3,
+            "keywords": [
+                "The assistant",
+                "Jason's various sports hobbies and his plans for the day.",
+                "discussed"
+            ],
+            "filling": "Date: 2023-04-27\n\nQuery: Hello, my name is Jason.\nResponse: Hi Jason, nice to meet you! How was your day today?\n\nQuery: I went swimming at the pool today and it was very relaxing.\nResponse: That sounds great. What other sports do you enjoy doing in general?\n\nQuery: I also like scuba diving, skiing, running, hiking, and rock climbing, a variety of them.\nResponse: Impressive! Seems like you are quite the sports enthusiast. What did you have for lunch today?\n\nQuery: Haha, I like making braised fish, so I had it for lunch today.\nResponse: Sounds delicious. Do you have any plans for the rest of the day?\n\nQuery: I'm planning to go watch a movie with some friends tonight, but we haven't decided on which one yet.\nResponse: \"The Shawshank Redemption\" might be a good choice. Hope you have a fun and meaningful day!\n\n"
+        },
+        {
+            "node_id": "1",
+            "node_count": 1,
+            "type_count": 1,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-04-28 05:07:16",
+            "expiration": "2023-05-28 05:07:16",
+            "last_accessed": "2023-04-28 05:07:16",
+            "subject": "The assistant",
+            "predicate": "discussed",
+            "object": "the user's interest in outdoor activities and their upcoming adventure to New Zealand.",
+            "description": "The conversation on 2023-04-28 was between two friends discussing outdoor activities, travel plans, and budgeting. The initial topic was about the great weather and one of them going for a morning run in the park, which they found joyful due to the power of nature. This led to a discussion about their love for outdoor activities, specifically adventures, and their plans to travel to New Zealand. They expressed interest in exploring glaciers and waterfalls in New Zealand, but mentioned the need to save enough money first. The other friend suggested cooking at home as a way to save money, to which they agreed, stating they often cook for themselves and eat simple meals as a means of saving. The conversation ended with words of encouragement for the friend to continue saving for their adventure. No books, movies, or novels were mentioned in the conversation. The specific activity mentioned was a morning run in the park, but the duration was not specified. The overall tone of the conversation was positive and supportive.",
+            "embedding_key": "The conversation on 2023-04-28 was between two friends discussing outdoor activities, travel plans, and budgeting. The initial topic was about the great weather and one of them going for a morning run in the park, which they found joyful due to the power of nature. This led to a discussion about their love for outdoor activities, specifically adventures, and their plans to travel to New Zealand. They expressed interest in exploring glaciers and waterfalls in New Zealand, but mentioned the need to save enough money first. The other friend suggested cooking at home as a way to save money, to which they agreed, stating they often cook for themselves and eat simple meals as a means of saving. The conversation ended with words of encouragement for the friend to continue saving for their adventure. No books, movies, or novels were mentioned in the conversation. The specific activity mentioned was a morning run in the park, but the duration was not specified. The overall tone of the conversation was positive and supportive.",
+            "poignancy": 3,
+            "keywords": [
+                "the user's interest in outdoor activities and their upcoming adventure to New Zealand.",
+                "The assistant",
+                "discussed"
+            ],
+            "filling": "Date: 2023-04-28\n\nQuery: Hi, friend! The weather is really nice today. I went for a run in the park this morning.\nResponse: It's great to exercise in the morning! The scenery in the park must be very beautiful, right?\n\nQuery: Yes, running in the park, I felt the power of nature. It was a joyful feeling.\nResponse: So you enjoy outdoor activities? Have you ever thought about traveling?\n\nQuery: I really enjoy outdoor activities, especially going on adventures. Recently, I've been planning a trip to New Zealand.\nResponse: New Zealand is a beautiful place. I've heard that the natural scenery there is spectacular. Are you planning to go explore the mountains and rivers or go skiing?\n\nQuery: I plan to go on adventures, especially to see the glaciers and waterfalls, which I heard are very impressive. But first, I need to save enough money.\nResponse: Yeah, saving enough money can be tough. I recommend cooking your own meals, which can help you save money.\n\nQuery: Yes, I often cook for myself and eat simple meals. It's also a good way to save money by eating out less.\nResponse: Very good! Keep going on your adventure and keep saving money!\n\n"
+        },
+        {
+            "node_id": "2",
+            "node_count": 2,
+            "type_count": 2,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-04-29 18:46:03",
+            "expiration": "2023-05-29 18:46:03",
+            "last_accessed": "2023-04-29 18:46:03",
+            "subject": "The assistant",
+            "predicate": "discussed the user's interest in coffee tasting and cooking, particularly Chinese and Japanese cuisine",
+            "object": "with the user",
+            "description": "The conversation took place on April 29, 2023, between two friends discussing their interests in food and beverages. One friend mentioned visiting a coffee shop and trying their specialty coffee, which they found to be rich in taste but not overly bitter. The other friend suggested experimenting with making coffee at home using different beans for a unique experience. \n\nThe topic then shifted to cooking, with the coffee-drinking friend expressing their interest in exploring new recipes. They shared their preference for Chinese and Japanese cuisine, especially barbecue and sushi. The second friend encouraged them to try making these dishes at home, emphasizing the gratification of eating homemade food. The conversation ended with the first friend expressing their intent to prepare a sushi dinner for their friends in the future. \n\nNo books, movies, or novels were mentioned during the conversation. There were also no specific activities with specified durations discussed. The overall tone of the conversation was positive, with both friends sharing their appreciation for food and cooking.",
+            "embedding_key": "The conversation took place on April 29, 2023, between two friends discussing their interests in food and beverages. One friend mentioned visiting a coffee shop and trying their specialty coffee, which they found to be rich in taste but not overly bitter. The other friend suggested experimenting with making coffee at home using different beans for a unique experience. \n\nThe topic then shifted to cooking, with the coffee-drinking friend expressing their interest in exploring new recipes. They shared their preference for Chinese and Japanese cuisine, especially barbecue and sushi. The second friend encouraged them to try making these dishes at home, emphasizing the gratification of eating homemade food. The conversation ended with the first friend expressing their intent to prepare a sushi dinner for their friends in the future. \n\nNo books, movies, or novels were mentioned during the conversation. There were also no specific activities with specified durations discussed. The overall tone of the conversation was positive, with both friends sharing their appreciation for food and cooking.",
+            "poignancy": 3,
+            "keywords": [
+                "discussed the user's interest in coffee tasting and cooking, particularly Chinese and Japanese cuisine",
+                "The assistant",
+                "with the user"
+            ],
+            "filling": "Date: 2023-04-29\n\nQuery: Hi, friend! Today I went to a coffee shop and tried their specialty coffee.\nResponse: Drinking coffee is a great experience. How did you like the taste?\n\nQuery: It was fantastic. I think the taste was rich but not too bitter, which is perfect for me.\nResponse: Great-tasting coffee does have a unique charm. You could try making coffee at home, experimenting with different beans, and definitely have a good experience.\n\nQuery: Hmm, that's a great idea. Actually, I love cooking now and then, and I often explore new recipes to try.\nResponse: Cooking is a very creative thing to do. Do you have any particular favorite cuisine?\n\nQuery: I mainly love Chinese food and Japanese cuisine, especially barbecue and sushi.\nResponse: Then you could also try making some barbecue or sushi yourself. Eating your own homemade food is a special kind of gratification.\n\nQuery: Yes, that's true. Next time, I'll make a sumptuous sushi dinner for my friends.\nResponse: That would absolutely be great! Look forward to your next creation.\n\n"
+        },
+        {
+            "node_id": "3",
+            "node_count": 3,
+            "type_count": 3,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-04-30 08:51:04",
+            "expiration": "2023-05-30 08:51:04",
+            "last_accessed": "2023-04-30 08:51:04",
+            "subject": "The assistant",
+            "predicate": "discussed",
+            "object": "the user's mountain climbing experience and future plans.",
+            "description": "The conversation on April 30, 2023, revolved around the topic of mountain climbing. The first speaker shared their experience of the activity, describing it as amazing. They found the most challenging part to be the section before reaching the summit due to the need to climb rocks and trees and avoid steep slopes and crevices. The speaker also shared their admiration for the beautiful scenery viewed from the mountain peak, including undulating mountains, snow-capped mountains, and rivers, which gave them a comfortable feeling. The respondent agreed with the thrill and beauty of the experience, but emphasized the importance of safety. The first speaker revealed their next challenge would be climbing Mount Huashan to gain more exciting experiences and enhance their physical fitness. The respondent wished them luck and advised them to prepare adequately for safety reasons. No books, movies, or novels were discussed, and no specific activities or their durations were mentioned.",
+            "embedding_key": "The conversation on April 30, 2023, revolved around the topic of mountain climbing. The first speaker shared their experience of the activity, describing it as amazing. They found the most challenging part to be the section before reaching the summit due to the need to climb rocks and trees and avoid steep slopes and crevices. The speaker also shared their admiration for the beautiful scenery viewed from the mountain peak, including undulating mountains, snow-capped mountains, and rivers, which gave them a comfortable feeling. The respondent agreed with the thrill and beauty of the experience, but emphasized the importance of safety. The first speaker revealed their next challenge would be climbing Mount Huashan to gain more exciting experiences and enhance their physical fitness. The respondent wished them luck and advised them to prepare adequately for safety reasons. No books, movies, or novels were discussed, and no specific activities or their durations were mentioned.",
+            "poignancy": 3,
+            "keywords": [
+                "the user's mountain climbing experience and future plans.",
+                "The assistant",
+                "discussed"
+            ],
+            "filling": "Date: 2023-04-30\n\nQuery: Hello, friend! Today I went mountain climbing and the experience was amazing!\nResponse: Mountain climbing is indeed a challenge. What do you think is the most difficult part of mountain climbing?\n\nQuery: I think the most difficult part is probably the section before reaching the summit. It involves climbing rocks and trees, as well as avoiding steep slopes and crevices which feels very dangerous.\nResponse: Yes, when you come across a steep or rough terrain, you definitely need to be very careful. However, being able to climb to the peak and see the beautiful scenery should make all of your efforts worthwhile. What beautiful sights did you see?\n\nQuery: The scenery was very fascinating. The mountains were undulating, and I could also see snow-capped mountains and rivers. Especially when standing at the top of the mountain, my mood suddenly became very comfortable.\nResponse: This is an indescribable feeling, right? But safety is also important. What mountain peak do you plan to challenge next time?\n\nQuery: I'm planning to climb Mount Huashan next, which will provide more exciting experiences and enhance my physical fitness.\nResponse: Good luck to you! If there is anything you need to prepare, remember to do it in advance to ensure safety.\n\n"
+        },
+        {
+            "node_id": "4",
+            "node_count": 4,
+            "type_count": 4,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-01 08:15:02",
+            "expiration": "2023-05-31 08:15:02",
+            "last_accessed": "2023-05-01 08:15:02",
+            "subject": "The assistant",
+            "predicate": "discussed the user's interest in ancient culture and art, and their plans to visit more museums",
+            "object": "ancient culture and art, particularly painting and sculpture, and plans to visit more museums and art exhibitions.",
+            "description": "The conversation took place on May 1, 2023, where one person shared their experience of visiting a museum. The key topics discussed were the historical and cultural insights gained from the museum visit, specifically about ancient culture and art. The person was particularly intrigued by ancient paintings and sculptures, and the stories behind them. They learned about the various styles and themes of works and how ancient painters used their art to express their vision and thoughts. The conversation also touched on the importance of appreciating historical and cultural exhibits, as it can broaden one's horizons and deepen understanding of the origins and development of human civilization. No specific books, movies, or novels were mentioned. The specific activity involved was visiting a museum, but the duration was not specified. The person expressed a plan to visit more museums and art exhibitions in the future. The overall feeling was one of interest, enthusiasm, and appreciation for culture and art.",
+            "embedding_key": "The conversation took place on May 1, 2023, where one person shared their experience of visiting a museum. The key topics discussed were the historical and cultural insights gained from the museum visit, specifically about ancient culture and art. The person was particularly intrigued by ancient paintings and sculptures, and the stories behind them. They learned about the various styles and themes of works and how ancient painters used their art to express their vision and thoughts. The conversation also touched on the importance of appreciating historical and cultural exhibits, as it can broaden one's horizons and deepen understanding of the origins and development of human civilization. No specific books, movies, or novels were mentioned. The specific activity involved was visiting a museum, but the duration was not specified. The person expressed a plan to visit more museums and art exhibitions in the future. The overall feeling was one of interest, enthusiasm, and appreciation for culture and art.",
+            "poignancy": 3,
+            "keywords": [
+                "discussed the user's interest in ancient culture and art, and their plans to visit more museums",
+                "ancient culture and art, particularly painting and sculpture, and plans to visit more museums and art exhibitions.",
+                "The assistant"
+            ],
+            "filling": "Date: 2023-05-01\n\nQuery: Hello, friend! Today I went to a museum and learned a lot about history.\nResponse: Museums can provide a lot of knowledge and inspiration. What do you think was the most interesting exhibition?\n\nQuery: I was most interested in the exhibitions about ancient culture and art, especially about ancient painting and sculpture.\nResponse: Ancient culture and art indeed have many interesting stories and exquisite designs. What interesting knowledge did you learn?\n\nQuery: I learned a lot about the stories behind the paintings of ancient painters and how they used paintings to express their vision and thoughts. There were many different styles and themes of works, and I was immersed in the world of paintings.\nResponse: That's great! Appreciating historical and cultural exhibits can not only open our horizons, but also deepen our understanding of the origins and development of human civilization. Do you plan to visit other museums?\n\nQuery: Yes, I plan to visit other museums and art exhibitions to experience more culture and art.\nResponse: Good luck, my friend!\n\n"
+        },
+        {
+            "node_id": "5",
+            "node_count": 5,
+            "type_count": 5,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-02 03:42:15",
+            "expiration": "2023-06-01 03:42:15",
+            "last_accessed": "2023-05-02 03:42:15",
+            "subject": "The assistant",
+            "predicate": "discussed",
+            "object": "the user's excitement about enrolling in a photography course and their preference for shooting landscapes and people.",
+            "description": "The conversation on 2023-05-02 revolves around the topic of photography. One participant shares their excitement about registering for a photography course. They reveal that their teacher is a senior photographer who will teach them about composition, understanding light, and using different photography equipment. They express their preference for shooting landscapes and people, finding inspiration in the unique atmosphere and scenery of each place and the ability to capture beautiful moments. They also mention that they particularly enjoy shooting near beaches, mountains, and lakes due to the beautiful and calming scenery. The other participant expresses support and hope that the course will enable the first participant to further develop their unique style. No books, movies, or novels were mentioned, and no specific activities or durations were discussed. The overall tone of the conversation is positive and enthusiastic.",
+            "embedding_key": "The conversation on 2023-05-02 revolves around the topic of photography. One participant shares their excitement about registering for a photography course. They reveal that their teacher is a senior photographer who will teach them about composition, understanding light, and using different photography equipment. They express their preference for shooting landscapes and people, finding inspiration in the unique atmosphere and scenery of each place and the ability to capture beautiful moments. They also mention that they particularly enjoy shooting near beaches, mountains, and lakes due to the beautiful and calming scenery. The other participant expresses support and hope that the course will enable the first participant to further develop their unique style. No books, movies, or novels were mentioned, and no specific activities or durations were discussed. The overall tone of the conversation is positive and enthusiastic.",
+            "poignancy": 3,
+            "keywords": [
+                "the user's excitement about enrolling in a photography course and their preference for shooting landscapes and people.",
+                "The assistant",
+                "discussed"
+            ],
+            "filling": "Date: 2023-05-02\n\nQuery: Hi, friend! I'm very excited today because I just registered for a photography course.\nResponse: That's great! Learning photography can help you better capture life. Who is your teacher and what is the course content?\n\nQuery: My teacher is a senior photographer, he will teach us how to compose better, understand the use of light, and use different photography equipment for shooting. I think these skills will make me more comfortable when setting up my own camera.\nResponse: This course sounds very valuable. If you want to improve in photography, these skills are important. What kind of photos do you like to shoot the most? People, landscapes, or other themes?\n\nQuery: I like shooting landscapes the most because every place has its unique atmosphere and scenery, which is very inspiring to me. I also like shooting people because I can use photography to record those beautiful moments.\nResponse: Nice, you already have your own style and preferences. Which place do you think is the best for shooting?\n\nQuery: I like shooting near beaches, mountains, and lakes, as these places all have beautiful scenery and make people feel magical and calm.\nResponse: I hope you can gain something from the photography course and show your unique style in your future works.\n\n"
+        },
+        {
+            "node_id": "6",
+            "node_count": 6,
+            "type_count": 6,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-03 15:49:02",
+            "expiration": "2023-06-02 15:49:02",
+            "last_accessed": "2023-05-03 15:49:02",
+            "subject": "The assistant",
+            "predicate": "discussed stress management and relaxation techniques",
+            "object": "with Jason",
+            "description": "The conversation held on 2023-05-03 involved the topics of stress, fatigue, relaxation techniques, and self-care. One participant, named Jason, expressed feeling tired and stressed. The other participant suggested various ways to alleviate these feelings such as listening to soothing music, practicing yoga and meditation, doing exercise, going for walks, and socializing with friends. They also recommended trying meditation relaxation to eliminate fatigue and cultivate calmness.\n\nJason agreed to try meditation and breathing exercises in the hope of achieving relaxation and calmness. The other participant reminded him to focus on his breathing and body sensations, to relax his entire body, and to allocate time for relaxation and happiness as part of self-care. Jason expressed gratitude for the advice and comfort he received from the conversation. No specific books, movies, or novels were mentioned, and no specific activities or their durations were detailed. The conversation was supportive and comforting in tone.",
+            "embedding_key": "The conversation held on 2023-05-03 involved the topics of stress, fatigue, relaxation techniques, and self-care. One participant, named Jason, expressed feeling tired and stressed. The other participant suggested various ways to alleviate these feelings such as listening to soothing music, practicing yoga and meditation, doing exercise, going for walks, and socializing with friends. They also recommended trying meditation relaxation to eliminate fatigue and cultivate calmness.\n\nJason agreed to try meditation and breathing exercises in the hope of achieving relaxation and calmness. The other participant reminded him to focus on his breathing and body sensations, to relax his entire body, and to allocate time for relaxation and happiness as part of self-care. Jason expressed gratitude for the advice and comfort he received from the conversation. No specific books, movies, or novels were mentioned, and no specific activities or their durations were detailed. The conversation was supportive and comforting in tone.",
+            "poignancy": 8,
+            "keywords": [
+                "with Jason",
+                "The assistant",
+                "discussed stress management and relaxation techniques"
+            ],
+            "filling": "Date: 2023-05-03\n\nQuery: Hello, friend! Today I feel a bit tired and stressed, and I don't know what to do.\nResponse: Oh, that's very normal. The expectations and responsibilities from others can weigh you down. What do you usually do to relieve this feeling?\n\nQuery: I usually listen to some soothing music, and yoga and meditation can also be helpful. But today, I seem to need a complete relaxation and release.\nResponse: It seems like you need some real relaxation. Doing some exercise, going for a walk, or hanging out with friends are also good ways to relieve stress. You can also try meditation relaxation, which can help you get rid of fatigue and make you feel more calm.\n\nQuery: Okay, I will try some meditation and breathing exercises, hoping they will make me feel relaxed and calm.\nResponse: Good idea. Remember to focus on your breathing and body sensations, relax your whole body. Also, make sure to give yourself time to relax and feel happy. It's important and requires self-care.\n\nQuery: Thank you for your advice. Hearing your voice makes me feel comforted, and I will try to seize my time to relax myself.\nResponse: No problem. I will always be here to support and encourage you, Jason.\n\n"
+        },
+        {
+            "node_id": "7",
+            "node_count": 7,
+            "type_count": 7,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-04 03:39:15",
+            "expiration": "2023-06-03 03:39:15",
+            "last_accessed": "2023-05-04 03:39:15",
+            "subject": "The assistant",
+            "predicate": "discussed gift options related to",
+            "object": "the user's friend's hobbies of traveling, trying new foods, and appreciating famous painters.",
+            "description": "The conversation from 2023-05-04 revolves around gift suggestions for a friend's birthday. The individual seeking advice mentions that the friend enjoys traveling, trying new foods, and has an interest in famous painters. The assistant suggests giving a postcard or an art book related to the friend's favorite painter, a travel guidebook, or a cookbook featuring the friend's favorite cuisines. The assistant emphasizes that the value of the gift is not as important as the sincerity of the wishes it conveys. There were no specific books, movies, or novels mentioned in the conversation, nor were there any specific activities or their durations discussed. The overall tone of the conversation was cooperative and helpful.",
+            "embedding_key": "The conversation from 2023-05-04 revolves around gift suggestions for a friend's birthday. The individual seeking advice mentions that the friend enjoys traveling, trying new foods, and has an interest in famous painters. The assistant suggests giving a postcard or an art book related to the friend's favorite painter, a travel guidebook, or a cookbook featuring the friend's favorite cuisines. The assistant emphasizes that the value of the gift is not as important as the sincerity of the wishes it conveys. There were no specific books, movies, or novels mentioned in the conversation, nor were there any specific activities or their durations discussed. The overall tone of the conversation was cooperative and helpful.",
+            "poignancy": 4,
+            "keywords": [
+                "The assistant",
+                "discussed gift options related to",
+                "the user's friend's hobbies of traveling, trying new foods, and appreciating famous painters."
+            ],
+            "filling": "Date: 2023-05-04\n\nQuery: Hi friend! It's my friend's birthday today and I don't know what gift to give him.\nResponse: Hmm, giving gifts can be tricky. Do you know what your friend likes?\n\nQuery: I know he likes traveling, trying new foods, and famous painters.\nResponse: That sounds great! You can consider giving him a postcard or an art book related to his favorite painter, a travel guidebook, or a cookbook with his favorite cuisines. These gifts can show your care and love for him.\n\nQuery: Very good suggestions! I think these are not just gifts, but also beautiful memories. I will search for some suitable gifts for him.\nResponse: Good luck! Remember, the focus of gifts is not on the value, but on your sincere wishes.\n\nQuery: I got it. Thank you for your advice, my helpful assistant!\nResponse: You're welcome! If you need anything, feel free to chat with me anytime.\n\n"
+        },
+        {
+            "node_id": "8",
+            "node_count": 8,
+            "type_count": 8,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-05 08:42:24",
+            "expiration": "2023-06-04 08:42:24",
+            "last_accessed": "2023-05-05 08:42:24",
+            "subject": "The assistant",
+            "predicate": "discussed",
+            "object": "Jason's career-related concerns and potential job change",
+            "description": "The conversation on 2023-05-05 was between two friends discussing a career-related dilemma. One of them, named Jason, is feeling bored in his current job and is considering whether to look for a new job for better career development or to re-evaluate his current job and make it more interesting. His friend advised him to believe in himself and not let fear or uncertainty stop him from achieving his dream. He suggested that Jason could look into better positions related to his current job in other companies or even try some related but different careers. No specific books, movies, or novels were mentioned during the conversation. No specific activities and their duration were discussed. The overall tone of the conversation was supportive and encouraging.",
+            "embedding_key": "The conversation on 2023-05-05 was between two friends discussing a career-related dilemma. One of them, named Jason, is feeling bored in his current job and is considering whether to look for a new job for better career development or to re-evaluate his current job and make it more interesting. His friend advised him to believe in himself and not let fear or uncertainty stop him from achieving his dream. He suggested that Jason could look into better positions related to his current job in other companies or even try some related but different careers. No specific books, movies, or novels were mentioned during the conversation. No specific activities and their duration were discussed. The overall tone of the conversation was supportive and encouraging.",
+            "poignancy": 8,
+            "keywords": [
+                "The assistant",
+                "Jason's career-related concerns and potential job change",
+                "discussed"
+            ],
+            "filling": "Date: 2023-05-05\n\nQuery: Hi, friend! Today I encountered a career-related problem and I'm confused on what to do.\nResponse: Oh? A career problem? Please tell me about it and let's see if we can come up with a solution.\n\nQuery: I've been working at my current company for several years, but I feel bored. I've been considering whether to find a new job to pursue higher career development. However, I'm not sure if I should stay in my current job, re-evaluate it, and try to make it more interesting in different ways.\nResponse: That's a big decision, but your ideas are good. Re-evaluating your job and trying to make it more interesting in new ways might be a good idea. You can also check if there are better positions related to your current job in other companies, which could make your career development more successful.\n\nQuery: Yes, but it sounds difficult. I don't know if I have the ability to adapt to a new job, especially since I've been working in this industry for a while.\nResponse: You need to believe in yourself. Don't let fear or uncertainty stop you from achieving your dream. If you often feel bored or dissatisfied with your job, it's normal to try to find a more challenging and stimulating job. Don't be afraid to make changes. You can try some jobs in the same field as your current career, or try some related but different new careers.\n\nQuery: Okay, I'll consider your advice and make my own decision. Thank you, friend!\nResponse: You're welcome, Jason. I'm always here to support you.\n\n"
+        },
+        {
+            "node_id": "9",
+            "node_count": 9,
+            "type_count": 9,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-06 02:15:15",
+            "expiration": "2023-06-05 02:15:15",
+            "last_accessed": "2023-05-06 02:15:15",
+            "subject": "The assistant",
+            "predicate": "discussed travel planning and budgeting",
+            "object": "with Jason",
+            "description": "The conversation, dated 2023-05-06, revolved around travel planning. The person initiating the conversation, Jason, expressed his desire to travel to seaside cities but was concerned about his limited time and budget. The respondent suggested choosing a seaside city closer to his current location to save time. For instance, if he lived in Beijing, he could consider going to Tianjin or Qingdao, and if he was in Shanghai, he could visit Ningbo or Zhoushan. \n\nTo address Jason's budget concerns, the respondent advised looking for discounted flights or hotels, utilizing credit card discounts or points if applicable, and choosing budget-friendly tourist destinations. They also suggested trying local food or cultural activities for a pleasant travel experience. No specific books, movies, or novels were mentioned, and there were no specific activities involved or their duration. Jason seemed appreciative of the advice and expressed his consideration towards the suggestions.",
+            "embedding_key": "The conversation, dated 2023-05-06, revolved around travel planning. The person initiating the conversation, Jason, expressed his desire to travel to seaside cities but was concerned about his limited time and budget. The respondent suggested choosing a seaside city closer to his current location to save time. For instance, if he lived in Beijing, he could consider going to Tianjin or Qingdao, and if he was in Shanghai, he could visit Ningbo or Zhoushan. \n\nTo address Jason's budget concerns, the respondent advised looking for discounted flights or hotels, utilizing credit card discounts or points if applicable, and choosing budget-friendly tourist destinations. They also suggested trying local food or cultural activities for a pleasant travel experience. No specific books, movies, or novels were mentioned, and there were no specific activities involved or their duration. Jason seemed appreciative of the advice and expressed his consideration towards the suggestions.",
+            "poignancy": 7,
+            "keywords": [
+                "with Jason",
+                "discussed travel planning and budgeting",
+                "The assistant"
+            ],
+            "filling": "Date: 2023-05-06\n\nQuery: Hi, friend! I have a problem. I want to travel, but I don't have much time and budget.\nResponse: Hmm, this is a common problem. What places do you want to visit? Maybe I can help you find some suitable options.\n\nQuery: I've always wanted to visit some seaside cities, but I'm worried I won't have enough time.\nResponse: Okay, if you don't have much time, it's best to choose a seaside city that's closer to you. For example, if you live in Beijing, you could consider going to Tianjin or Qingdao. If you're in Shanghai, you could go to nearby Ningbo or Zhoushan. These places are not only easy to get to, but also won't waste too much time.\n\nQuery: That sounds good, but I'm also afraid my budget won't be enough.\nResponse: Well, you can look for discounted flights or hotels. If you have a credit card, see if there are any relevant discounts or points you can use. Or you can choose some budget-friendly tourist destinations and try out some local food or cultural activities, which can also be a pleasant travel experience.\n\nQuery: Okay, I'll consider your advice. Thank you for your help, friend!\nResponse: You're welcome, Jason. I'm always here to support you. I hope you have a pleasant journey.\n\n"
+        }
+    ]
+}

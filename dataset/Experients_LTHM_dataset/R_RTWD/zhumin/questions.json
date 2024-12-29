@@ -1,0 +1,35 @@
+[
+    {
+        "Q": "How often has user been noticing changes in the frequency or distribution of wheals on user's skin recently?"
+    },
+    {
+        "Q": "Could environmental factors, such as the change in weather, be influencing user's symptoms more than initially thought?"
+    },
+    {
+        "Q": "Have there been any consistent trends in user's CRP and IgE levels over user's recent blood tests, and what could be the underlying causes?"
+    },
+    {
+        "Q": "How might user's current level of stress be impacting the severity and recurrence of user's symptoms?"
+    },
+    {
+        "Q": "What recommendations has the AI assistant made regarding user's medication, and have there been any suggested adjustments?"
+    },
+    {
+        "Q": "Could user's current approach to avoiding known allergens be overlooking potential hidden triggers?"
+    },
+    {
+        "Q": "How effective has user's recent use of a new moisturizer been in alleviating skin symptoms, and could this be a potential long-term solution?"
+    },
+    {
+        "Q": "What were the key topics discussed during user's most recent interactions with the AI assistant?"
+    },
+    {
+        "Q": "Have there been any unexpected changes in user's medication side effects, such as drowsiness or headaches, and what could this indicate?"
+    },
+    {
+        "Q": "How has user's sleep quality been affected by user's symptoms, and could improving sleep hygiene provide relief?"
+    },
+    {
+        "Q": "What coping strategies has user found most beneficial in dealing with the psychological impact of chronic urticaria?"
+    }
+]

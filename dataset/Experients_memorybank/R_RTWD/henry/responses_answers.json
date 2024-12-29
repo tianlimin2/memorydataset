@@ -1,0 +1,30 @@
+[
+    {
+        "hyp": "Based on the provided contexts, there's no information about your preferences towards badminton or running. Your likes or dislikes regarding these specific activities were not discussed in any of the conversations.",
+        "ref": "You like badminton, running, and swimming."
+    },
+    {
+        "hyp": "I'm sorry, but the provided contexts do not include information about the weather on April 30th or any specific activities you might have engaged in on that day.",
+        "ref": "On April 30th, it was very hot, and you cooled off by going swimming."
+    },
+    {
+        "hyp": "On April 30, 2023, I provided specific suggestions on improving your guitar skills. I recommended trying new exercises and techniques, mastering more chords and sheet music, and practicing speed picking and sweeping. I also emphasized the importance of maintaining passion and patience. I highlighted that becoming a great guitarist requires long hours of practice and hard work.",
+        "ref": "Practice consistently, try new exercises and techniques, and maintain passion and patience."
+    },
+    {
+        "hyp": "Based on the provided contexts, there were no books recommended in any of the conversations.",
+        "ref": "I recommend some classic good books, such as \"1984\", \"Sapiens\", \"Hackers and Painters\", \"Psychology and Life\", etc."
+    },
+    {
+        "hyp": "The contexts provided do not mention any specific problem that you encountered while learning programming. Please provide more information or clarify your question for a more accurate response.",
+        "ref": "You had trouble understanding the concept of functions in programming."
+    },
+    {
+        "hyp": "I'm sorry for the confusion, but as an AI, I don't have the capability to provide specific recipes. I can recommend looking for a sweet and sour pork ribs recipe from a reliable cooking website or cookbook. There, you'll find detailed instructions on ingredients, preparation, and cooking methods.",
+        "ref": "fry the pork ribs until golden brown, set them aside; stir-fry the sliced carrots, green peppers, ginger, and garlic, add an appropriate amount of sugar, vinegar, and salt, and add some cornstarch water to thicken the sauce. Drizzle the sauce over the pork ribs, and it's ready to serve."
+    },
+    {
+        "hyp": "Throughout our conversations, I've given advice on various aspects of living a healthy life. For physical health, I suggested engaging in activities such as sports and cooking healthy recipes. For mental health, I recommended relaxing activities like listening to music, reading, traveling, and spending time with friends or family. I also emphasized the importance of maintaining a positive and optimistic mentality, viewing challenges as opportunities for growth, and confiding in close friends and family to alleviate anxiety. For work-life balance, I suggested setting reasonable work plans and goals, taking breaks, and learning management and communication skills.",
+        "ref": "Develop healthy habits, like good sleep and diet, exercise regularly, manage stressand anxiety, and avoiding alcohol and smoking."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "hyp": "Based on the provided contexts, there is no information about you running in the park on April 27th.",
+        "ref": "You ran for an hour in the park on April 27th."
+    },
+    {
+        "hyp": "Based on the provided contexts, there is no mention of a food program being recommended. Therefore, I'm unable to provide the name of the food program you're referring to.",
+        "ref": "The food program you recommended was \"Home Cooking\" produced by CCTV."
+    },
+    {
+        "hyp": "Based on the information provided, I recommended Emei Mountain, Huangshan, and Taishan as potential hiking locations. These are not necessarily in the suburbs, but they are excellent places for hiking.",
+        "ref": "I recommended Emei Mountain, Huangshan, and Taishan as good places for hiking in the suburbs."
+    },
+    {
+        "hyp": "Based on the provided context, you enjoy listening to jazz music.",
+        "ref": "You like listening to jazz music."
+    },
+    {
+        "hyp": "On May 6, 2023, you were reading the book \"To Live\".",
+        "ref": "The book you read on May 6th was \"To Live.\""
+    },
+    {
+        "hyp": "On April 30, 2023, you expressed feelings of stress and anxiety due to work. These feelings prompted you to seek methods to relieve stress and relax your mood. Activities such as mindfulness meditation, yoga, listening to music, watching movies, playing games, and getting massages were suggested as potential stress-relieving activities. It was also emphasized that discussing your feelings could help improve your mood and relieve psychological pressure.",
+        "ref": "You asked for methods to relieve stress and relax your mood on April 30th because you were feeling stressed out at work, which sometimes made you feel anxious and overwhelmed."
+    },
+    {
+        "hyp": "Based on the provided contexts, there is no mention of a world history-related game being recommended to you.",
+        "ref": "The world history-related game I recommended to you was \"Civilization.\""
+    }
+]

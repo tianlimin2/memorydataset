@@ -1,0 +1,36 @@
+[
+    {
+      "Q": "How often has the patient experienced anxiety or mood swings recently, and have these episodes increased or decreased since they started monitoring their symptoms?"
+    },
+    {
+      "Q": "Has the patient reported any changes in the frequency or intensity of dizziness or shakiness since beginning their medication, and could this be linked to a change in medication adherence or side effects?"
+    },
+    {
+      "Q": "What patterns can be observed in the patient's heart rate readings, especially during periods of high stress, and how might stress management techniques be helping or needing adjustment?"
+    },
+    {
+      "Q": "Are there any specific trends in the patient's thyroid hormone levels (TSH, T3, T4) over recent tests, and could these indicate the need for a change in treatment approach?"
+    },
+    {
+      "Q": "How regularly has the patient been following the dietary recommendations, and have there been any significant deviations that might correlate with changes in symptom severity?"
+    },
+    {
+      "Q": "Could the increased sweating and fatigue the patient mentioned be a sign of hormone level fluctuation, and how has this impacted their overall comfort and daily activities?"
+    },
+    {
+      "Q": "How effectively has the patient been able to manage their medication schedule, and have there been any recent instances of missed doses that could explain fluctuations in their symptoms?"
+    },
+    {
+      "Q": "How does the patient describe their current mental state, and have there been improvements or deteriorations in mood stability that might warrant additional psychological support or treatment adjustments?"
+    },
+    {
+      "Q": "Has the patient been implementing the physical activity and relaxation techniques suggested, and are there any changes in symptom patterns that could suggest these are working or need to be modified?"
+    },
+    {
+      "Q": "What recent health discussions have the patient and AI assistant engaged in regarding emergency preparedness for a thyroid crisis, and how confident does the patient feel about managing a sudden health issue?"
+    },
+    {
+      "Q": "How have the patient's sleep patterns been recently, and could sleep disturbances be contributing to issues like fatigue, shakiness, or anxiety, thereby impacting their overall health?"
+    }
+  ]
+  

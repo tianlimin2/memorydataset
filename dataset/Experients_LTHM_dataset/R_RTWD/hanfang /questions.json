@@ -1,0 +1,37 @@
+[
+    {
+        "Q": "How has the user’s frequency of exposure to cold weather affected user's asthma symptoms over time?"
+
+    },
+    {
+        "Q": "How often has user been experiencing tightness in user's chest recently, and what patterns have emerged from monitoring these symptoms?"
+
+    },
+    {
+        "Q": "What steps has user taken to reduce exposure to known asthma triggers, and have these measures been effective?"
+    },
+    {
+        "Q": "What potential triggers could be contributing to the increase in sneezing and itchy eyes, and has user observed any patterns?"
+    },
+    {
+        "Q": "Could user’s recent conversation topics around medication use suggest the need for an adjustment in user’s asthma management plan?"
+    },
+    {
+        "Q": "How often does user feel anxious or concerned about user's asthma, and could this be affecting user's overall health?"
+    },
+    {
+        "Q": "What was the impact of exercise on user's asthma before and after user adjusted user’s exercise routine, and has user observed any trends?"
+    },
+    {
+        "Q": "How has user's emotional state been affected by managing user's asthma, and does user feel more or less in control over time?"
+    },
+    {
+        "Q": "What recent environmental factors could have contributed to the worsening of user’s asthma, and how has user responded to these changes?"
+    },
+    {
+        "Q": "What role does stress play in the management of user's asthma, and has user noticed any connection between high-stress periods and flare-ups?"
+    },
+    {
+        "Q": "What feedback did user’s healthcare provider offer after user shared recent trends in user's asthma symptoms, and did it lead to any changes in the management plan?"
+    }
+]

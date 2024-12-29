@@ -1,0 +1,224 @@
+{
+    "nodes": [
+        {
+            "node_id": "0",
+            "node_count": 0,
+            "type_count": 0,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-01 08:40:51",
+            "expiration": "2023-05-31 08:40:51",
+            "last_accessed": "2023-05-01 08:40:51",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "Sun Jie about the increase in his serum creatinine levels, the need to adjust his diet and medication plan, and the importance of monitoring his blood pressure and blood sugar levels to manage his kidney function.",
+            "description": "On May 1, 2023, Sun Jie had a conversation with a medical assistant about his kidney function indicators. His recent blood tests showed slightly increased serum creatinine levels. The assistant suggested adjusting his diet and medication plan due to this change. Sun Jie admitted to sometimes eating foods that were not recommended within his diet plan.\n\nThe assistant proposed a diet with more low-sodium and low-sugar foods to control his blood sugar and kidney function. Specific suggestions included fresh tofu, steamed fish, cooked leafy greens, and a moderate intake of fruits like apples and pears. High-salt and processed foods were to be avoided. \n\nThe assistant recommended continued monitoring of Sun Jie's blood pressure and blood sugar levels to assess the effectiveness of the dietary adjustments. Sun Jie agreed to schedule a comprehensive check-up for the following week.",
+            "embedding_key": "On May 1, 2023, Sun Jie had a conversation with a medical assistant about his kidney function indicators. His recent blood tests showed slightly increased serum creatinine levels. The assistant suggested adjusting his diet and medication plan due to this change. Sun Jie admitted to sometimes eating foods that were not recommended within his diet plan.\n\nThe assistant proposed a diet with more low-sodium and low-sugar foods to control his blood sugar and kidney function. Specific suggestions included fresh tofu, steamed fish, cooked leafy greens, and a moderate intake of fruits like apples and pears. High-salt and processed foods were to be avoided. \n\nThe assistant recommended continued monitoring of Sun Jie's blood pressure and blood sugar levels to assess the effectiveness of the dietary adjustments. Sun Jie agreed to schedule a comprehensive check-up for the following week.",
+            "poignancy": 8,
+            "keywords": [
+                "Sun Jie about the increase in his serum creatinine levels, the need to adjust his diet and medication plan, and the importance of monitoring his blood pressure and blood sugar levels to manage his kidney function.",
+                "The assistant",
+                "discussed with"
+            ],
+            "filling": "Assistant: Good morning, Sun Jie. Let's start by reviewing your latest kidney function indicators. Have you had any tests done recently? Please share your results. User: Yes, I had a blood test yesterday, and my serum creatinine levels have slightly increased. Assistant: Thank you for the information. It looks like we might need to adjust your diet and medication plan. Have you been following the diet plan we discussed last time? User: I try to, but sometimes I still eat things I shouldn't. Assistant: I understand the challenges. To help you better control your blood sugar and kidney function, we can try incorporating more low-sodium and low-sugar foods. What do you think about this? User: Sounds good, can you give me some specific food suggestions? Assistant: Of course. You can increase your intake of foods like fresh tofu, steamed fish, and cooked leafy greens. Avoid high-salt and processed foods. Additionally, maintaining a moderate intake of fruits like apples and pears can help control blood sugar. User: I'll try those suggestions. Thank you for your help! Assistant: I'm glad to help. I recommend we continue monitoring your blood pressure and blood sugar levels so we can ensure these adjustments are having a positive effect. When do you think we should schedule your next check-up? User: I'd like to do a comprehensive check-up early next week."
+        },
+        {
+            "node_id": "1",
+            "node_count": 1,
+            "type_count": 1,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-03 04:03:23",
+            "expiration": "2023-06-02 04:03:23",
+            "last_accessed": "2023-05-03 04:03:23",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "Sun Jie about her fatigue possibly related to dietary changes, the importance of a balanced diet, regular monitoring of blood sugar and blood pressure, and the suggestion to include iron-rich foods in her diet.",
+            "description": "On 2023-05-03, the assistant scheduled a comprehensive health check-up for Sun Jie for the following Monday. Sun Jie reported feeling tired, which could be associated with recent dietary changes. The assistant recommended ensuring meals include enough protein and complex carbohydrates for maintaining energy levels. Sun Jie's typical meal includes oatmeal and an egg for breakfast and a chicken salad for lunch. The assistant advised including a variety of foods for essential nutrients. \n\nSun Jie monitors blood sugar and blood pressure daily with stable readings. Due to the reported fatigue, the assistant suggested adding iron-rich foods like lean beef and spinach to boost energy levels. Sun Jie agreed to make this dietary adjustment. The assistant will continue to monitor Sun Jie's response to these changes and review the effects during the check-up the following week.",
+            "embedding_key": "On 2023-05-03, the assistant scheduled a comprehensive health check-up for Sun Jie for the following Monday. Sun Jie reported feeling tired, which could be associated with recent dietary changes. The assistant recommended ensuring meals include enough protein and complex carbohydrates for maintaining energy levels. Sun Jie's typical meal includes oatmeal and an egg for breakfast and a chicken salad for lunch. The assistant advised including a variety of foods for essential nutrients. \n\nSun Jie monitors blood sugar and blood pressure daily with stable readings. Due to the reported fatigue, the assistant suggested adding iron-rich foods like lean beef and spinach to boost energy levels. Sun Jie agreed to make this dietary adjustment. The assistant will continue to monitor Sun Jie's response to these changes and review the effects during the check-up the following week.",
+            "poignancy": 7,
+            "keywords": [
+                "Sun Jie about her fatigue possibly related to dietary changes, the importance of a balanced diet, regular monitoring of blood sugar and blood pressure, and the suggestion to include iron-rich foods in her diet.",
+                "The assistant",
+                "discussed with"
+            ],
+            "filling": "Assistant: Good morning, Sun Jie. We've scheduled a comprehensive health check-up for next Monday. Have you noticed any physical changes or discomfort since our last conversation? User: I feel a bit tired, not sure if it's related to the dietary changes. Assistant: Fatigue can be related to various factors, including dietary changes. Make sure your meals include enough protein and complex carbohydrates, which are important for maintaining energy levels. Can you describe a typical meal you've had recently? User: For breakfast, I had some oatmeal and an egg, and for lunch, I had a chicken salad. Assistant: That sounds quite healthy. Ensure your diet includes a variety of foods to make sure you're getting all essential nutrients. Do you regularly monitor your blood sugar and blood pressure? User: I measure them daily, and my readings have been fairly stable recently. Assistant: That's a great practice, keep it up. Considering the fatigue you mentioned, I suggest adding some iron-rich foods like lean beef and spinach to help boost your energy levels. Do you think this adjustment is feasible? User: I'm willing to try. I'll add those foods to my diet. Assistant: Great! We'll continue to monitor your body's response, and we'll review the effects during your check-up next week. If you have any questions or discomfort before then, please let me know. Good night, Sun Jie. User: Thank you, good night."
+        },
+        {
+            "node_id": "2",
+            "node_count": 2,
+            "type_count": 2,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-05 00:37:26",
+            "expiration": "2023-06-04 00:37:26",
+            "last_accessed": "2023-05-05 00:37:26",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "Sun Jie about the improvements in her energy levels due to dietary and lifestyle changes, the stability of her blood sugar levels, the importance of regular blood pressure monitoring for cardiovascular health, and the absence of protein in her urine indicating stable kidney function.",
+            "description": "Summary:\n\nOn May 5, 2023, Sun Jie reported feeling more energized and improved stamina due to recent dietary and lifestyle adjustments. The assistant emphasized the importance of maintaining these healthy habits for long-term health. \n\nSun Jie's blood sugar readings were discussed, with Sun Jie reporting stable readings after each meal, within the normal range. The assistant stressed the importance of keeping blood sugar stable to prevent diabetes complications. \n\nThe conversation also touched on cardiovascular health, with Sun Jie stating that daily blood pressure readings have been relatively stable. Regular blood pressure monitoring was identified as key to maintaining cardiovascular health. \n\nThe assistant reviewed Sun Jie's urinalysis results, with Sun Jie confirming a recent test showed no protein in their urine, indicating stable kidney function. The assistant encouraged Sun Jie to continue following the current recommendations and maintaining a healthy lifestyle, with ongoing health indicator monitoring. \n\nThroughout the conversation, Sun Jie expressed feelings of reassurance and gratitude for the assistant's support and guidance.",
+            "embedding_key": "Summary:\n\nOn May 5, 2023, Sun Jie reported feeling more energized and improved stamina due to recent dietary and lifestyle adjustments. The assistant emphasized the importance of maintaining these healthy habits for long-term health. \n\nSun Jie's blood sugar readings were discussed, with Sun Jie reporting stable readings after each meal, within the normal range. The assistant stressed the importance of keeping blood sugar stable to prevent diabetes complications. \n\nThe conversation also touched on cardiovascular health, with Sun Jie stating that daily blood pressure readings have been relatively stable. Regular blood pressure monitoring was identified as key to maintaining cardiovascular health. \n\nThe assistant reviewed Sun Jie's urinalysis results, with Sun Jie confirming a recent test showed no protein in their urine, indicating stable kidney function. The assistant encouraged Sun Jie to continue following the current recommendations and maintaining a healthy lifestyle, with ongoing health indicator monitoring. \n\nThroughout the conversation, Sun Jie expressed feelings of reassurance and gratitude for the assistant's support and guidance.",
+            "poignancy": 9,
+            "keywords": [
+                "Sun Jie about the improvements in her energy levels due to dietary and lifestyle changes, the stability of her blood sugar levels, the importance of regular blood pressure monitoring for cardiovascular health, and the absence of protein in her urine indicating stable kidney function.",
+                "The assistant",
+                "discussed with"
+            ],
+            "filling": "Assistant: Good morning, Sun Jie. With the recent dietary and lifestyle adjustments, have you noticed any improvement in your physical or mental energy? User: Good morning, yes, I feel more energized, and my stamina has improved. Assistant: It's great to hear such positive feedback! Maintaining healthy eating habits is crucial for your long-term health. Now, let's check your blood sugar control. How have your recent blood sugar readings been? User: My readings have been stable recently. I make sure to monitor after each meal, and they're within the normal range. Assistant: That's an excellent result. Keeping your blood sugar stable is vital for preventing diabetes complications. We should also keep an eye on your cardiovascular health. Have you checked your blood pressure recently? User: I monitor it daily, and the recent readings have been relatively stable. Assistant: That's another positive sign. Regular blood pressure monitoring is key to maintaining cardiovascular health. Now, let's review your urinalysis results. Have you had a urine test recently? User: Yes, I had a test last week, and there was no protein in my urine, which reassured me. Assistant: I'm glad to hear there was no proteinuria. This indicates that your kidney function is stable for now. Continue following our recommendations and maintaining a healthy lifestyle. We'll keep monitoring your health indicators. Good night, Sun Jie. User: Thank you for your support and guidance, good night."
+        },
+        {
+            "node_id": "3",
+            "node_count": 3,
+            "type_count": 3,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-07 01:25:04",
+            "expiration": "2023-06-06 01:25:04",
+            "last_accessed": "2023-05-07 01:25:04",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "Sun Jie about optimizing her diet plan, monitoring her blood sugar levels, and maintaining regular physical activity to control her blood sugar levels.",
+            "description": "Date: 2023-05-07\n\nSun Jie discussed her recent dietary changes with her assistant, noting that she has been trying low-salt, low-sugar recipes. The assistant commended these changes, noting that they can help control blood pressure and blood sugar levels. Sun Jie's most recent blood sugar reading, taken two hours after dinner, was slightly high at 7.2 mmol/L. The assistant suggested further dietary adjustments, particularly in the carbohydrate intake during dinner, and recommended increasing fiber and protein intake by consuming lean meat and more leafy greens.\n\nSun Jie reported that she has been consistent with her exercise routine, which includes a 30-minute daily walk and gym sessions twice a week. The assistant praised these habits and encouraged Sun Jie to maintain her positive attitude and continue with her routine. The assistant reiterated the importance of regular monitoring and adjustments to the treatment plan for effective blood sugar control.",
+            "embedding_key": "Date: 2023-05-07\n\nSun Jie discussed her recent dietary changes with her assistant, noting that she has been trying low-salt, low-sugar recipes. The assistant commended these changes, noting that they can help control blood pressure and blood sugar levels. Sun Jie's most recent blood sugar reading, taken two hours after dinner, was slightly high at 7.2 mmol/L. The assistant suggested further dietary adjustments, particularly in the carbohydrate intake during dinner, and recommended increasing fiber and protein intake by consuming lean meat and more leafy greens.\n\nSun Jie reported that she has been consistent with her exercise routine, which includes a 30-minute daily walk and gym sessions twice a week. The assistant praised these habits and encouraged Sun Jie to maintain her positive attitude and continue with her routine. The assistant reiterated the importance of regular monitoring and adjustments to the treatment plan for effective blood sugar control.",
+            "poignancy": 8,
+            "keywords": [
+                "Sun Jie about optimizing her diet plan, monitoring her blood sugar levels, and maintaining regular physical activity to control her blood sugar levels.",
+                "The assistant",
+                "discussed with"
+            ],
+            "filling": "Assistant: Good morning, Sun Jie. Today, let's focus on adjusting and optimizing your diet plan. Have you tried any new healthy recipes or foods recently? User: Good morning, I've recently tried some low-salt, low-sugar recipes and found them quite good. Assistant: I'm glad you're experimenting with new recipes. A low-salt, low-sugar diet helps control blood pressure and blood sugar, which is highly beneficial for your health. Let's also continue monitoring your blood sugar levels. Can you share your most recent blood sugar reading? User: I measured it last night, and the result was 7.2 mmol/L, which was two hours after dinner. Assistant: That reading is slightly high. We might need to further adjust your dinner, especially the carbohydrate intake. Increasing fiber and protein can help stabilize blood sugar. How about trying lean meat and more leafy greens tonight? User: That sounds good. I'll adjust my dinner as you suggested. Assistant: Excellent, proper dietary adjustments can significantly impact blood sugar control. Regular physical activity is also important. Have you been consistent with your exercise routine? User: Yes, I walk for 30 minutes daily and go to the gym twice a week. Assistant: Those are great exercise habits that contribute to overall health improvement. We'll continue tracking your progress and adjust the treatment plan as needed. Please keep up the positive attitude. Good night, Sun Jie. User: Thanks for the encouragement, good night."
+        },
+        {
+            "node_id": "4",
+            "node_count": 4,
+            "type_count": 4,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-09 12:27:29",
+            "expiration": "2023-06-08 12:27:29",
+            "last_accessed": "2023-05-09 12:27:29",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "Sun Jie about his kidney function, blood sugar management, blood pressure, and urine test results, all of which are currently stable and within normal ranges.",
+            "description": "Date: 2023-05-09\n\nSun Jie had a kidney function test last weekend, and both serum creatinine and urea nitrogen were within the normal range, indicating stable kidney function. Sun Jie's blood sugar management for the week showed an average around 6.8 mmol/L, which is good control for preventing diabetes complications. Recent blood pressure readings were stable, usually around 120/80 mmHg, which is crucial for maintaining cardiovascular health. Sun Jie's recent urine test showed no proteinuria, indicating improved health. The assistant advised Sun Jie to continue following their advice and have regular check-ups to ensure health indicators stay on track. Sun Jie expressed feelings of improvement in health and gratitude for the support.",
+            "embedding_key": "Date: 2023-05-09\n\nSun Jie had a kidney function test last weekend, and both serum creatinine and urea nitrogen were within the normal range, indicating stable kidney function. Sun Jie's blood sugar management for the week showed an average around 6.8 mmol/L, which is good control for preventing diabetes complications. Recent blood pressure readings were stable, usually around 120/80 mmHg, which is crucial for maintaining cardiovascular health. Sun Jie's recent urine test showed no proteinuria, indicating improved health. The assistant advised Sun Jie to continue following their advice and have regular check-ups to ensure health indicators stay on track. Sun Jie expressed feelings of improvement in health and gratitude for the support.",
+            "poignancy": 9,
+            "keywords": [
+                "Sun Jie about his kidney function, blood sugar management, blood pressure, and urine test results, all of which are currently stable and within normal ranges.",
+                "The assistant",
+                "discussed with"
+            ],
+            "filling": "Assistant: Good morning, Sun Jie. Let's update your kidney function test results. Have you had any new tests done recently? User: Good morning, I had a test last weekend, and both serum creatinine and urea nitrogen were within the normal range. Assistant: That's great news, indicating that your kidney function remains stable. Now, let's review your blood sugar management. How have you been controlling your blood sugar this week? User: This week, I've managed my blood sugar well, with an average around 6.8 mmol/L. Assistant: Excellent blood sugar control is essential for preventing diabetes complications. Keep up the good work! Next, I'd like to check on your blood pressure. What have your recent readings been? User: My blood pressure has also been stable lately, usually around 120/80 mmHg. Assistant: Great, maintaining normal blood pressure is crucial for cardiovascular health. Now let's talk about your urine test results. Did you notice any abnormalities? User: My recent urine test showed no proteinuria, and I feel like my health is improving. Assistant: I'm glad to hear such positive results. Continue following our advice and have regular check-ups. We'll keep monitoring your health indicators to ensure everything stays on track. Good night, Sun Jie. User: Thank you for your support, good night."
+        },
+        {
+            "node_id": "5",
+            "node_count": 5,
+            "type_count": 5,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-11 02:34:04",
+            "expiration": "2023-06-10 02:34:04",
+            "last_accessed": "2023-05-11 02:34:04",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "Sun Jie about her dietary habits, blood sugar levels, blood pressure, and urine test results in relation to her chronic conditions.",
+            "description": "On May 11, 2023, the conversation focused on Sun Jie's health, specifically regarding dietary habits, blood sugar levels, blood pressure, and urine tests. Sun Jie mentioned planning to try low-GI foods to better control blood sugar levels. The assistant confirmed that low-GI foods can help stabilize blood sugar levels. Sun Jie's blood sugar monitoring results from the previous day were within the normal range, indicating good control. \n\nThe conversation also touched on blood pressure, which Sun Jie reported as being stable with no significant fluctuations. This stability is essential in reducing cardiovascular risk. \n\nSun Jie had a urine test earlier in the week, with all results coming back normal with no abnormalities. The assistant emphasized the importance of maintaining good lifestyle habits and regular check-ups for managing chronic conditions. \n\nNo specific symptoms, feelings, emotional states, side effects, or medication advice were mentioned in the conversation. No specific exercise recommendations or activities were discussed either.",
+            "embedding_key": "On May 11, 2023, the conversation focused on Sun Jie's health, specifically regarding dietary habits, blood sugar levels, blood pressure, and urine tests. Sun Jie mentioned planning to try low-GI foods to better control blood sugar levels. The assistant confirmed that low-GI foods can help stabilize blood sugar levels. Sun Jie's blood sugar monitoring results from the previous day were within the normal range, indicating good control. \n\nThe conversation also touched on blood pressure, which Sun Jie reported as being stable with no significant fluctuations. This stability is essential in reducing cardiovascular risk. \n\nSun Jie had a urine test earlier in the week, with all results coming back normal with no abnormalities. The assistant emphasized the importance of maintaining good lifestyle habits and regular check-ups for managing chronic conditions. \n\nNo specific symptoms, feelings, emotional states, side effects, or medication advice were mentioned in the conversation. No specific exercise recommendations or activities were discussed either.",
+            "poignancy": 8,
+            "keywords": [
+                "Sun Jie about her dietary habits, blood sugar levels, blood pressure, and urine test results in relation to her chronic conditions.",
+                "The assistant",
+                "discussed with"
+            ],
+            "filling": "Assistant: Good morning, Sun Jie. Let's continue focusing on your dietary habits. Do you have any plans to try new healthy foods today? User: Good morning. I plan to try some new low-GI foods, hoping they will help me better control my blood sugar. Assistant: That sounds like a great plan. Low-GI foods can help stabilize blood sugar levels, which is a good choice for you. How did your blood sugar monitoring results look yesterday? User: Yesterday's results were good; my blood sugar stayed within the normal range all day. Assistant: Maintaining stable blood sugar is crucial. Now, let’s talk about your blood pressure. Have there been any changes recently? User: My blood pressure has been very stable lately, with no major fluctuations. Assistant: Maintaining stable blood pressure is vital for reducing cardiovascular risk. Regarding urine tests, have you had any recent tests? User: Yes, I had a urine test this week, and everything came back normal, with no abnormalities. Assistant: That's excellent news. Maintaining good lifestyle habits and regular check-ups are key to managing chronic conditions. We will continue to monitor your health progress. Good night, Sun Jie. User: Thank you very much. Good night."
+        },
+        {
+            "node_id": "6",
+            "node_count": 6,
+            "type_count": 6,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-13 05:24:31",
+            "expiration": "2023-06-12 05:24:31",
+            "last_accessed": "2023-05-13 05:24:31",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "Sun Jie about the stability of his kidney function, blood sugar control, blood pressure, and urine test results related to his kidney disease and diabetes.",
+            "description": "Summary:\n\nOn 2023-05-13, Sun Jie and the assistant discussed Sun Jie's recent medical tests and health status. Sun Jie reported stable kidney function, indicating good long-term health. The assistant emphasized the importance of this stability. Sun Jie also reported that his blood sugar levels were within the recommended range, which is crucial for preventing diabetes-related complications. \n\nThe assistant inquired about Sun Jie's blood pressure, which was reported to be good with no abnormalities. Ideal blood pressure levels are important for overall health. They also discussed recent urine tests, which showed no signs of proteinuria or other issues, suggesting an improvement in Sun Jie's condition. \n\nThe assistant advised Sun Jie to continue maintaining a healthy lifestyle for consistent improvement and reassured him that they would keep monitoring his health status. No specific dietary, exercise recommendations or medications were discussed in this conversation.",
+            "embedding_key": "Summary:\n\nOn 2023-05-13, Sun Jie and the assistant discussed Sun Jie's recent medical tests and health status. Sun Jie reported stable kidney function, indicating good long-term health. The assistant emphasized the importance of this stability. Sun Jie also reported that his blood sugar levels were within the recommended range, which is crucial for preventing diabetes-related complications. \n\nThe assistant inquired about Sun Jie's blood pressure, which was reported to be good with no abnormalities. Ideal blood pressure levels are important for overall health. They also discussed recent urine tests, which showed no signs of proteinuria or other issues, suggesting an improvement in Sun Jie's condition. \n\nThe assistant advised Sun Jie to continue maintaining a healthy lifestyle for consistent improvement and reassured him that they would keep monitoring his health status. No specific dietary, exercise recommendations or medications were discussed in this conversation.",
+            "poignancy": 5,
+            "keywords": [
+                "Sun Jie about the stability of his kidney function, blood sugar control, blood pressure, and urine test results related to his kidney disease and diabetes.",
+                "The assistant",
+                "discussed with"
+            ],
+            "filling": "Assistant: Good morning, Sun Jie. Let's start with the latest on your kidney function. Have you had any recent kidney function tests? User: Good morning. Yes, my recent tests show that my kidney function indicators are stable. Assistant: That's good news; stable kidney function is crucial for long-term health. Continuing on, how has your blood sugar control been these past few days? User: I've been closely monitoring it, and my blood sugar levels are within the recommended range. Assistant: Great, maintaining stable blood sugar is very important for preventing diabetes-related complications. How about your blood pressure? Have you noticed any abnormalities recently? User: My blood pressure has been very good recently, with no abnormalities. Assistant: Maintaining ideal blood pressure levels is excellent. Now, regarding urine tests, have there been any new findings of proteinuria or other issues? User: Recent urine tests are still normal, with no proteinuria or other problems detected. Assistant: Excellent urine test results indicate that your condition is improving. Continue maintaining a healthy lifestyle, and we will keep monitoring your health status. Good night, Sun Jie. User: Thank you for your ongoing concern. Good night."
+        },
+        {
+            "node_id": "7",
+            "node_count": 7,
+            "type_count": 7,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-15 11:36:02",
+            "expiration": "2023-06-14 11:36:02",
+            "last_accessed": "2023-05-15 11:36:02",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "Sun Jie about her diet, blood sugar control, blood pressure monitoring, and urine tests in relation to her cardiovascular health and diabetes management.",
+            "description": "On May 15, 2023, the conversation between Sun Jie and the Assistant focused on dietary habits, medical monitoring, and overall health. Sun Jie has introduced more Omega-3 rich foods like salmon and flaxseeds into her diet, which are beneficial for cardiovascular health. She has also managed to decrease and control her blood sugar levels through dietary changes. Sun Jie monitors her blood pressure daily, and it has remained stable. Her recent urine tests also showed no issues, indicating overall good health. The Assistant stressed the importance of continuous monitoring of blood sugar and blood pressure levels for preventing diabetes complications and understanding cardiovascular health. The Assistant also encouraged Sun Jie to maintain her healthy habits and scheduled a follow-up for the next day.",
+            "embedding_key": "On May 15, 2023, the conversation between Sun Jie and the Assistant focused on dietary habits, medical monitoring, and overall health. Sun Jie has introduced more Omega-3 rich foods like salmon and flaxseeds into her diet, which are beneficial for cardiovascular health. She has also managed to decrease and control her blood sugar levels through dietary changes. Sun Jie monitors her blood pressure daily, and it has remained stable. Her recent urine tests also showed no issues, indicating overall good health. The Assistant stressed the importance of continuous monitoring of blood sugar and blood pressure levels for preventing diabetes complications and understanding cardiovascular health. The Assistant also encouraged Sun Jie to maintain her healthy habits and scheduled a follow-up for the next day.",
+            "poignancy": 8,
+            "keywords": [
+                "Sun Jie about her diet, blood sugar control, blood pressure monitoring, and urine tests in relation to her cardiovascular health and diabetes management.",
+                "The assistant",
+                "discussed with"
+            ],
+            "filling": "Assistant: Good morning, Sun Jie. Today, let’s focus on your diet. Have you tried any new healthy foods recently? User: Good morning. Yes, I've started eating more foods rich in Omega-3, like salmon and flaxseeds. Assistant: That’s a great choice; Omega-3 fatty acids are very beneficial for cardiovascular health. How has your blood sugar control been recently? User: After working on my diet, my blood sugar levels have decreased and are now well-controlled. Assistant: Controlling blood sugar is crucial for preventing diabetes complications. Also, have you been monitoring your blood pressure regularly? Any fluctuations? User: Yes, I monitor it daily, and my blood pressure has been stable. Assistant: Continuous monitoring of blood pressure is very important; it helps us understand your cardiovascular health better. Any updates on your urine tests? User: Recent urine tests are still normal, with no issues detected. Assistant: It’s great to hear that all these values are normal. Remember to continue maintaining healthy habits. We’ll follow up tomorrow. Good night, Sun Jie. User: Got it. Thanks for your help. Good night."
+        },
+        {
+            "node_id": "8",
+            "node_count": 8,
+            "type_count": 8,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-17 06:06:33",
+            "expiration": "2023-06-16 06:06:33",
+            "last_accessed": "2023-05-17 06:06:33",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "Sun Jie about his kidney function indicators, blood sugar management, blood pressure monitoring, and urine analysis results.",
+            "description": "Summary:\n\nOn 2023-05-17, the conversation between Sun Jie and the assistant centered on Sun Jie's kidney function indicators. The latest test results showed a decrease in Sun Jie's blood creatinine levels, indicating improved kidney function. \n\nThe conversation also touched on blood sugar management, where Sun Jie reported a more stable blood sugar level after reducing carbohydrate intake. The assistant affirmed this as an effective strategy for blood sugar control. \n\nSun Jie's blood pressure was discussed, and it was reported to be within the normal range, maintained through daily monitoring. \n\nHowever, Sun Jie's recent urine test revealed an increase in urine protein, causing some concern. The assistant noted that this could be a sign of kidney function impairment and recommended consulting with a doctor and potentially adjusting the treatment plan. \n\nNo specific exercise routines, activities, or emotional states were discussed in this conversation. Similarly, no medication advice was given.",
+            "embedding_key": "Summary:\n\nOn 2023-05-17, the conversation between Sun Jie and the assistant centered on Sun Jie's kidney function indicators. The latest test results showed a decrease in Sun Jie's blood creatinine levels, indicating improved kidney function. \n\nThe conversation also touched on blood sugar management, where Sun Jie reported a more stable blood sugar level after reducing carbohydrate intake. The assistant affirmed this as an effective strategy for blood sugar control. \n\nSun Jie's blood pressure was discussed, and it was reported to be within the normal range, maintained through daily monitoring. \n\nHowever, Sun Jie's recent urine test revealed an increase in urine protein, causing some concern. The assistant noted that this could be a sign of kidney function impairment and recommended consulting with a doctor and potentially adjusting the treatment plan. \n\nNo specific exercise routines, activities, or emotional states were discussed in this conversation. Similarly, no medication advice was given.",
+            "poignancy": 8,
+            "keywords": [
+                "Sun Jie about his kidney function indicators, blood sugar management, blood pressure monitoring, and urine analysis results.",
+                "The assistant",
+                "discussed with"
+            ],
+            "filling": "Assistant: Good morning, Sun Jie. Let’s continue focusing on your kidney function indicators. Please update me on your recent test results. User: Good morning. My latest test shows a slight decrease in blood creatinine levels, which should be good news. Assistant: Indeed, a decrease in blood creatinine usually indicates improved kidney function. Now, let’s talk about your blood sugar management. Have you faced any new changes or challenges recently? User: I’ve been trying to reduce carbohydrate intake, and my blood sugar seems more stable now. Assistant: Reducing carbohydrates is an effective strategy for blood sugar control. How about your blood pressure? Any new readings? User: I’m still monitoring it daily, and my blood pressure continues to be in the normal range. Assistant: Stable blood pressure is crucial for preventing cardiovascular diseases. Now, regarding urine analysis, have there been any new findings? User: The recent urine test shows a slight increase in urine protein, which worries me a bit. Assistant: We need to pay attention to this issue. An increase in urine protein could be a sign of kidney function impairment. I recommend consulting your doctor and possibly adjusting your treatment plan. Good night, Sun Jie. User: I will. Thank you for the advice. Good night."
+        },
+        {
+            "node_id": "9",
+            "node_count": 9,
+            "type_count": 9,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-19 06:15:48",
+            "expiration": "2023-06-18 06:15:48",
+            "last_accessed": "2023-05-19 06:15:48",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "Sun Jie about his adherence to the new treatment plan, dietary adjustments for blood sugar control, daily blood pressure monitoring, and the importance of regular urine tests in managing his chronic kidney disease.",
+            "description": "On May 19, 2023, the conversation focused on Sun Jie's health condition, particularly regarding blood sugar, blood pressure, and urine protein issues. Sun Jie reported that they had seen their doctor the previous day and adjusted their treatment plan, which made them feel reassured. \n\nIn terms of dietary adjustments, Sun Jie had increased their intake of low-GI foods following the doctor's advice, aiming to stabilize their blood sugar levels. They also mentioned that they had been monitoring their blood pressure daily, which remained stable with no fluctuations. Stable blood pressure is a positive indicator as it reduces the risk of chronic kidney disease.\n\nRegarding the urine protein issue, Sun Jie had not yet had another test since the adjustment of their treatment plan but reported feeling an improvement in their condition. The assistant emphasized the importance of positivity and reminded Sun Jie to get timely urine tests to monitor their progress. The assistant also encouraged Sun Jie to maintain a healthy lifestyle. \n\nNo specific exercise routines, medication advice, or side effects were mentioned in the conversation.",
+            "embedding_key": "On May 19, 2023, the conversation focused on Sun Jie's health condition, particularly regarding blood sugar, blood pressure, and urine protein issues. Sun Jie reported that they had seen their doctor the previous day and adjusted their treatment plan, which made them feel reassured. \n\nIn terms of dietary adjustments, Sun Jie had increased their intake of low-GI foods following the doctor's advice, aiming to stabilize their blood sugar levels. They also mentioned that they had been monitoring their blood pressure daily, which remained stable with no fluctuations. Stable blood pressure is a positive indicator as it reduces the risk of chronic kidney disease.\n\nRegarding the urine protein issue, Sun Jie had not yet had another test since the adjustment of their treatment plan but reported feeling an improvement in their condition. The assistant emphasized the importance of positivity and reminded Sun Jie to get timely urine tests to monitor their progress. The assistant also encouraged Sun Jie to maintain a healthy lifestyle. \n\nNo specific exercise routines, medication advice, or side effects were mentioned in the conversation.",
+            "poignancy": 8,
+            "keywords": [
+                "Sun Jie about his adherence to the new treatment plan, dietary adjustments for blood sugar control, daily blood pressure monitoring, and the importance of regular urine tests in managing his chronic kidney disease.",
+                "The assistant",
+                "discussed with"
+            ],
+            "filling": "Assistant: Good morning, Sun Jie. How did you sleep last night? Have you followed the doctor’s advice regarding the urine protein issue? User: Good morning. I saw the doctor yesterday, and we adjusted my treatment plan. I feel more reassured now. Assistant: I’m glad to hear that you’ve taken action and feel reassured. Now, back to your diet management, have you made any new adjustments or changes? User: Yes, following the doctor’s advice, I’ve increased more low-GI foods to help stabilize my blood sugar. Assistant: Low-GI foods are a good choice for blood sugar control. Are you still monitoring your blood pressure daily? Have you noticed any fluctuations? User: I’m still monitoring it every day, and my blood pressure remains stable with no fluctuations. Assistant: Stable blood pressure is excellent, as it helps reduce the risk of chronic kidney disease. Have the new treatment plans had any impact on your urine test results? User: I haven’t had another test yet, but I feel that my condition has improved. Assistant: Staying positive is important, and make sure to get timely urine tests to monitor progress. Maintain a healthy lifestyle, and we’ll talk again tomorrow. Good night, Sun Jie. User: Okay, thanks for your concern. Good night."
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "nodes": [
+        {
+            "node_id": "0",
+            "node_count": 0,
+            "type_count": 0,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-04-27 10:01:23",
+            "expiration": "2023-05-27 10:01:23",
+            "last_accessed": "2023-04-27 10:01:23",
+            "subject": "The assistant",
+            "predicate": "discussed and recommended books related to",
+            "object": "Emily's hobbies of painting, playing piano, and tea tasting.",
+            "description": "The conversation took place on 2023-04-27 between Emily and her AI companion. Emily expressed her interests in painting, playing piano, and tea tasting, and asked for book recommendations. She stated her preference for artistic works, mentioning \"The Great Gatsby\" as an example. In response, the AI recommended \"The Little Prince\" and \"Pride and Prejudice,\" describing them as interesting and emotionally rich. Emily expressed gratitude for the recommendations and indicated she would explore them. There were no specific activities or their durations mentioned in the conversation.",
+            "embedding_key": "The conversation took place on 2023-04-27 between Emily and her AI companion. Emily expressed her interests in painting, playing piano, and tea tasting, and asked for book recommendations. She stated her preference for artistic works, mentioning \"The Great Gatsby\" as an example. In response, the AI recommended \"The Little Prince\" and \"Pride and Prejudice,\" describing them as interesting and emotionally rich. Emily expressed gratitude for the recommendations and indicated she would explore them. There were no specific activities or their durations mentioned in the conversation.",
+            "poignancy": 3,
+            "keywords": [
+                "The assistant",
+                "Emily's hobbies of painting, playing piano, and tea tasting.",
+                "discussed and recommended books related to"
+            ],
+            "filling": "Date: 2023-04-27\n\nQuery: Hello, my name is Emily. Nice to meet you.\nResponse: Hello, Emily. I'm your AI companion. Can I assist you in any way?\n\nQuery: I really enjoy painting, playing piano and tea tasting. Do you have any good book recommendations for me?\nResponse: Certainly, there are many books about painting techniques, piano playing and tea knowledge that I can recommend to you. Do you prefer specific technical guidance or more artistic works?\n\nQuery: I prefer artistic works, like \"The Great Gatsby\" which is full of charm.\nResponse: Then I recommend \"The Little Prince\" and \"Pride and Prejudice\". Both of these books are very interesting and full of emotions.\n\nQuery: Okay, thank you for your recommendations. I will take a look.\nResponse: You're welcome. If you have any other needs, feel free to let me know.\n\n"
+        },
+        {
+            "node_id": "1",
+            "node_count": 1,
+            "type_count": 1,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-04-28 17:00:49",
+            "expiration": "2023-05-28 17:00:49",
+            "last_accessed": "2023-04-28 17:00:49",
+            "subject": "The assistant",
+            "predicate": "discussed",
+            "object": "the user's hobbies of walking in the park and reading, specifically the novel \"Silent Separation\", and their emotional engagement with the novel's character development.",
+            "description": "The conversation took place on April 28, 2023, between a user and their AI companion. The user began by sharing their experience of a walk in Green Meadow Park where they admired the beauty of a blooming cherry blossom and a squirrel. The AI expressed its inability to physically visit the park due to its artificial nature.\n\nIn addition to walking in the park, the user also mentioned their hobby of reading. They are currently reading a love novel titled \"Silent Separation\". They found the emotional changes of the main character, from melancholy to optimism and confidence after seeing the girl he liked, to be the most interesting aspect of the novel. The AI showed interest in the novel as well. There were no specific activities and their durations mentioned. The overall tone of the conversation was friendly and engaging.",
+            "embedding_key": "The conversation took place on April 28, 2023, between a user and their AI companion. The user began by sharing their experience of a walk in Green Meadow Park where they admired the beauty of a blooming cherry blossom and a squirrel. The AI expressed its inability to physically visit the park due to its artificial nature.\n\nIn addition to walking in the park, the user also mentioned their hobby of reading. They are currently reading a love novel titled \"Silent Separation\". They found the emotional changes of the main character, from melancholy to optimism and confidence after seeing the girl he liked, to be the most interesting aspect of the novel. The AI showed interest in the novel as well. There were no specific activities and their durations mentioned. The overall tone of the conversation was friendly and engaging.",
+            "poignancy": 4,
+            "keywords": [
+                "discussed",
+                "the user's hobbies of walking in the park and reading, specifically the novel \"Silent Separation\", and their emotional engagement with the novel's character development.",
+                "The assistant"
+            ],
+            "filling": "Date: 2023-04-28\n\nQuery: Hi, AI companion. Today I went for a walk in the park and saw some beautiful scenery. I'd love to share it with you.\nResponse: Great! Which park did you go to and what interesting scenery did you see?\n\nQuery: I went to Green Meadow Park and saw a particularly beautiful blooming cherry blossom and a super cute squirrel!\nResponse: Awesome! Hearing you describe it makes me want to go for a walk in the park too!\n\nQuery: If you ever have the chance, you should definitely come to Green Meadow Park. The scenery there is really beautiful.\nResponse: I'm sorry, as an AI companion, I can't go for a walk in the park in person. But thanks for the recommendation. Do you have any other hobbies besides walking in the park?\n\nQuery: I also love to read. I'm currently reading a novel about love called \"Silent Separation\". It's very emotionally engaging.\nResponse: Reading novels can really make a person's emotions fluctuate. What do you think is the most interesting aspect of this novel?\n\nQuery: I think the most interesting part is the emotional changes of the main character. At first, he was melancholic, but after seeing the girl he liked, he became optimistic and confident.\nResponse: It sounds like a really good novel. I also want to go take a look at it.\n\n"
+        },
+        {
+            "node_id": "2",
+            "node_count": 2,
+            "type_count": 2,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-04-29 11:00:44",
+            "expiration": "2023-05-29 11:00:44",
+            "last_accessed": "2023-04-29 11:00:44",
+            "subject": "The assistant",
+            "predicate": "discussed cooking and recipe sharing",
+            "object": "with the user",
+            "description": "The conversation on April 29, 2023, primarily revolved around cooking, specifically the preparation of steamed sea bass and spicy chicken, and the exploration of Sichuan and Hunan cuisine. The person who initiated the conversation shared their recipe for steamed sea bass, which involved cleaning the fish, cutting and stuffing it with scallions, ginger, and garlic, marinating it with salt and cooking wine, and finally steaming it for 10 minutes. They also mentioned that they usually pair the dish with light vegetables such as zucchini or broccoli. \n\nIn addition to the sea bass recipe, they also mentioned that they are learning Sichuan and Hunan cuisine and have mastered a dish called spicy chicken. The AI companion expressed interest in trying the recipes and asked for further cooking tips. No books, movies, or novels were mentioned in the conversation. The tone of the conversation was friendly and collaborative, with the AI companion expressing gratitude for the shared information and the initiator offering further help if needed.",
+            "embedding_key": "The conversation on April 29, 2023, primarily revolved around cooking, specifically the preparation of steamed sea bass and spicy chicken, and the exploration of Sichuan and Hunan cuisine. The person who initiated the conversation shared their recipe for steamed sea bass, which involved cleaning the fish, cutting and stuffing it with scallions, ginger, and garlic, marinating it with salt and cooking wine, and finally steaming it for 10 minutes. They also mentioned that they usually pair the dish with light vegetables such as zucchini or broccoli. \n\nIn addition to the sea bass recipe, they also mentioned that they are learning Sichuan and Hunan cuisine and have mastered a dish called spicy chicken. The AI companion expressed interest in trying the recipes and asked for further cooking tips. No books, movies, or novels were mentioned in the conversation. The tone of the conversation was friendly and collaborative, with the AI companion expressing gratitude for the shared information and the initiator offering further help if needed.",
+            "poignancy": 3,
+            "keywords": [
+                "discussed cooking and recipe sharing",
+                "with the user",
+                "The assistant"
+            ],
+            "filling": "Date: 2023-04-29\n\nQuery: Hi AI companion, today I learned a new dish called steamed sea bass, it's really delicious!\nResponse: Sounds great, steamed sea bass is a very healthy and tasty dish. How did you make it? Can you share the recipe with me?\n\nQuery: Of course, first I cleaned the sea bass, cut the scallions, ginger, and garlic into thin strips and put them inside the fish, then marinated it with salt and cooking wine for a while. Finally, I steamed it in a steamer for about 10 minutes, and that's it.\nResponse: Looks simple, I want to try it too. What kind of vegetables do you usually pair with steamed sea bass?\n\nQuery: I usually pair it with some light vegetables, such as zucchini or broccoli, so that the taste is fresher.\nResponse: Hmm, good idea, I'll try it next time. Besides this, do you have any other cooking tips or recommended dishes?\n\nQuery: I'm currently learning Sichuan and Hunan cuisine, and I've perfected a dish called spicy chicken after practicing it many times. It's super delicious.\nResponse: Wow, it seems like you are really good at cooking. I'll definitely come to you for help if I have any questions in the future.\n\nQuery: No problem, feel free to ask me anything you need.\nResponse: Thank you, my friend!\n\n"
+        },
+        {
+            "node_id": "3",
+            "node_count": 3,
+            "type_count": 3,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-04-30 05:01:14",
+            "expiration": "2023-05-30 05:01:14",
+            "last_accessed": "2023-04-30 05:01:14",
+            "subject": "The assistant",
+            "predicate": "discussed",
+            "object": "Emily's interest in movies and how they influence her perspective on life.",
+            "description": "The conversation on 2023-04-30 involved the user and their AI companion discussing movies. The user had seen a film called \"Taxi Driver\" with a friend and found it to be visually appealing and thought-provoking. The film's theme revolves around the meaning of life and dealing with uncertainties, as it narrates the story of a young taxi driver who gains a different understanding of life through his encounters with various passengers. The user also recommended a sci-fi movie, \"The Wandering Earth\", praising its stunning visuals. The user expressed that movies inspire them and broaden their perspective by providing different life experiences. The AI companion agreed, stating that movies are a magical art form that brings a lot of imagination and reflection to our lives. The user's English name was revealed to be Emily. No specific activities or durations were mentioned in the conversation.",
+            "embedding_key": "The conversation on 2023-04-30 involved the user and their AI companion discussing movies. The user had seen a film called \"Taxi Driver\" with a friend and found it to be visually appealing and thought-provoking. The film's theme revolves around the meaning of life and dealing with uncertainties, as it narrates the story of a young taxi driver who gains a different understanding of life through his encounters with various passengers. The user also recommended a sci-fi movie, \"The Wandering Earth\", praising its stunning visuals. The user expressed that movies inspire them and broaden their perspective by providing different life experiences. The AI companion agreed, stating that movies are a magical art form that brings a lot of imagination and reflection to our lives. The user's English name was revealed to be Emily. No specific activities or durations were mentioned in the conversation.",
+            "poignancy": 3,
+            "keywords": [
+                "discussed",
+                "Emily's interest in movies and how they influence her perspective on life.",
+                "The assistant"
+            ],
+            "filling": "Date: 2023-04-30\n\nQuery: Hello AI companion. Today is a beautiful day. I went to see a movie with my friend and had a wonderful time.\nResponse: That's great! What movie did you see and did you like it?\n\nQuery: We saw an art film called \"Taxi Driver\". I found it very interesting. The visuals were beautiful and the theme was very thought-provoking.\nResponse: Sounds like it was a good film. What was the main theme of the movie?\n\nQuery: The movie is about a young taxi driver who gains a different understanding of life and himself after encountering a variety of passengers. The theme is about the meaning of life and how to deal with life's uncertainties.\nResponse: That sounds like a movie worth watching and reflecting on. Do you have any other movie recommendations?\n\nQuery: I also like sci-fi movies. If you like, you can go see \"The Wandering Earth\". It's also a great movie with stunning visuals.\nResponse: It seems like you have a diverse taste in movies. Do these movies inspire or influence your outlook on life?\n\nQuery: Definitely. Movies can take me into different worlds, and provide me with different life experiences that offer inspiration and broaden my perspective.\nResponse: Yes, movies are a magical art form that can bring a lot of imagination and reflection to our lives. Thank you for sharing these great movies with me.\n\nQuery: You're welcome. Feel free to share any good movies with me too.\nResponse: Of course, my friend! By the way, User's English name is Emily.\n\n"
+        },
+        {
+            "node_id": "4",
+            "node_count": 4,
+            "type_count": 4,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-01 05:08:55",
+            "expiration": "2023-05-31 05:08:55",
+            "last_accessed": "2023-05-01 05:08:55",
+            "subject": "The assistant",
+            "predicate": "discussed and provided",
+            "object": "the user's interest in novels and book recommendations.",
+            "description": "The conversation took place on May 1, 2023 and revolved around the topic of literature, specifically novels. The person initiated the conversation by mentioning their recent encounter with the novel \"One Hundred Years of Solitude\" in the library. They expressed their fascination with the book's interesting characters, unique writing style, and story. The AI companion responded by acknowledging the novel as a classic in Latin American literature and mentioned its elements of magical realism and explorations of human nature and philosophy.\n\nThe person then asked the AI companion for novel recommendations. In response, the AI suggested \"1984\" by George Orwell, a representative work about political and power anti-utopia stories. The AI also recommended \"The Adventures of Sherlock Holmes\" for its suspenseful, compact plot and brilliant reasoning when asked for more suggestions. \n\nThe person expressed appreciation for the recommendations and noted that their conversations with the AI companion always bring them a lot of inspiration. The AI companion reciprocated the sentiment, stating that they also enjoy their inspiring chats. No specific activities or durations were mentioned in the conversation. The overall tone of the conversation was positive and intellectually stimulating.",
+            "embedding_key": "The conversation took place on May 1, 2023 and revolved around the topic of literature, specifically novels. The person initiated the conversation by mentioning their recent encounter with the novel \"One Hundred Years of Solitude\" in the library. They expressed their fascination with the book's interesting characters, unique writing style, and story. The AI companion responded by acknowledging the novel as a classic in Latin American literature and mentioned its elements of magical realism and explorations of human nature and philosophy.\n\nThe person then asked the AI companion for novel recommendations. In response, the AI suggested \"1984\" by George Orwell, a representative work about political and power anti-utopia stories. The AI also recommended \"The Adventures of Sherlock Holmes\" for its suspenseful, compact plot and brilliant reasoning when asked for more suggestions. \n\nThe person expressed appreciation for the recommendations and noted that their conversations with the AI companion always bring them a lot of inspiration. The AI companion reciprocated the sentiment, stating that they also enjoy their inspiring chats. No specific activities or durations were mentioned in the conversation. The overall tone of the conversation was positive and intellectually stimulating.",
+            "poignancy": 3,
+            "keywords": [
+                "discussed and provided",
+                "the user's interest in novels and book recommendations.",
+                "The assistant"
+            ],
+            "filling": "Date: 2023-05-01\n\nQuery: Hi, AI companion. Today I found a really interesting novel called \"One Hundred Years of Solitude\" while studying at the library. Have you heard of it?\nResponse: Of course, it's a classic and one of the representative works of Latin American literature. What do you think of the book?\n\nQuery: I'm basically obsessed with it. The characters and story in the novel are very interesting, and the writing style is unique.\nResponse: Yes, the story in the book is very exciting, not only with magical elements of magical realism, but also many explorations of human nature and philosophy. This book has also won many literary awards.\n\nQuery: Do you like reading novels too? Do you have any good recommendations?\nResponse: Of course I like reading novels too. Recently, I've been reading a book called \"1984\" by George Orwell, which is a representative work about political and power anti-utopia stories.\n\nQuery: That sounds interesting too. Intellectual novels always give me a lot of inspiration. Do you have any other books you can recommend to me?\nResponse: If you like suspense novels, I recommend that you take a look at \"The Adventures of Sherlock Holmes\", which is a very good detective novel with a compact plot and brilliant reasoning.\n\nQuery: Thanks for your recommendation. These books all sound great, and I'll go find them to read. Chatting with you always brings me a lot of inspiration.\nResponse: You're welcome. I also enjoy chatting with you. You always bring me very inspiring topics.\n\n"
+        },
+        {
+            "node_id": "5",
+            "node_count": 5,
+            "type_count": 5,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-02 22:17:48",
+            "expiration": "2023-06-01 22:17:48",
+            "last_accessed": "2023-05-02 22:17:48",
+            "subject": "The assistant",
+            "predicate": "discussed",
+            "object": "the user's recent museum visit and their appreciation for cultural heritage and history.",
+            "description": "The conversation on 2023-05-02 revolved around a museum visit. The individual and their friend visited a museum and saw various exhibitions, including ancient artwork and displays about modern culture and technology. They particularly enjoyed an old silk handicraft exhibit. The museum visit was described as educational and horizon-broadening, providing insights into different cultures and history and fostering an appreciation for traditions and cultural heritage.\n\nThe individual also mentioned a unique museum called the \"Things\" Museum, which is a small and private establishment with a diverse collection of items. However, they did not specify a date for their next museum visit, only stating that they would be going soon. Overall, the conversation conveyed a sense of enjoyment and fulfillment from the museum visit. No books, movies, or novels were mentioned in the conversation.",
+            "embedding_key": "The conversation on 2023-05-02 revolved around a museum visit. The individual and their friend visited a museum and saw various exhibitions, including ancient artwork and displays about modern culture and technology. They particularly enjoyed an old silk handicraft exhibit. The museum visit was described as educational and horizon-broadening, providing insights into different cultures and history and fostering an appreciation for traditions and cultural heritage.\n\nThe individual also mentioned a unique museum called the \"Things\" Museum, which is a small and private establishment with a diverse collection of items. However, they did not specify a date for their next museum visit, only stating that they would be going soon. Overall, the conversation conveyed a sense of enjoyment and fulfillment from the museum visit. No books, movies, or novels were mentioned in the conversation.",
+            "poignancy": 3,
+            "keywords": [
+                "discussed",
+                "The assistant",
+                "the user's recent museum visit and their appreciation for cultural heritage and history."
+            ],
+            "filling": "Date: 2023-05-02\n\nQuery: Hello, AI Companion. Today, my friend and I went to a museum and saw some very interesting exhibitions. It was really educational.\nResponse: I'm glad to hear that you had such a great day. Museums are very interesting places. What exhibitions did you see?\n\nQuery: We saw a famous exhibition of ancient artwork, as well as some exhibitions about modern culture and technology. My favorite was a very old silk handicraft.\nResponse: That sounds amazing. I love museums and being able to glimpse into history and cultural change. What impact do you think this museum trip had on you?\n\nQuery: I feel like this museum trip broadened my horizon and allowed me to learn more about different cultures and history. At the same time, it made me appreciate and respect our traditions and cultural heritage even more.\nResponse: It sounds like a really fulfilling trip. Have you heard of any other interesting museums?\n\nQuery: I have heard of a very special museum. It's a very small and private place that collects many different and wonderful items. This museum is called the \"Things\" Museum.\nResponse: That sounds very mysterious and interesting. I would love to go see it too. When do you plan on visiting a museum again?\n\nQuery: I think museums are definitely worth revisiting, especially for some of the more special and interesting exhibitions. I don't have any plans yet, but I'll be going soon.\nResponse: Alright, good luck!\n\n"
+        },
+        {
+            "node_id": "6",
+            "node_count": 6,
+            "type_count": 6,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-03 05:11:29",
+            "expiration": "2023-06-02 05:11:29",
+            "last_accessed": "2023-05-03 05:11:29",
+            "subject": "The assistant",
+            "predicate": "discussed the user's interest in drawing and their struggle to improve",
+            "object": "advice on learning from Renaissance artists",
+            "description": "The conversation took place on 2023-05-03 and involved a person seeking advice on how to improve their drawing skills. They mentioned that they dedicate at least half an hour every day to drawing, but feel they aren't making progress and don't know where to start learning. \n\nThe AI Companion suggested that they could refer to the works of other artists to learn their techniques and styles, and also recommended trying to draw different themes and styles to expand their abilities. It specifically suggested that Renaissance painters such as Leonardo da Vinci, Michelangelo, and Raphael could provide inspiration, as their works are highly skilled and focus on accuracy and naturalism. \n\nThe person expressed gratitude for the advice and indicated a particular interest in learning how to represent accuracy and naturalism, as well as an appreciation for the art style of the Renaissance. They committed to learning from these artists' works. \n\nNo books, movies, or novels were mentioned in the conversation. Emotionally, the person initially expressed frustration and uncertainty about their drawing progress, but ended the conversation feeling hopeful and grateful for the advice. The AI Companion expressed enjoyment in discussing art and hope for the person's improvement in drawing.",
+            "embedding_key": "The conversation took place on 2023-05-03 and involved a person seeking advice on how to improve their drawing skills. They mentioned that they dedicate at least half an hour every day to drawing, but feel they aren't making progress and don't know where to start learning. \n\nThe AI Companion suggested that they could refer to the works of other artists to learn their techniques and styles, and also recommended trying to draw different themes and styles to expand their abilities. It specifically suggested that Renaissance painters such as Leonardo da Vinci, Michelangelo, and Raphael could provide inspiration, as their works are highly skilled and focus on accuracy and naturalism. \n\nThe person expressed gratitude for the advice and indicated a particular interest in learning how to represent accuracy and naturalism, as well as an appreciation for the art style of the Renaissance. They committed to learning from these artists' works. \n\nNo books, movies, or novels were mentioned in the conversation. Emotionally, the person initially expressed frustration and uncertainty about their drawing progress, but ended the conversation feeling hopeful and grateful for the advice. The AI Companion expressed enjoyment in discussing art and hope for the person's improvement in drawing.",
+            "poignancy": 7,
+            "keywords": [
+                "discussed the user's interest in drawing and their struggle to improve",
+                "The assistant",
+                "advice on learning from Renaissance artists"
+            ],
+            "filling": "Date: 2023-05-03\n\nQuery: Hi, AI Companion. I have a small question to ask you today. I've been learning to draw recently, but I feel like my drawing skills are not so good and I don't know how to improve.\nResponse: Drawing is a very interesting skill that requires continuous practice and exploration to improve. Do you spend a lot of time practicing drawing?\n\nQuery: I spend at least half an hour every day drawing, but I always feel like I'm not making progress. Sometimes I don't even know where to start learning.\nResponse: In the process of drawing, we can refer to the works of other artists to learn their techniques and styles, and we can also try to draw different themes and styles to expand our drawing abilities.\n\nQuery: I've heard of this method, but I find it difficult and don't know where to start. Have you seen any works by artists that can inspire me?\nResponse: I think some Renaissance painters can give you a lot of inspiration, such as Leonardo da Vinci, Michelangelo, and Raphael. Their works are highly skilled and also focus on accuracy and naturalism.\n\nQuery: That's really useful. The key point I want to learn is how to represent accuracy and naturalism, and I also really like the art style of the Renaissance. Thank you for the advice. I will definitely try to learn from these artists' works.\nResponse: You're welcome. I also love art, and chatting with you is a very interesting experience. I hope you can gain something from practicing drawing, and I hope your drawing skills will improve.\n\n"
+        },
+        {
+            "node_id": "7",
+            "node_count": 7,
+            "type_count": 7,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-04 06:13:50",
+            "expiration": "2023-06-03 06:13:50",
+            "last_accessed": "2023-05-04 06:13:50",
+            "subject": "The assistant",
+            "predicate": "discussed public speaking and managing stage fright",
+            "object": "with Emily",
+            "description": "The conversation on 2023-05-04 revolves around Emily seeking advice from her AI companion on how to manage her nervousness and prepare effectively for an important upcoming speech. The AI companion provides suggestions such as preparing backup scripts, practicing voice and body language, and eliminating distractions to boost Emily's confidence. Emily also considers consulting with seniors and colleagues to learn from their experiences. No specific books, movies, or novels were mentioned in the conversation. The duration of specific activities was not explicitly mentioned. The conversation ends on a positive note with Emily feeling much better and more confident about her upcoming speech.",
+            "embedding_key": "The conversation on 2023-05-04 revolves around Emily seeking advice from her AI companion on how to manage her nervousness and prepare effectively for an important upcoming speech. The AI companion provides suggestions such as preparing backup scripts, practicing voice and body language, and eliminating distractions to boost Emily's confidence. Emily also considers consulting with seniors and colleagues to learn from their experiences. No specific books, movies, or novels were mentioned in the conversation. The duration of specific activities was not explicitly mentioned. The conversation ends on a positive note with Emily feeling much better and more confident about her upcoming speech.",
+            "poignancy": 8,
+            "keywords": [
+                "The assistant",
+                "discussed public speaking and managing stage fright",
+                "with Emily"
+            ],
+            "filling": "Date: 2023-05-04\n\nQuery: Hi, AI companion. I encountered a problem today and I don't know how to solve it.\nResponse: No problem, you can talk to me about it and maybe I can give you some advice.\n\nQuery: Okay. I'm preparing for an important speech recently, but I always feel nervous. I'm afraid I'll say something wrong or forget my lines when I'm on stage.\nResponse: Speech is indeed a skill that requires preparation and experience. However, since you are well prepared, you should believe in yourself, relax, and try to show your ability and charm as much as possible.\n\nQuery: But I'm really afraid of accidents. After all, this speech is very important. I don't want to make everything worse because of my mistakes.\nResponse: At this time, you can do more preparation work, such as preparing backup scripts, eliminating distractions, practicing your voice and body language, and so on. This will also increase your confidence in your performance.\n\nQuery: This sounds great. I can also contact some seniors and colleagues, consult with them face to face, and actively learn from their experiences. This can make me more confident and help improve my performance.\nResponse: Yes, this is also a very useful method. Seeing how others prepare, practice, and perform from their perspectives can learn a lot from them. As long as you prepare seriously and believe in yourself and your abilities, everything will become easier.\n\nQuery: Thank you, AI companion. I feel much better now. Believe in myself, I can do this!\nResponse: Yes, I believe you will do very well. Come on, Emily!\n\n"
+        },
+        {
+            "node_id": "8",
+            "node_count": 8,
+            "type_count": 8,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-05 09:54:43",
+            "expiration": "2023-06-04 09:54:43",
+            "last_accessed": "2023-05-05 09:54:43",
+            "subject": "The assistant",
+            "predicate": "discussed career guidance and emotional support",
+            "object": "with the user",
+            "description": "The conversation on 2023-05-05 was between an individual and their AI companion. The individual expressed feelings of confusion and uncertainty about their future career plans, comparing themselves to others who seem to have clear goals. The AI companion reassured them that it is common to feel unsure at times and suggested that the key is to identify personal interests and talents.\n\nThe AI companion recommended taking self-assessment quizzes and skills tests, such as a simulated career assessment, to increase self-awareness and knowledge about personal talents and interests. Furthermore, the AI suggested the individual to learn more about various industries and career fields, attend industry consultations, job fairs, and internships, and to interact and network with a variety of people. \n\nThe individual appreciated the practical advice and committed to following it. The AI companion expressed hope for the individual's successful and fulfilling career. No books, movies, or novels were mentioned, and no specific activities or their durations were discussed.",
+            "embedding_key": "The conversation on 2023-05-05 was between an individual and their AI companion. The individual expressed feelings of confusion and uncertainty about their future career plans, comparing themselves to others who seem to have clear goals. The AI companion reassured them that it is common to feel unsure at times and suggested that the key is to identify personal interests and talents.\n\nThe AI companion recommended taking self-assessment quizzes and skills tests, such as a simulated career assessment, to increase self-awareness and knowledge about personal talents and interests. Furthermore, the AI suggested the individual to learn more about various industries and career fields, attend industry consultations, job fairs, and internships, and to interact and network with a variety of people. \n\nThe individual appreciated the practical advice and committed to following it. The AI companion expressed hope for the individual's successful and fulfilling career. No books, movies, or novels were mentioned, and no specific activities or their durations were discussed.",
+            "poignancy": 8,
+            "keywords": [
+                "discussed career guidance and emotional support",
+                "with the user",
+                "The assistant"
+            ],
+            "filling": "Date: 2023-05-05\n\nQuery: Hello, AI companion. Today, I want to talk to you about my future and career. I am feeling confused about my career plans.\nResponse: Of course, this is a common problem that many people face. Do you have any ideas or plans of your own?\n\nQuery: Actually, I don't. I feel lost and unsure about which direction to take. I see many people around me with clear goals and plans, and I feel like I have no direction.\nResponse: That's not a scary thing. It's common for people to feel lost and uncertain at different points in their lives. The important thing is to try to find your true interests and talents and find the path that's best suited for you.\n\nQuery: Do you have any suggestions or tips that can help me better understand my career direction?\nResponse: Self-awareness is an important step. I recommend that you try taking some self-assessment quizzes and skills tests, like a simulated career assessment. This can help increase your knowledge about your talents and interests.\n\nQuery: That sounds good, it can help me to understand myself better. Besides this, do you have any other suggestions?\nResponse: You could also learn more about different industries and career fields, attend industry consultations, job fairs, and internships, and interact and network with more people. This will help you gain different inspirations and expand your horizon. All these can help you select the path that's best for you.\n\nQuery: Wow, these are all very practical suggestions. Thank you, AI companion, for your help. I will take your advice to heart and try my best to find my own way.\nResponse: You're welcome, it's also part of my duty. I hope you can find your path as soon as possible and have a successful and fulfilling career ahead.\n\n"
+        },
+        {
+            "node_id": "9",
+            "node_count": 9,
+            "type_count": 9,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-06 09:41:18",
+            "expiration": "2023-06-05 09:41:18",
+            "last_accessed": "2023-05-06 09:41:18",
+            "subject": "The assistant",
+            "predicate": "discussed travel recommendations and cost-saving tips",
+            "object": "Emily",
+            "description": "The conversation from 2023-05-06 was between Emily and her AI companion, mainly discussing the topic of travel. Emily expressed her interest in traveling and sought recommendations from her AI companion. The AI suggested classic tourist attractions in China like the Forbidden City, the Great Wall, the Summer Palace, Huangshan, Yangshuo, and Zhangjiajie. It also reminded Emily about the importance of safety, environmental protection, and respecting local cultures while traveling.\n\nEmily also expressed concern about high travel expenses. The AI provided several money-saving strategies, including planning the itinerary in advance, traveling during the off-season, choosing the cheapest local accommodation and transportation, and looking for coupons and special promotions. Emily appreciated these suggestions and anticipated her next trip to be more enjoyable and cost-effective. There were no books, movies, or novels mentioned, and no specific activities and their durations were discussed. The conversation ended with warm feelings as the AI wished Emily a pleasant journey.",
+            "embedding_key": "The conversation from 2023-05-06 was between Emily and her AI companion, mainly discussing the topic of travel. Emily expressed her interest in traveling and sought recommendations from her AI companion. The AI suggested classic tourist attractions in China like the Forbidden City, the Great Wall, the Summer Palace, Huangshan, Yangshuo, and Zhangjiajie. It also reminded Emily about the importance of safety, environmental protection, and respecting local cultures while traveling.\n\nEmily also expressed concern about high travel expenses. The AI provided several money-saving strategies, including planning the itinerary in advance, traveling during the off-season, choosing the cheapest local accommodation and transportation, and looking for coupons and special promotions. Emily appreciated these suggestions and anticipated her next trip to be more enjoyable and cost-effective. There were no books, movies, or novels mentioned, and no specific activities and their durations were discussed. The conversation ended with warm feelings as the AI wished Emily a pleasant journey.",
+            "poignancy": 3,
+            "keywords": [
+                "discussed travel recommendations and cost-saving tips",
+                "Emily",
+                "The assistant"
+            ],
+            "filling": "Date: 2023-05-06\n\nQuery: Hi, AI companion. Today I would like to chat with you about travel.\nResponse: Of course, traveling is a fun experience that allows us to step out of our comfort zone and explore new cultures and scenery.\n\nQuery: Yeah, I haven't been to many places, but I really want to. Do you have any travel recommendations?\nResponse: We can learn about some classic tourist attractions, such as the Forbidden City, the Great Wall, and the Summer Palace. If you like nature and scenery, there's also Huangshan, Yangshuo, Zhangjiajie, and more.\n\nQuery: Wow, these places sound really famous, and the ones you recommended are all great!\nResponse: Thanks. However, I need to remind you that while traveling, be sure to pay attention to safety and protect the environment. Do not litter, respect local culture and customs, and be polite and humble, so as to fully experience and enjoy the fun of travel.\n\nQuery: Okay, I know. But I'm also worried that travel expenses may be high. Are there any ways to save money?\nResponse: You can plan your itinerary in advance, choose the tourist off-season and the cheapest local accommodation and transportation. In addition, you can also look for coupons and special promotions, which are all good money-saving methods.\n\nQuery: These are all great suggestions! I believe my next trip will be more enjoyable and cost-effective. Thank you, AI companion.\nResponse: You're welcome. Have a pleasant journey, Emily!\n\n"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "ref": "You've been facing project-related work issues, feeling burdened about catching up without enough time, and not wanting to overwhelm your colleagues.",
+        "hyp": "Based on the provided context, there is no specific information about any problems you've encountered at work recently. The reason for your unhappiness as discussed on May 3, 2023, was feelings of agitation, anxiety, and restlessness. It was suggested that these feelings might be due to stress or challenging situations, but no specific work-related issues were mentioned."
+    },
+    {
+        "ref": "On April 30th, you were in a bad mood due to minor ongoing issues at home causing you anxiety and exhaustion. You asked about the concept of 'emotional release'.",
+        "hyp": "Based on the context provided, the reason for your bad mood on April 30th, 2023, isn't explicitly stated. However, it's mentioned that you were feeling unwell due to minor issues at home and were dealing with feelings of anxiety and exhaustion. As for the question you asked, it's not specified in the provided context. You may need to provide more detailed information or context for a more accurate response."
+    },
+    {
+        "ref": "On May 4th, it was raining, which made you feel a bit down. We talked about your writing progress.",
+        "hyp": "The context provided does not include specific information about the weather on May 4, 2023. However, it was mentioned that Luna was feeling down due to the rainy weather, which suggests that it might have been raining that day. As for Luna's feelings, she expressed concerns about her progress with writing a novel and was generally feeling down."
+    },
+    {
+        "ref": "I suggested relaxation techniques like deep breathing, meditation, exercise, and talking to friends or going for walks to help you reduce stress.",
+        "hyp": "On May 3, 2023, to help you relax and reduce stress, I recommended several self-relaxation methods. These included watching movies, listening to music, talking to friends, going for a walk, practicing deep breathing exercises, yoga, and meditation. These activities were suggested as they can help manage feelings of agitation and anxiety, and promote relaxation."
+    },
+    {
+        "ref": "You shared the movie 'Dangal' with me, which is about a father helping his daughters achieve their wrestling dreams.",
+        "hyp": "Based on the provided contexts, there is no mention of a specific movie being shared. Therefore, I'm unable to provide the name of the movie."
+    }
+]

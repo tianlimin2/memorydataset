@@ -1,0 +1,22 @@
+[
+    {
+        "hyp": "You enjoy rock music, with bands like AC/DC and Guns N' Roses being your favorites. You also recently enjoyed the song \"You Shook Me All Night Long.\"",
+        "ref": "You like rock music."
+    },
+    {
+        "hyp": "Based on the provided context, you like rock bands such as AC/DC and Guns N' Roses.",
+        "ref": "You like the bands AC/DC and Guns N' Roses."
+    },
+    {
+        "hyp": "Yes, your painting that was selected for an exhibition was inspired by a trip to Tibet. You were moved by the majestic and mysterious natural landscapes there, which became the basis for your artwork.",
+        "ref": "Your painting was inspired by a trip you took to Tibet, where you were captivated by the majestic and mysterious natural landscapes."
+    },
+    {
+        "hyp": "Based on the provided contexts, the emotional issue you shared was related to your struggles with finding direction in life and your career. You expressed feelings of uncertainty, confusion, and lack of direction. You felt lost and unsure about your life's path, and were struggling with employment, applying for jobs but not receiving any interview opportunities. This issue was causing you frustration and discouragement.",
+        "ref": "You were feeling emotional because your friend was getting angry with you often and you didn't know why, which made you feel like your friendship was drifting apart."
+    },
+    {
+        "hyp": "Based on the available conversations, the handmade projects recommended to you were paper origami and small fabric handcrafts. These crafts were suggested as indoor activities to alleviate boredom during rainy weather. They were described as interesting and easy to learn.",
+        "ref": "I recommended paper origami and small handmade objects with fabric as handmade projects for you."
+    }
+]

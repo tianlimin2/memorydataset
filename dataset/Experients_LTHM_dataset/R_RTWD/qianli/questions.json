@@ -1,0 +1,35 @@
+[
+    {
+        "Q": "How often has the patient reported experiencing increased stiffness or pain in new joints, and what might be contributing to this spread of symptoms?"
+    },
+    {
+        "Q": "What could be causing persistent swelling in certain joints?"
+    },
+    {
+        "Q": "How frequently have imaging studies revealed changes in joint structure, and what implications do these findings have for long-term disease management?"
+    },
+    {
+        "Q": "What advice has the AI assistant given regarding the management of morning stiffness, and has the patient reported any improvement after implementing these suggestions?"
+    },
+    {
+        "Q": "How consistent have the patient’s inflammatory markers been, and what do fluctuations reveal about their overall disease control?"
+    },
+    {
+        "Q": "Has the patient indicated any noticeable triggers for joint flare-ups, such as stress or physical activity, and how is this being managed?"
+    },
+    {
+        "Q": "What role has genetic testing played in assessing the patient's risk for further complications?"
+    },
+    {
+        "Q": "How has the patient's experience with TNF inhibitors been, particularly concerning any side effects?"
+    },
+    {
+        "Q": "Has the AI assistant recommended any new blood or imaging tests in response to recent symptoms, and how have these tests informed treatment decisions?"
+    },
+    {
+        "Q": "How often does the patient report feelings of fatigue or weakness, and what steps have been recommended to address these symptoms?"
+    },
+    {
+        "Q": "How has the patient’s decision-making process regarding pregnancy been guided by discussions with the AI assistant, and what considerations have been emphasized for managing their condition during this time?"
+    }
+]

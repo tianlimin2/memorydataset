@@ -1,0 +1,246 @@
+{
+    "nodes": [
+        {
+            "node_id": "0",
+            "node_count": 0,
+            "type_count": 0,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-01 02:07:42",
+            "expiration": "2023-05-31 02:07:42",
+            "last_accessed": "2023-05-01 02:07:42",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about the symptoms, monitoring, and understanding of hyperthyroidism.",
+            "description": "The conversation on 2023-05-01 focused on the medical condition known as hyperthyroidism. The assistant explained that this condition causes the thyroid gland to produce excessive thyroid hormone, leading to symptoms such as anxiety, palpitations, weight loss, and excessive sweating. The user expressed feelings of anxiety and was advised to monitor and record symptoms daily to identify any patterns or changes over time. Symptoms to particularly watch for include rapid heartbeat, unexplained weight loss, increased appetite, and excessive sweating. The assistant emphasized the importance of regular monitoring in managing the user's health. The user expressed gratitude and committed to monitor their symptoms more closely. The assistant affirmed the importance of understanding hyperthyroidism and promised to provide more information in future conversations. No specific dietary, exercise recommendations, or medication advice was given in this conversation.",
+            "embedding_key": "The conversation on 2023-05-01 focused on the medical condition known as hyperthyroidism. The assistant explained that this condition causes the thyroid gland to produce excessive thyroid hormone, leading to symptoms such as anxiety, palpitations, weight loss, and excessive sweating. The user expressed feelings of anxiety and was advised to monitor and record symptoms daily to identify any patterns or changes over time. Symptoms to particularly watch for include rapid heartbeat, unexplained weight loss, increased appetite, and excessive sweating. The assistant emphasized the importance of regular monitoring in managing the user's health. The user expressed gratitude and committed to monitor their symptoms more closely. The assistant affirmed the importance of understanding hyperthyroidism and promised to provide more information in future conversations. No specific dietary, exercise recommendations, or medication advice was given in this conversation.",
+            "poignancy": 7,
+            "keywords": [
+                "the user about the symptoms, monitoring, and understanding of hyperthyroidism.",
+                "discussed with",
+                "The assistant"
+            ],
+            "filling": "Assistant: Hyperthyroidism is a condition where the thyroid gland produces too much thyroid hormone. Symptoms can include anxiety, palpitations, weight loss, and excessive sweating. It's important to keep track of any symptoms you experience. User: Can you tell me what hyperthyroidism is? I've been feeling a bit anxious. Assistant: You should monitor symptoms such as rapid heartbeat, unexplained weight loss, increased appetite, and excessive sweating. Keeping a daily record can help us understand your condition better. User: What symptoms should I really watch for? Assistant: I recommend checking and recording your symptoms daily to spot any patterns or changes over time. User: How often should I check my symptoms? Assistant: You're welcome! Regular monitoring is key to managing your health. User: Thank you! I'll start monitoring my symptoms more closely. Assistant: Yes, understanding hyperthyroidism and its effects is crucial. I'll provide more information as we continue our conversations. User: Is there anything else I should know?"
+        },
+        {
+            "node_id": "1",
+            "node_count": 1,
+            "type_count": 1,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-03 01:42:17",
+            "expiration": "2023-06-02 01:42:17",
+            "last_accessed": "2023-05-03 01:42:17",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about the importance of taking antithyroid medication correctly, managing missed doses, and monitoring side effects for hyperthyroidism.",
+            "description": "On May 3, 2023, the conversation revolved around the user's antithyroid medication intake and potential side effects. The assistant emphasized the importance of taking medication on time and as prescribed and recording any side effects. In case of a missed dose, the user was advised to take it as soon as they remember unless it's close to the time for the next dose, in which case they should skip the missed dose and never take a double dose. \n\nThe user reported experiencing occasional dizziness, which the assistant noted could be a side effect of hyperthyroidism or the medication. The assistant asked the user to monitor the frequency of this symptom and report if it persists. Other common side effects mentioned included rash, nausea, or changes in taste. The assistant stressed the importance of keeping detailed records of these side effects to discuss with the doctor, which the user agreed to do.",
+            "embedding_key": "On May 3, 2023, the conversation revolved around the user's antithyroid medication intake and potential side effects. The assistant emphasized the importance of taking medication on time and as prescribed and recording any side effects. In case of a missed dose, the user was advised to take it as soon as they remember unless it's close to the time for the next dose, in which case they should skip the missed dose and never take a double dose. \n\nThe user reported experiencing occasional dizziness, which the assistant noted could be a side effect of hyperthyroidism or the medication. The assistant asked the user to monitor the frequency of this symptom and report if it persists. Other common side effects mentioned included rash, nausea, or changes in taste. The assistant stressed the importance of keeping detailed records of these side effects to discuss with the doctor, which the user agreed to do.",
+            "poignancy": 7,
+            "keywords": [
+                "the user about the importance of taking antithyroid medication correctly, managing missed doses, and monitoring side effects for hyperthyroidism.",
+                "discussed with",
+                "The assistant"
+            ],
+            "filling": "Assistant: It's important to take your antithyroid medication on time and as prescribed. Make sure to record your medication intake and any side effects you experience. User: I've been taking my medication, but I'm not sure if I'm taking it correctly. Assistant: If you forget a dose, take it as soon as you remember unless it's almost time for your next dose. In that case, skip the missed dose. Never take a double dose. User: What should I do if I forget a dose? Assistant: Dizziness can be a side effect of hyperthyroidism or the medication. Please monitor how often this occurs and let me know if it persists. User: I feel a bit dizzy sometimes. Is that normal? Assistant: Common side effects include rash, nausea, or changes in taste. It's important to record any side effects to discuss with your doctor. User: I'll keep track of that. What about side effects? Assistant: Great! Keeping detailed records can help us manage your treatment more effectively. User: Thanks for clarifying. I'll make sure to record everything."
+        },
+        {
+            "node_id": "2",
+            "node_count": 2,
+            "type_count": 2,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-05 08:57:01",
+            "expiration": "2023-06-04 08:57:01",
+            "last_accessed": "2023-05-05 08:57:01",
+            "subject": "The assistant",
+            "predicate": "discussed with the user about",
+            "object": "the importance of regular thyroid function tests, preparation for these tests, potential adjustments to medication dosage if hormone levels remain high, and specific hormone levels (TSH, T3, T4) to monitor in thyroid disease management.",
+            "description": "The conversation on 2023-05-05 focused on the medical monitoring of thyroid hormone levels. The assistant recommended monthly thyroid function tests to monitor TSH, T3, and T4 levels. This regular monitoring is essential for adjusting treatment as required. The user was advised to get these tests done at the same time each month for consistency in results. There was no specific preparation needed for these tests. If the user's hormone levels remained high, the assistant mentioned that a medication dosage adjustment or discussion of other treatment options with the healthcare provider might be needed. The user understood the importance of regular monitoring and agreed to keep an eye on it.",
+            "embedding_key": "The conversation on 2023-05-05 focused on the medical monitoring of thyroid hormone levels. The assistant recommended monthly thyroid function tests to monitor TSH, T3, and T4 levels. This regular monitoring is essential for adjusting treatment as required. The user was advised to get these tests done at the same time each month for consistency in results. There was no specific preparation needed for these tests. If the user's hormone levels remained high, the assistant mentioned that a medication dosage adjustment or discussion of other treatment options with the healthcare provider might be needed. The user understood the importance of regular monitoring and agreed to keep an eye on it.",
+            "poignancy": 8,
+            "keywords": [
+                "the importance of regular thyroid function tests, preparation for these tests, potential adjustments to medication dosage if hormone levels remain high, and specific hormone levels (TSH, T3, T4) to monitor in thyroid disease management.",
+                "discussed with the user about",
+                "The assistant"
+            ],
+            "filling": "Assistant: I recommend performing thyroid function tests monthly to monitor your hormone levels. This helps us adjust your treatment as needed. User: When should I get my thyroid hormone levels checked? Assistant: There’s no special preparation needed, but try to go at the same time each month for consistency in results. User: How do I prepare for these tests? Assistant: If your levels remain high, we may need to adjust your medication dosage or discuss other treatment options with your healthcare provider. User: What happens if my hormone levels are still high? Assistant: Perfect! Regular monitoring is crucial for your health. User: I understand. I'll make sure to keep an eye on it. Assistant: Pay attention to TSH, T3, and T4 levels. Any significant changes should be discussed with your doctor. User: Is there anything specific I should look for in my results?"
+        },
+        {
+            "node_id": "3",
+            "node_count": 3,
+            "type_count": 3,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-07 06:53:28",
+            "expiration": "2023-06-06 06:53:28",
+            "last_accessed": "2023-05-07 06:53:28",
+            "subject": "The assistant",
+            "predicate": "discussed with the user about",
+            "object": "the dietary modifications, including limiting iodine intake and increasing consumption of fiber-rich foods, for managing hyperthyroidism.",
+            "description": "On the conversation held on May 7, 2023, the user and assistant discussed dietary recommendations for managing hyperthyroidism. The assistant advised the user to maintain a balanced diet, reduce caffeine and iodine intake, and increase consumption of fiber-rich foods. Specifically, the user was advised to limit foods high in iodine such as seaweed and iodized salt. The assistant also recommended increasing the intake of fruits and vegetables due to their high nutrient and fiber content. The user expressed intentions to incorporate these dietary changes into their meals. The assistant also cautioned the user to consult their healthcare provider before taking any supplements, as some could interfere with thyroid function. No specific medical monitoring indicators, symptoms, activities, emotional states, or medication advice were discussed in this conversation.",
+            "embedding_key": "On the conversation held on May 7, 2023, the user and assistant discussed dietary recommendations for managing hyperthyroidism. The assistant advised the user to maintain a balanced diet, reduce caffeine and iodine intake, and increase consumption of fiber-rich foods. Specifically, the user was advised to limit foods high in iodine such as seaweed and iodized salt. The assistant also recommended increasing the intake of fruits and vegetables due to their high nutrient and fiber content. The user expressed intentions to incorporate these dietary changes into their meals. The assistant also cautioned the user to consult their healthcare provider before taking any supplements, as some could interfere with thyroid function. No specific medical monitoring indicators, symptoms, activities, emotional states, or medication advice were discussed in this conversation.",
+            "poignancy": 7,
+            "keywords": [
+                "discussed with the user about",
+                "The assistant",
+                "the dietary modifications, including limiting iodine intake and increasing consumption of fiber-rich foods, for managing hyperthyroidism."
+            ],
+            "filling": "Assistant: Maintaining a balanced diet is important. Reduce your caffeine and iodine intake, and increase fiber-rich foods to support your overall health. User: What kind of diet should I follow with hyperthyroidism? Assistant: It's best to limit foods high in iodine, like seaweed and iodized salt, as they can exacerbate hyperthyroidism symptoms. User: Are there specific foods I should avoid? Assistant: Yes! Fruits and vegetables are excellent choices as they are high in nutrients and fiber, which can help you feel better overall. User: Should I eat more fruits and vegetables? Assistant: You're welcome! A nutritious diet can make a big difference in how you feel. User: I'll try to incorporate more of those into my meals. Thanks! Assistant: Consult your healthcare provider before taking any supplements, as some can interfere with your thyroid function. User: What about supplements?"
+        },
+        {
+            "node_id": "4",
+            "node_count": 4,
+            "type_count": 4,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-09 11:57:49",
+            "expiration": "2023-06-08 11:57:49",
+            "last_accessed": "2023-05-09 11:57:49",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about recognizing and managing a thyroid crisis, including understanding symptoms, having an emergency plan, keeping antithyroid medication accessible, and informing family members.",
+            "description": "On the conversation dated 2023-05-09, the main topic was the medical monitoring of a thyroid condition. The assistant emphasized the importance of recognizing the symptoms of a thyroid crisis, such as rapid heartbeat, high fever, extreme agitation, and confusion. The assistant advised the user to seek immediate medical help if these symptoms occur.\n\nThe assistant also suggested that the user keep antithyroid medication accessible for such emergencies, and to inform family members about the condition and how they can help in case of a crisis. The user was advised to have the contact information of their healthcare provider and the nearest hospital readily available for emergencies. No specific values for monitoring indicators like blood pressure or glucose levels were mentioned in this conversation. \n\nThere were no dietary, exercise recommendations, descriptions of activities, or mentions of related feelings, emotional states, or side effects. Also, no specific medication advice, including dosages and timing, was provided in this conversation. The primary focus was on emergency preparedness and response in the event of a thyroid crisis.",
+            "embedding_key": "On the conversation dated 2023-05-09, the main topic was the medical monitoring of a thyroid condition. The assistant emphasized the importance of recognizing the symptoms of a thyroid crisis, such as rapid heartbeat, high fever, extreme agitation, and confusion. The assistant advised the user to seek immediate medical help if these symptoms occur.\n\nThe assistant also suggested that the user keep antithyroid medication accessible for such emergencies, and to inform family members about the condition and how they can help in case of a crisis. The user was advised to have the contact information of their healthcare provider and the nearest hospital readily available for emergencies. No specific values for monitoring indicators like blood pressure or glucose levels were mentioned in this conversation. \n\nThere were no dietary, exercise recommendations, descriptions of activities, or mentions of related feelings, emotional states, or side effects. Also, no specific medication advice, including dosages and timing, was provided in this conversation. The primary focus was on emergency preparedness and response in the event of a thyroid crisis.",
+            "poignancy": 7,
+            "keywords": [
+                "discussed with",
+                "The assistant",
+                "the user about recognizing and managing a thyroid crisis, including understanding symptoms, having an emergency plan, keeping antithyroid medication accessible, and informing family members."
+            ],
+            "filling": "Assistant: It's crucial to have an emergency plan. Understand the symptoms of a thyroid crisis, like rapid heartbeat and high fever, and seek medical help immediately if they occur. User: What should I do in case of a thyroid crisis? Assistant: Symptoms include extreme agitation, confusion, and a sudden increase in heart rate. If you experience these, don’t hesitate to seek help. User: How can I recognize a thyroid crisis? Assistant: Yes, keep your antithyroid medication accessible, and make sure family members know about your condition and how to help. User: Should I keep any medication handy? Assistant: That's a good plan. Keeping your loved ones informed can be very helpful in an emergency. User: I'll talk to my family about this. Thank you for the advice! Assistant: Yes, make sure you have your healthcare provider's contact information and the nearest hospital. Keep this information handy. User: Is there a specific number I should call for emergencies?"
+        },
+        {
+            "node_id": "5",
+            "node_count": 5,
+            "type_count": 5,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-11 02:23:37",
+            "expiration": "2023-06-10 02:23:37",
+            "last_accessed": "2023-05-11 02:23:37",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about managing anxiety as a symptom of hyperthyroidism through relaxation techniques, regular exercise, and continuous monitoring of symptoms.",
+            "description": "On May 11, 2023, the user reported experiencing increased anxiety, which could potentially be related to their hyperthyroidism. The assistant recommended a variety of methods to manage these feelings, including relaxation techniques like deep breathing, yoga, or meditation. Regular exercise was also suggested, with a recommended duration of at least 30 minutes most days. The user agreed to try these methods to alleviate their anxiety and committed to regularly updating the assistant on their symptoms to better manage their condition. No specific medical monitoring indicators, dietary recommendations, or medication advice were discussed in this conversation.",
+            "embedding_key": "On May 11, 2023, the user reported experiencing increased anxiety, which could potentially be related to their hyperthyroidism. The assistant recommended a variety of methods to manage these feelings, including relaxation techniques like deep breathing, yoga, or meditation. Regular exercise was also suggested, with a recommended duration of at least 30 minutes most days. The user agreed to try these methods to alleviate their anxiety and committed to regularly updating the assistant on their symptoms to better manage their condition. No specific medical monitoring indicators, dietary recommendations, or medication advice were discussed in this conversation.",
+            "poignancy": 7,
+            "keywords": [
+                "the user about managing anxiety as a symptom of hyperthyroidism through relaxation techniques, regular exercise, and continuous monitoring of symptoms.",
+                "discussed with",
+                "The assistant"
+            ],
+            "filling": "Assistant: Yes, anxiety can be a symptom of hyperthyroidism. It's important to address these feelings and discuss them with your healthcare provider. User: I've been feeling more anxious lately. Could it be related to my thyroid? Assistant: Consider practicing relaxation techniques such as deep breathing, yoga, or meditation to help manage anxiety levels. User: What can I do to manage my anxiety? Assistant: Regular exercise can also help reduce anxiety. Aim for at least 30 minutes of activity most days. User: I'll try those methods. Is there anything else that could help? Assistant: You're welcome! Finding what works for you is key. User: That sounds doable. Thank you! Assistant: Great! Regular updates will help us manage your condition better. User: I'll keep monitoring my symptoms and let you know how it goes."
+        },
+        {
+            "node_id": "6",
+            "node_count": 6,
+            "type_count": 6,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-13 00:30:06",
+            "expiration": "2023-06-12 00:30:06",
+            "last_accessed": "2023-05-13 00:30:06",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about managing stress and monitoring heart rate as aspects of their hyperthyroid condition.",
+            "description": "On 2023-05-13, the user discussed experiencing an increase in heart rate, particularly during stressful situations. The assistant advised the user to try calming techniques such as sitting or lying down and deep breathing if they experience a sudden increase in heart rate. The assistant emphasized that if the heart rate increase persists, the user should seek medical attention. \n\nThe assistant also noted the connection between stress and hyperthyroid symptoms, suggesting that the user could benefit from stress management strategies. They recommended speaking to a therapist to acquire tools to manage stress and anxiety related to the user's condition, emphasizing the importance of mental health alongside physical health. \n\nThe assistant advised the user to monitor their heart rate regularly, especially during periods of anxiety. The user was instructed to keep a record of their heart rate to discuss with their doctor, though no specific frequency for this monitoring was given. No specific dietary or exercise recommendations, medication advice, or details about the severity or frequency of symptoms were provided in the conversation.",
+            "embedding_key": "On 2023-05-13, the user discussed experiencing an increase in heart rate, particularly during stressful situations. The assistant advised the user to try calming techniques such as sitting or lying down and deep breathing if they experience a sudden increase in heart rate. The assistant emphasized that if the heart rate increase persists, the user should seek medical attention. \n\nThe assistant also noted the connection between stress and hyperthyroid symptoms, suggesting that the user could benefit from stress management strategies. They recommended speaking to a therapist to acquire tools to manage stress and anxiety related to the user's condition, emphasizing the importance of mental health alongside physical health. \n\nThe assistant advised the user to monitor their heart rate regularly, especially during periods of anxiety. The user was instructed to keep a record of their heart rate to discuss with their doctor, though no specific frequency for this monitoring was given. No specific dietary or exercise recommendations, medication advice, or details about the severity or frequency of symptoms were provided in the conversation.",
+            "poignancy": 8,
+            "keywords": [
+                "discussed with",
+                "the user about managing stress and monitoring heart rate as aspects of their hyperthyroid condition.",
+                "The assistant"
+            ],
+            "filling": "Assistant: If you experience a sudden increase in heart rate, try to calm yourself down, sit or lie down, and breathe deeply. If it persists, seek medical attention. User: What should I do if I feel a sudden increase in heart rate? Assistant: Stress can exacerbate hyperthyroid symptoms. It's important to find ways to manage stress effectively. User: I've noticed my heart races more during stressful situations. Assistant: Yes, speaking to a therapist can provide you with tools to manage stress and anxiety related to your condition. User: Should I talk to a therapist about my stress? Assistant: You're welcome! Taking care of your mental health is just as important as managing physical symptoms. User: I’ll look into that. Thank you for the suggestion! Assistant: Consider checking your heart rate regularly, especially during periods of anxiety, and keep a record to discuss with your doctor. User: How often should I monitor my heart rate?"
+        },
+        {
+            "node_id": "7",
+            "node_count": 7,
+            "type_count": 7,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-15 08:25:54",
+            "expiration": "2023-06-14 08:25:54",
+            "last_accessed": "2023-05-15 08:25:54",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about the symptoms, management, and monitoring of hyperthyroidism.",
+            "description": "On the 15th of May, 2023, the user reported feeling shaky sometimes, a symptom that the assistant suggested could be related to hyperthyroidism due to increased adrenaline. The assistant advised the user to monitor this symptom and discuss it with their healthcare provider if it worsens. \n\nTo manage this symptom, the assistant recommended staying hydrated, avoiding stimulants, and maintaining a routine. The user was encouraged to keep up with these recommendations and to keep the assistant updated on any changes. \n\nThe assistant emphasized the importance of reaching out to their healthcare provider immediately if their symptoms worsen. No specific monitoring indicators, dietary or exercise recommendations, activities, feelings, or medication advice were discussed in this conversation.",
+            "embedding_key": "On the 15th of May, 2023, the user reported feeling shaky sometimes, a symptom that the assistant suggested could be related to hyperthyroidism due to increased adrenaline. The assistant advised the user to monitor this symptom and discuss it with their healthcare provider if it worsens. \n\nTo manage this symptom, the assistant recommended staying hydrated, avoiding stimulants, and maintaining a routine. The user was encouraged to keep up with these recommendations and to keep the assistant updated on any changes. \n\nThe assistant emphasized the importance of reaching out to their healthcare provider immediately if their symptoms worsen. No specific monitoring indicators, dietary or exercise recommendations, activities, feelings, or medication advice were discussed in this conversation.",
+            "poignancy": 7,
+            "keywords": [
+                "the user about the symptoms, management, and monitoring of hyperthyroidism.",
+                "discussed with",
+                "The assistant"
+            ],
+            "filling": "Assistant: Feeling shaky can be a symptom of hyperthyroidism, often related to increased adrenaline. Monitor this and discuss it with your healthcare provider. User: I feel a little shaky sometimes. Is that a sign of my condition? Assistant: Staying hydrated, avoiding stimulants, and maintaining a routine can help manage symptoms effectively. User: What else can I do to manage my symptoms? Assistant: You're doing great! Keep up the good work. User: I'll try to stay on top of those recommendations. Thank you! Assistant: If your symptoms worsen, please reach out to your healthcare provider immediately for guidance. User: What should I do if my symptoms get worse? Assistant: Sounds like a plan! Keeping me updated is crucial for your care. User: I will! I'll keep monitoring and let you know."
+        },
+        {
+            "node_id": "8",
+            "node_count": 8,
+            "type_count": 8,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-17 09:13:12",
+            "expiration": "2023-06-16 09:13:12",
+            "last_accessed": "2023-05-17 09:13:12",
+            "subject": "The assistant",
+            "predicate": "discussed with the user about",
+            "object": "the symptoms of hyperthyroidism, including increased sweating and fatigue, and provided advice on managing these symptoms through clothing choices, rest, and maintaining a balanced diet.",
+            "description": "On the conversation from 2023-05-17, the user reported symptoms of increased sweating and fatigue, which the assistant identified as possible signs of hyperthyroidism. The assistant suggested that these symptoms should be monitored and reported to a healthcare provider if they persist. To manage the excessive sweating, the assistant recommended wearing loose, breathable clothing and staying in cool environments when possible.\n\nThe assistant also provided advice on maintaining energy levels, suggesting a balanced diet, adequate hydration, and sufficient sleep. No specific values for key monitoring indicators like blood pressure or glucose levels were mentioned. There was no mention of specific dietary foods, exercise routines, or activities. No specific feelings, emotional states, or side effects were expressed, and there was no medication advice given.",
+            "embedding_key": "On the conversation from 2023-05-17, the user reported symptoms of increased sweating and fatigue, which the assistant identified as possible signs of hyperthyroidism. The assistant suggested that these symptoms should be monitored and reported to a healthcare provider if they persist. To manage the excessive sweating, the assistant recommended wearing loose, breathable clothing and staying in cool environments when possible.\n\nThe assistant also provided advice on maintaining energy levels, suggesting a balanced diet, adequate hydration, and sufficient sleep. No specific values for key monitoring indicators like blood pressure or glucose levels were mentioned. There was no mention of specific dietary foods, exercise routines, or activities. No specific feelings, emotional states, or side effects were expressed, and there was no medication advice given.",
+            "poignancy": 7,
+            "keywords": [
+                "discussed with the user about",
+                "The assistant",
+                "the symptoms of hyperthyroidism, including increased sweating and fatigue, and provided advice on managing these symptoms through clothing choices, rest, and maintaining a balanced diet."
+            ],
+            "filling": "Assistant: Yes, increased sweating can be a symptom of hyperthyroidism. It's important to monitor this and report it to your doctor if it continues. User: I’ve been sweating more than usual. Is that common? Assistant: Wear loose, breathable clothing, and stay in cool environments when possible to help manage excessive sweating. User: What can I do to feel more comfortable? Assistant: Fatigue can also be a symptom of hyperthyroidism. Ensure you are resting adequately and discuss your fatigue with your healthcare provider. User: I've been feeling tired despite all the sweating. Should I be worried? Assistant: You're welcome! Monitoring all your symptoms is key. User: I'll keep an eye on my fatigue. Thank you for your help! Assistant: Focus on a balanced diet, stay hydrated, and get enough sleep to help maintain your energy levels. User: How can I maintain my energy levels?"
+        },
+        {
+            "node_id": "9",
+            "node_count": 9,
+            "type_count": 9,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-19 02:36:21",
+            "expiration": "2023-06-18 02:36:21",
+            "last_accessed": "2023-05-19 02:36:21",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about the link between mood swings and hyperthyroidism, the benefits of regular exercise, diet, and stress management for mood stabilization, and the importance of monitoring symptoms and thyroid tests to determine the effectiveness of treatment.",
+            "description": "Summary:\n\nOn the 19th of May, 2023, the user discussed their recent experience of mood swings with the assistant. The assistant suggested that these mood swings could be related to hyperthyroidism and advised the user to monitor these changes and discuss them with their healthcare provider. The assistant recommended regular exercise, a healthy diet, and stress management techniques to help stabilize the user's mood. However, the assistant also warned against overexertion during exercise. The user confirmed they had been trying to exercise more, which the assistant praised. The assistant emphasized the importance of monitoring the user's symptoms and suggested monthly thyroid tests to determine if the user's treatment is effective. No specific values for key monitoring indicators like blood pressure or glucose levels were mentioned. No specific dietary recommendations, activities, emotional states, or medication advice were given in this conversation.",
+            "embedding_key": "Summary:\n\nOn the 19th of May, 2023, the user discussed their recent experience of mood swings with the assistant. The assistant suggested that these mood swings could be related to hyperthyroidism and advised the user to monitor these changes and discuss them with their healthcare provider. The assistant recommended regular exercise, a healthy diet, and stress management techniques to help stabilize the user's mood. However, the assistant also warned against overexertion during exercise. The user confirmed they had been trying to exercise more, which the assistant praised. The assistant emphasized the importance of monitoring the user's symptoms and suggested monthly thyroid tests to determine if the user's treatment is effective. No specific values for key monitoring indicators like blood pressure or glucose levels were mentioned. No specific dietary recommendations, activities, emotional states, or medication advice were given in this conversation.",
+            "poignancy": 8,
+            "keywords": [
+                "discussed with",
+                "the user about the link between mood swings and hyperthyroidism, the benefits of regular exercise, diet, and stress management for mood stabilization, and the importance of monitoring symptoms and thyroid tests to determine the effectiveness of treatment.",
+                "The assistant"
+            ],
+            "filling": "Assistant: Mood swings can be linked to hyperthyroidism. It's important to monitor these changes and discuss them with your healthcare provider. User: I've been having mood swings lately. Is that related? Assistant: Regular exercise, a healthy diet, and stress management techniques can help stabilize your mood. User: What can I do to stabilize my mood? Assistant: Yes, regular exercise is beneficial, but listen to your body and avoid overexertion. User: I’ve been trying to exercise more. Is that good? Assistant: You're doing wonderfully! Keep prioritizing your health. User: Thanks for the encouragement. I’ll keep it up! Assistant: Keep an eye on your symptoms. Improvement in symptoms and monthly thyroid tests will help determine if your treatment is effective. User: How can I tell if my treatment is working?"
+        },
+        {
+            "node_id": "10",
+            "node_count": 10,
+            "type_count": 10,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-21 04:08:50",
+            "expiration": "2023-06-20 04:08:50",
+            "last_accessed": "2023-05-21 04:08:50",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about monitoring their symptoms, the importance of contacting their healthcare provider if symptoms return or worsen, and what to discuss during their next check-up.",
+            "description": "The conversation from 2023-05-21 involved a discussion about medical monitoring. The assistant advised the user to continue following their medication regimen and to monitor their symptoms closely. The assistant also mentioned that if the user's symptoms return or worsen, they should contact their healthcare provider immediately. The user indicated that they were feeling better overall and would continue to monitor their health. The assistant recommended that the user discuss any new symptoms, review the effectiveness of their medication, and any side effects during their next check-up. However, this conversation did not include specific details about key monitoring indicators, their values, symptoms' severity or frequency, dietary or exercise recommendations, descriptions of activities, related feelings, emotional states, or side effects, or specific medication advice.",
+            "embedding_key": "The conversation from 2023-05-21 involved a discussion about medical monitoring. The assistant advised the user to continue following their medication regimen and to monitor their symptoms closely. The assistant also mentioned that if the user's symptoms return or worsen, they should contact their healthcare provider immediately. The user indicated that they were feeling better overall and would continue to monitor their health. The assistant recommended that the user discuss any new symptoms, review the effectiveness of their medication, and any side effects during their next check-up. However, this conversation did not include specific details about key monitoring indicators, their values, symptoms' severity or frequency, dietary or exercise recommendations, descriptions of activities, related feelings, emotional states, or side effects, or specific medication advice.",
+            "poignancy": 7,
+            "keywords": [
+                "discussed with",
+                "the user about monitoring their symptoms, the importance of contacting their healthcare provider if symptoms return or worsen, and what to discuss during their next check-up.",
+                "The assistant"
+            ],
+            "filling": "Assistant: It’s great to hear you’re feeling better! Continue following your medication regimen and monitor your symptoms closely. User: I’ve been feeling better overall. Should I change anything? Assistant: If your symptoms return or worsen, contact your healthcare provider immediately for further evaluation. User: What if my symptoms come back? Assistant: You're very welcome! Staying proactive about your health is the best approach. User: I will keep monitoring my health. Thank you for your support! Assistant: During your next check-up, discuss any new symptoms and review your medication effectiveness and any side effects. User: What should I do during my next check-up? Assistant: You're doing great! Keep up the good work, and let me know if you have any concerns. User: I will make sure to prepare for it. Thanks again!"
+        }
+    ]
+}

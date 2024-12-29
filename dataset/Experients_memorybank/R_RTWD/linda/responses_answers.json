@@ -1,0 +1,30 @@
+[
+    {
+        "hyp": "On May 6th, you shared that you had recently read \"The Stranger\", \"Gone with the Wind\", and \"The Gift of Time\". You also mentioned your future reading plans which included \"Dream of the Red Chamber\", \"Journey to the West\", \"A Brief History of Time\", and \"Sapiens\".",
+        "ref": "On May 6th, you shared 'The Stranger', 'Gone with the Wind', and 'The Gift of Time'."
+    },
+    {
+        "hyp": "The insights do not provide information on any books that you recommended on May 6, 2023. The available information only mentions the books you had read and planned to read next.",
+        "ref": "You recommended 'Dream of the Red Chamber', 'Journey to the West', 'A Brief History of Time', and 'Sapiens'."
+    },
+    {
+        "hyp": "I'm sorry, but the information provided does not include any conversation or topic discussed on April 27th.",
+        "ref": "On April 27th, we talked about your work-related concerns, where you mentioned having a stable but unexciting job and considering a career change. We also discussed your hobbies like yoga, writing, travel, and photography, and how you could explore them more deeply to enrich your life."
+    },
+    {
+        "hyp": "I'm sorry, but the information provided does not mention any recommendation about a note-taking software on April 28th.",
+        "ref": "On April 28th, I recommended OneNote as a note-taking software."
+    },
+    {
+        "hyp": "The color of the dress you purchased on May 2nd is white.",
+        "ref": "The dress you bought on May 2nd is white."
+    },
+    {
+        "hyp": "On May 1, 2023, you discussed your travel plans to Mexico. You expressed enthusiasm and interest in the Mexican culture, art, architecture, and cuisine. You also planned to visit cultural heritage sites, including cities and architectural complexes of the Mayan and Aztec civilizations, and explore museums showcasing art, crafts, and handcrafted goods.",
+        "ref": "On May 1st, you planned to go on a trip to Mexico."
+    },
+    {
+        "hyp": "On May 4th, 2023, you planned to go to Spain. Your trip was intended to last for approximately two weeks.",
+        "ref": "On May 4th, you planned to visit Spain, exploring cities like Madrid, Barcelona, and Granada."
+    }
+]

@@ -1,0 +1,246 @@
+{
+    "nodes": [
+        {
+            "node_id": "0",
+            "node_count": 0,
+            "type_count": 0,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-01 09:18:10",
+            "expiration": "2023-05-31 09:18:10",
+            "last_accessed": "2023-05-01 09:18:10",
+            "subject": "The assistant",
+            "predicate": "discussed with the user about",
+            "object": "the impacts of poor sleep quality, high blood pressure, increased alcohol consumption and smoking, abnormal ECG results, and lack of physical activity on heart health, particularly in relation to arrhythmia, hypertension, and potential vascular issues.",
+            "description": "Summary:\n\nOn 2023-05-01, the user discussed several health concerns with the assistant. The user reported poor sleep quality and restlessness, which the assistant noted could potentially impact heart health, especially in the context of arrhythmia. The assistant recommended a sleep quality assessment and relaxation techniques to improve sleep.\n\nThe user also reported high blood pressure readings and occasional dizziness. The assistant identified these symptoms as possible signs of hypertension and suggested regular blood pressure monitoring, diet and exercise adjustments, and a discussion with a doctor about potential medication.\n\nThe user admitted to increased alcohol consumption and smoking due to stress. The assistant warned that these habits could negatively affect heart health and recommended reducing alcohol intake and considering quitting smoking.\n\nThe user mentioned abnormal ECG results. The assistant advised scheduling regular ECG checks and possibly arranging additional diagnostic tests like coronary imaging to rule out any vascular issues.\n\nFinally, the user admitted to a lack of physical activity. The assistant confirmed this could impact heart health and recommended the creation of a personalized exercise plan that includes moderate aerobic activities, advising the user to start slowly and monitor how they feel during exercise.",
+            "embedding_key": "Summary:\n\nOn 2023-05-01, the user discussed several health concerns with the assistant. The user reported poor sleep quality and restlessness, which the assistant noted could potentially impact heart health, especially in the context of arrhythmia. The assistant recommended a sleep quality assessment and relaxation techniques to improve sleep.\n\nThe user also reported high blood pressure readings and occasional dizziness. The assistant identified these symptoms as possible signs of hypertension and suggested regular blood pressure monitoring, diet and exercise adjustments, and a discussion with a doctor about potential medication.\n\nThe user admitted to increased alcohol consumption and smoking due to stress. The assistant warned that these habits could negatively affect heart health and recommended reducing alcohol intake and considering quitting smoking.\n\nThe user mentioned abnormal ECG results. The assistant advised scheduling regular ECG checks and possibly arranging additional diagnostic tests like coronary imaging to rule out any vascular issues.\n\nFinally, the user admitted to a lack of physical activity. The assistant confirmed this could impact heart health and recommended the creation of a personalized exercise plan that includes moderate aerobic activities, advising the user to start slowly and monitor how they feel during exercise.",
+            "poignancy": 9,
+            "keywords": [
+                "The assistant",
+                "the impacts of poor sleep quality, high blood pressure, increased alcohol consumption and smoking, abnormal ECG results, and lack of physical activity on heart health, particularly in relation to arrhythmia, hypertension, and potential vascular issues.",
+                "discussed with the user about"
+            ],
+            "filling": "Assistant: Poor sleep quality can indeed impact your heart health, especially if you have arrhythmia. I recommend undergoing a sleep quality assessment to rule out sleep apnea syndrome. Additionally, practicing relaxation techniques may help improve your sleep. User: I've been experiencing poor sleep lately and often feel restless. Could this affect my heart health? Assistant: Elevated blood pressure and dizziness can be signs of hypertension. It's important to monitor your blood pressure regularly and record the readings. We should also discuss possible adjustments to your diet and exercise routine, and consider consulting your doctor about medication options. User: My blood pressure readings have been high recently, and I sometimes feel dizzy. Is this normal? Assistant: Increased alcohol consumption and smoking can negatively impact your heart health. I advise reducing your alcohol intake and considering quitting smoking. We can provide resources and support to help you with this. User: I've been drinking and smoking more due to stress. Will this affect my heart? Assistant: Abnormal ECG results warrant further investigation. I recommend scheduling regular ECG checks and possibly arranging for additional diagnostic tests like coronary imaging to rule out any vascular issues. User: My recent ECG showed some abnormalities. Should I be concerned? Assistant: A lack of physical activity can indeed impact your heart health. It would be beneficial to create a personalized exercise plan that includes moderate aerobic activities. Start slowly and monitor how you feel during exercise. User: I don't exercise much. Could this affect my heart health?"
+        },
+        {
+            "node_id": "1",
+            "node_count": 1,
+            "type_count": 1,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-03 07:59:44",
+            "expiration": "2023-06-02 07:59:44",
+            "last_accessed": "2023-05-03 07:59:44",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about managing sleep issues, high blood pressure, smoking cessation, preparation for a heart check-up, and fatigue from starting a new exercise routine.",
+            "description": "On May 3, 2023, the user discussed several health concerns with the assistant. The user's high blood pressure remained uncontrolled despite dietary changes, and the assistant suggested consulting a doctor about starting antihypertensive medication. The assistant also advised the user to prepare for an upcoming heart check-up by recording any symptoms and bringing recent blood pressure readings. \n\nThe user also expressed difficulty in quitting smoking, and the assistant recommended smoking cessation programs, resources, and potential nicotine replacement therapy or counseling. \n\nAdditionally, the user mentioned feeling fatigued after starting a daily walking routine. The assistant reassured the user that fatigue is normal when starting a new exercise routine and advised the user to start slowly, gradually increase activity levels, and rest when needed. \n\nFinally, the user's sleep issues were discussed. The assistant recommended consulting a sleep specialist for a comprehensive sleep evaluation if relaxation techniques do not improve the user's sleep quality.",
+            "embedding_key": "On May 3, 2023, the user discussed several health concerns with the assistant. The user's high blood pressure remained uncontrolled despite dietary changes, and the assistant suggested consulting a doctor about starting antihypertensive medication. The assistant also advised the user to prepare for an upcoming heart check-up by recording any symptoms and bringing recent blood pressure readings. \n\nThe user also expressed difficulty in quitting smoking, and the assistant recommended smoking cessation programs, resources, and potential nicotine replacement therapy or counseling. \n\nAdditionally, the user mentioned feeling fatigued after starting a daily walking routine. The assistant reassured the user that fatigue is normal when starting a new exercise routine and advised the user to start slowly, gradually increase activity levels, and rest when needed. \n\nFinally, the user's sleep issues were discussed. The assistant recommended consulting a sleep specialist for a comprehensive sleep evaluation if relaxation techniques do not improve the user's sleep quality.",
+            "poignancy": 8,
+            "keywords": [
+                "The assistant",
+                "discussed with",
+                "the user about managing sleep issues, high blood pressure, smoking cessation, preparation for a heart check-up, and fatigue from starting a new exercise routine."
+            ],
+            "filling": "Assistant: If relaxation techniques aren't helping, it might be useful to consult a sleep specialist for a comprehensive sleep evaluation. They can help identify underlying issues affecting your sleep. User: I tried some relaxation techniques, but my sleep hasn't improved much. Any other suggestions? Assistant: If lifestyle adjustments aren't lowering your blood pressure sufficiently, it's advisable to consult your doctor about starting antihypertensive medication. User: My blood pressure is still high despite dietary changes. Should I consider medication? Assistant: Quitting smoking can be challenging. We can provide support through smoking cessation programs and resources. Nicotine replacement therapy or counseling might also help. User: I'm finding it hard to quit smoking. What can I do? Assistant: Before your appointment, keep a record of any symptoms you've experienced. It's also helpful to bring your recent blood pressure readings and any questions you might have for your doctor. User: I have an appointment for a heart check-up next week. Is there anything I should prepare? Assistant: Feeling some fatigue when starting a new exercise routine is normal. Make sure to start slowly and gradually increase your activity level. Listen to your body and rest when needed. User: I started walking daily but feel tired afterward. Is this normal?"
+        },
+        {
+            "node_id": "2",
+            "node_count": 2,
+            "type_count": 2,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-05 04:56:43",
+            "expiration": "2023-06-04 04:56:43",
+            "last_accessed": "2023-05-05 04:56:43",
+            "subject": "The assistant",
+            "predicate": "discussed with the user about",
+            "object": "the impacts of mood changes on sleep and heart health, the need for medical evaluation of worsening dizziness, the effects of reducing alcohol intake, the importance of regular monitoring despite normal heart check-up results, and the potential concern of irregular heart rates during exercise.",
+            "description": "Date: 2023-05-05\n\nThe user reported feeling down, which could potentially affect their sleep and heart health. The assistant advised seeking help from a mental health professional. The user also reported worsening dizziness, prompting the assistant to recommend immediate consultation with a doctor to rule out serious cardiovascular issues. Despite reducing alcohol intake, the user didn't feel better, and the assistant suggested that improvements might take time and encouraged further lifestyle changes for heart health. The user's heart check-up results were normal, but the assistant advised continued monitoring and a healthy lifestyle to prevent future issues. The user expressed concern about irregular heart rates during increased exercise time, and the assistant recommended monitoring symptoms and consulting a doctor if it continues.",
+            "embedding_key": "Date: 2023-05-05\n\nThe user reported feeling down, which could potentially affect their sleep and heart health. The assistant advised seeking help from a mental health professional. The user also reported worsening dizziness, prompting the assistant to recommend immediate consultation with a doctor to rule out serious cardiovascular issues. Despite reducing alcohol intake, the user didn't feel better, and the assistant suggested that improvements might take time and encouraged further lifestyle changes for heart health. The user's heart check-up results were normal, but the assistant advised continued monitoring and a healthy lifestyle to prevent future issues. The user expressed concern about irregular heart rates during increased exercise time, and the assistant recommended monitoring symptoms and consulting a doctor if it continues.",
+            "poignancy": 8,
+            "keywords": [
+                "The assistant",
+                "the impacts of mood changes on sleep and heart health, the need for medical evaluation of worsening dizziness, the effects of reducing alcohol intake, the importance of regular monitoring despite normal heart check-up results, and the potential concern of irregular heart rates during exercise.",
+                "discussed with the user about"
+            ],
+            "filling": "Assistant: Yes, mood changes like depression can impact sleep quality and heart health. Consider reaching out to a mental health professional for support. User: I've been feeling down lately. Could this affect my sleep? Assistant: Worsening dizziness should be evaluated promptly. Please schedule an appointment with your doctor to rule out any serious cardiovascular issues. User: My dizziness has worsened. Should I see a doctor immediately? Assistant: It may take time to notice improvements after reducing alcohol intake. Continue with your efforts, and consider additional lifestyle changes to support your heart health. User: I've reduced alcohol but don't feel better yet. What should I do? Assistant: Normal results are reassuring, but it's important to continue regular monitoring and maintain a healthy lifestyle to prevent future issues. User: My heart check-up results came back normal. Can I stop worrying? Assistant: Irregular heart rates during exercise can be a sign to slow down. Please monitor your symptoms and consult your doctor if this continues. User: I've increased my exercise time but sometimes my heart rate feels irregular. Is this concerning?"
+        },
+        {
+            "node_id": "3",
+            "node_count": 3,
+            "type_count": 3,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-07 11:12:44",
+            "expiration": "2023-06-06 11:12:44",
+            "last_accessed": "2023-05-07 11:12:44",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about managing sleep interruptions, monitoring blood pressure, quitting smoking, dealing with palpitations, and managing fatigue after exercise.",
+            "description": "On the conversation from 2023-05-07, the user reported persistent sleep interruptions that have slightly improved but still persist. The assistant suggested a sleep study and maintaining good sleep hygiene with a relaxing bedtime routine. The user's blood pressure was also discussed; it has dropped slightly but remains unstable. The assistant recommended continuing to monitor it and maintain a healthy diet and exercise regimen. A possible need for medication adjustments was also mentioned, to be discussed with the user's doctor.\n\nThe user expressed difficulty in quitting smoking, and the assistant suggested support groups or counseling to help. The user also reported experiencing palpitations, which the assistant identified as a potential symptom of arrhythmia and advised a consultation with the user's doctor for further evaluation.\n\nThe user also reported feeling tired after exercising. The assistant noted that while some fatigue after exercise is normal, excessive tiredness is not. The assistant suggested reducing the intensity and duration of the user's workouts to see if that helps.",
+            "embedding_key": "On the conversation from 2023-05-07, the user reported persistent sleep interruptions that have slightly improved but still persist. The assistant suggested a sleep study and maintaining good sleep hygiene with a relaxing bedtime routine. The user's blood pressure was also discussed; it has dropped slightly but remains unstable. The assistant recommended continuing to monitor it and maintain a healthy diet and exercise regimen. A possible need for medication adjustments was also mentioned, to be discussed with the user's doctor.\n\nThe user expressed difficulty in quitting smoking, and the assistant suggested support groups or counseling to help. The user also reported experiencing palpitations, which the assistant identified as a potential symptom of arrhythmia and advised a consultation with the user's doctor for further evaluation.\n\nThe user also reported feeling tired after exercising. The assistant noted that while some fatigue after exercise is normal, excessive tiredness is not. The assistant suggested reducing the intensity and duration of the user's workouts to see if that helps.",
+            "poignancy": 8,
+            "keywords": [
+                "The assistant",
+                "discussed with",
+                "the user about managing sleep interruptions, monitoring blood pressure, quitting smoking, dealing with palpitations, and managing fatigue after exercise."
+            ],
+            "filling": "Assistant: Persistent sleep interruptions could benefit from a sleep study. Meanwhile, maintain good sleep hygiene and try to establish a relaxing bedtime routine. User: My sleep has slightly improved, but I still wake up at night. Any advice? Assistant: Continue monitoring your blood pressure and maintaining a healthy diet and exercise regimen. Discuss with your doctor whether medication adjustments are needed. User: My blood pressure has dropped slightly but isn't stable. What else can I do? Assistant: You're not alone in this struggle. Support groups or counseling might provide the encouragement you need to stay on track. User: I'm struggling to quit smoking entirely. It's hard to stay committed. Assistant: Palpitations can be a symptom of arrhythmia. It's advisable to consult your doctor for further evaluation. User: I've been feeling palpitations lately. Should I get another check-up? Assistant: Some fatigue is normal after exercise, but excessive tiredness isn't. Consider reducing the intensity and duration of your workouts and see if that helps. User: I feel tired after exercising. Is this expected?"
+        },
+        {
+            "node_id": "4",
+            "node_count": 4,
+            "type_count": 4,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-09 05:12:50",
+            "expiration": "2023-06-08 05:12:50",
+            "last_accessed": "2023-05-09 05:12:50",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about managing anxiety, reducing dizziness, dealing with cravings during smoking cessation, preparing for an ECG, and the mood-enhancing effects of exercise.",
+            "description": "Summary:\n\nThe conversation on 2023-05-09 revolved around the user's health monitoring and management plan. The user expressed that their mood has improved, but they still experience occasional anxiety. The assistant suggested continuing with relaxation techniques and considering speaking to a mental health professional if anxiety persists.\n\nThe user also reported a reduction in dizziness, which the assistant confirmed as a positive sign and encouraged the continuation of their current management plan and regular monitoring. The user mentioned that they had quit smoking for a week but still had cravings. The assistant advised that cravings are common during the quitting process and suggested considering nicotine replacement therapy to manage them.\n\nThe user also had an ECG scheduled for the following week. The assistant advised that no special preparation was typically required, except to arrive on time and relax during the test.\n\nThe user found that exercise improved their mood, which the assistant confirmed as normal, explaining that exercise releases endorphins that can boost mood. The assistant encouraged the user to continue their exercise routine. No specific key monitoring indicators, values, dietary recommendations, or medication advice were discussed in this conversation.",
+            "embedding_key": "Summary:\n\nThe conversation on 2023-05-09 revolved around the user's health monitoring and management plan. The user expressed that their mood has improved, but they still experience occasional anxiety. The assistant suggested continuing with relaxation techniques and considering speaking to a mental health professional if anxiety persists.\n\nThe user also reported a reduction in dizziness, which the assistant confirmed as a positive sign and encouraged the continuation of their current management plan and regular monitoring. The user mentioned that they had quit smoking for a week but still had cravings. The assistant advised that cravings are common during the quitting process and suggested considering nicotine replacement therapy to manage them.\n\nThe user also had an ECG scheduled for the following week. The assistant advised that no special preparation was typically required, except to arrive on time and relax during the test.\n\nThe user found that exercise improved their mood, which the assistant confirmed as normal, explaining that exercise releases endorphins that can boost mood. The assistant encouraged the user to continue their exercise routine. No specific key monitoring indicators, values, dietary recommendations, or medication advice were discussed in this conversation.",
+            "poignancy": 8,
+            "keywords": [
+                "The assistant",
+                "discussed with",
+                "the user about managing anxiety, reducing dizziness, dealing with cravings during smoking cessation, preparing for an ECG, and the mood-enhancing effects of exercise."
+            ],
+            "filling": "Assistant: It's good that your mood has lifted. Continue practicing relaxation techniques, and consider speaking with a mental health professional if anxiety persists. User: My mood has improved, but I still feel anxious occasionally. Assistant: Yes, a reduction in dizziness is positive. Keep up with your current management plan and regular monitoring. User: I'm experiencing less dizziness. Is that a good sign? Assistant: Cravings are common during the quitting process. Stay strong, and consider using nicotine replacement therapy to help manage cravings. User: I haven't smoked for a week but still crave cigarettes. Assistant: An ECG doesn't typically require special preparation. Just make sure to arrive on time and relax during the test. User: My ECG is scheduled for next week. Anything I should do beforehand? Assistant: Absolutely, exercise releases endorphins that can boost your mood. Keep up the good work! User: Exercise seems to improve my mood. Is this normal?"
+        },
+        {
+            "node_id": "5",
+            "node_count": 5,
+            "type_count": 5,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-11 03:05:22",
+            "expiration": "2023-06-10 03:05:22",
+            "last_accessed": "2023-05-11 03:05:22",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about the importance of maintaining a healthy lifestyle, regular monitoring of sleep quality and blood pressure, reducing alcohol intake, and the significance of normal ECG results in heart health.",
+            "description": "Summary:\n\nOn 2023-05-11, the user reported that their sleep quality has stabilized, and the assistant advised them to continue their current routine and to report any changes. Despite the user's blood pressure readings being normal, the assistant recommended that they continue regular monitoring to ensure it remains within a healthy range. \n\nThe user also mentioned that they had reduced their alcohol intake to once a week. The assistant advised them that reducing alcohol intake is beneficial and suggested that they aim to keep it moderate, even considering further reduction if possible. \n\nThe user's latest ECG results were normal, which the assistant found encouraging. They were advised to continue with regular check-ups and maintain a heart-healthy lifestyle. \n\nThe user indicated that they are walking for 30 minutes daily and feeling good, which the assistant affirmed is excellent for heart health. No specific medication advice was given during this conversation.",
+            "embedding_key": "Summary:\n\nOn 2023-05-11, the user reported that their sleep quality has stabilized, and the assistant advised them to continue their current routine and to report any changes. Despite the user's blood pressure readings being normal, the assistant recommended that they continue regular monitoring to ensure it remains within a healthy range. \n\nThe user also mentioned that they had reduced their alcohol intake to once a week. The assistant advised them that reducing alcohol intake is beneficial and suggested that they aim to keep it moderate, even considering further reduction if possible. \n\nThe user's latest ECG results were normal, which the assistant found encouraging. They were advised to continue with regular check-ups and maintain a heart-healthy lifestyle. \n\nThe user indicated that they are walking for 30 minutes daily and feeling good, which the assistant affirmed is excellent for heart health. No specific medication advice was given during this conversation.",
+            "poignancy": 8,
+            "keywords": [
+                "The assistant",
+                "discussed with",
+                "the user about the importance of maintaining a healthy lifestyle, regular monitoring of sleep quality and blood pressure, reducing alcohol intake, and the significance of normal ECG results in heart health."
+            ],
+            "filling": "Assistant: Stabilized sleep quality is a positive sign. Continue your current routine and inform us if anything changes. User: My sleep quality has stabilized. Is that sufficient? Assistant: Even with normal readings, it's advisable to continue regular monitoring to ensure it stays within a healthy range. User: My blood pressure readings are normal now. Can I measure less frequently? Assistant: Reducing alcohol intake is beneficial. Aim to keep it moderate, and consider further reduction if possible. User: I've reduced drinking to once a week. Is that acceptable? Assistant: Normal ECG results are encouraging. Keep up with regular check-ups and a heart-healthy lifestyle. User: My latest ECG results were normal. Can I be at ease now? Assistant: That's great to hear! Regular moderate exercise is excellent for your heart health. User: I'm walking 30 minutes daily and feel good."
+        },
+        {
+            "node_id": "6",
+            "node_count": 6,
+            "type_count": 6,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-13 00:03:15",
+            "expiration": "2023-06-12 00:03:15",
+            "last_accessed": "2023-05-13 00:03:15",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about stress management techniques, the impact of diet on blood pressure, weight gain after quitting smoking, the significance of chest tightness, and the connection between exercise and sleep quality.",
+            "description": "Summary:\n\nOn 2023-05-13, the user discussed several health concerns with the assistant. The user reported occasional stress, fluctuations in blood pressure, weight gain after quitting smoking, and occasional chest tightness. \n\nTo manage stress, the assistant suggested techniques such as deep breathing exercises, meditation, and yoga. The user was advised to modify their diet to manage blood pressure, specifically by reducing sodium intake and increasing consumption of fruits and vegetables. \n\nThe assistant confirmed that weight gain can occur after quitting smoking due to changes in metabolism and appetite. To counteract this, the assistant recommended a balanced diet and regular exercise. \n\nThe user was advised to consult a doctor about the reported chest tightness, as it could be a sign of cardiac issues. \n\nThe assistant confirmed a connection between regular physical activity and improved sleep quality, encouraging the user to maintain their exercise routine.",
+            "embedding_key": "Summary:\n\nOn 2023-05-13, the user discussed several health concerns with the assistant. The user reported occasional stress, fluctuations in blood pressure, weight gain after quitting smoking, and occasional chest tightness. \n\nTo manage stress, the assistant suggested techniques such as deep breathing exercises, meditation, and yoga. The user was advised to modify their diet to manage blood pressure, specifically by reducing sodium intake and increasing consumption of fruits and vegetables. \n\nThe assistant confirmed that weight gain can occur after quitting smoking due to changes in metabolism and appetite. To counteract this, the assistant recommended a balanced diet and regular exercise. \n\nThe user was advised to consult a doctor about the reported chest tightness, as it could be a sign of cardiac issues. \n\nThe assistant confirmed a connection between regular physical activity and improved sleep quality, encouraging the user to maintain their exercise routine.",
+            "poignancy": 8,
+            "keywords": [
+                "The assistant",
+                "discussed with",
+                "the user about stress management techniques, the impact of diet on blood pressure, weight gain after quitting smoking, the significance of chest tightness, and the connection between exercise and sleep quality."
+            ],
+            "filling": "Assistant: Consider exploring new stress management techniques like deep breathing exercises, meditation, or yoga. User: I still feel stressed occasionally. How can I alleviate this? Assistant: Diet can impact blood pressure. Try reducing sodium intake and increasing fruits and vegetables in your meals. User: My blood pressure fluctuates. Should I change my diet? Assistant: Weight gain can occur after quitting smoking due to changes in metabolism and appetite. Focus on a balanced diet and regular exercise to manage your weight. User: I've gained weight after quitting smoking. Is this normal? Assistant: Chest tightness can be a sign of cardiac issues. Please consult your doctor promptly for an evaluation. User: Sometimes I feel chest tightness. Should I be worried? Assistant: Yes, regular physical activity can enhance sleep quality. Keep up with your exercise routine. User: My sleep has improved since exercising more. Is there a connection?"
+        },
+        {
+            "node_id": "7",
+            "node_count": 7,
+            "type_count": 7,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-15 12:39:28",
+            "expiration": "2023-06-14 12:39:28",
+            "last_accessed": "2023-05-15 12:39:28",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about maintaining emotional stability, medication adjustments, lifestyle changes including alcohol consumption and exercise, and the importance of regular check-ups even after normal coronary imaging results for heart health.",
+            "description": "Summary:\n\nOn May 15, 2023, the user and the assistant discussed various aspects of the user's health, including emotional stability, medication, blood pressure, alcohol consumption, heart health, and exercise. \n\nThe user stated they were feeling more emotionally stable and wanted to ensure everything was okay. The assistant advised consulting a mental health professional if any concerns persisted. \n\nThe user's blood pressure was reported as stable, prompting questions about potentially stopping some medications. The assistant recommended discussing any changes to medication with the user's healthcare provider. \n\nThe user mentioned they had stopped drinking alcohol, but it was negatively affecting their social life. The assistant suggested considering non-alcoholic options during social events or setting personal limits that the user is comfortable with. \n\nThe user's coronary imaging results were normal, leading them to question if they could relax their health precautions. The assistant stressed the importance of maintaining regular check-ups and a healthy lifestyle for sustained heart health. \n\nLastly, the user was starting light strength training and wanted to know if this was advisable. The assistant noted that light strength training could be beneficial if approved by a doctor, and advised the user to start gradually and monitor how they feel.",
+            "embedding_key": "Summary:\n\nOn May 15, 2023, the user and the assistant discussed various aspects of the user's health, including emotional stability, medication, blood pressure, alcohol consumption, heart health, and exercise. \n\nThe user stated they were feeling more emotionally stable and wanted to ensure everything was okay. The assistant advised consulting a mental health professional if any concerns persisted. \n\nThe user's blood pressure was reported as stable, prompting questions about potentially stopping some medications. The assistant recommended discussing any changes to medication with the user's healthcare provider. \n\nThe user mentioned they had stopped drinking alcohol, but it was negatively affecting their social life. The assistant suggested considering non-alcoholic options during social events or setting personal limits that the user is comfortable with. \n\nThe user's coronary imaging results were normal, leading them to question if they could relax their health precautions. The assistant stressed the importance of maintaining regular check-ups and a healthy lifestyle for sustained heart health. \n\nLastly, the user was starting light strength training and wanted to know if this was advisable. The assistant noted that light strength training could be beneficial if approved by a doctor, and advised the user to start gradually and monitor how they feel.",
+            "poignancy": 8,
+            "keywords": [
+                "The assistant",
+                "discussed with",
+                "the user about maintaining emotional stability, medication adjustments, lifestyle changes including alcohol consumption and exercise, and the importance of regular check-ups even after normal coronary imaging results for heart health."
+            ],
+            "filling": "Assistant: Emotional stability is great for your overall health. If you have any lingering concerns, don't hesitate to consult a mental health professional. User: I'm feeling much more emotionally stable but want to ensure everything is okay. Assistant: Any changes to medication should be made under your doctor's guidance. Please discuss this with your healthcare provider. User: My blood pressure remains stable. Can I stop some medications? Assistant: You might consider non-alcoholic options during social events or set personal limits that you're comfortable with. User: I've stopped drinking entirely, but it's affecting my social life. Assistant: Normal results are reassuring, but continue with regular check-ups and a healthy lifestyle to maintain heart health. User: My coronary imaging results are normal. Can I relax now? Assistant: Light strength training can be beneficial if approved by your doctor. Start gradually and monitor how you feel. User: I'm starting light strength training. Is this okay?"
+        },
+        {
+            "node_id": "8",
+            "node_count": 8,
+            "type_count": 8,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-17 08:52:46",
+            "expiration": "2023-06-16 08:52:46",
+            "last_accessed": "2023-05-17 08:52:46",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about managing anxiety, monitoring blood pressure, the benefits of quitting smoking, interpreting ECG abnormalities, and increasing exercise intensity.",
+            "description": "Summary:\n\nOn 2023-05-17, the user discussed various health concerns with an assistant. The user expressed occasional feelings of anxiety, to which the assistant advised consulting a mental health professional if it interferes with daily life. No specific medication was recommended at this stage.\n\nThe user reported a slight increase in blood pressure. The assistant recommended reviewing dietary and exercise habits to support blood pressure goals and suggested consulting a doctor if the increase persists. No specific values were provided for the blood pressure increase.\n\nThe user mentioned feeling better overall since quitting smoking, which the assistant positively acknowledged, highlighting the numerous health benefits of this decision.\n\nThe user revealed that their ECG shows slight abnormalities. The assistant advised that while minor abnormalities might not be serious, they should be monitored and further evaluated by a doctor.\n\nFinally, the user stated that they felt good after increasing exercise intensity. The assistant advised the user to continue, but to increase intensity gradually and monitor the body's response. No specific details were given about the type, duration, or intensity of the exercise.",
+            "embedding_key": "Summary:\n\nOn 2023-05-17, the user discussed various health concerns with an assistant. The user expressed occasional feelings of anxiety, to which the assistant advised consulting a mental health professional if it interferes with daily life. No specific medication was recommended at this stage.\n\nThe user reported a slight increase in blood pressure. The assistant recommended reviewing dietary and exercise habits to support blood pressure goals and suggested consulting a doctor if the increase persists. No specific values were provided for the blood pressure increase.\n\nThe user mentioned feeling better overall since quitting smoking, which the assistant positively acknowledged, highlighting the numerous health benefits of this decision.\n\nThe user revealed that their ECG shows slight abnormalities. The assistant advised that while minor abnormalities might not be serious, they should be monitored and further evaluated by a doctor.\n\nFinally, the user stated that they felt good after increasing exercise intensity. The assistant advised the user to continue, but to increase intensity gradually and monitor the body's response. No specific details were given about the type, duration, or intensity of the exercise.",
+            "poignancy": 8,
+            "keywords": [
+                "The assistant",
+                "discussed with",
+                "the user about managing anxiety, monitoring blood pressure, the benefits of quitting smoking, interpreting ECG abnormalities, and increasing exercise intensity."
+            ],
+            "filling": "Assistant: If anxiety interferes with your daily life, it's advisable to consult a mental health professional to discuss possible treatments. User: I occasionally feel anxious. Do I need medication? Assistant: Review your diet and exercise habits to ensure they're supporting your blood pressure goals. Consult your doctor if the increase persists. User: My blood pressure has slightly increased. Should I adjust anything? Assistant: That's wonderful to hear! Quitting smoking has numerous health benefits. Keep it up! User: I feel better overall since quitting smoking. Assistant: Minor abnormalities may not be serious but should be monitored. Please follow up with your doctor for further evaluation. User: My ECG shows slight abnormalities. Is this serious? Assistant: If you're feeling well, you can continue, but make sure to increase intensity gradually and monitor your body's response. User: I feel good after increasing exercise intensity. Can I continue?"
+        },
+        {
+            "node_id": "9",
+            "node_count": 9,
+            "type_count": 9,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-19 00:45:20",
+            "expiration": "2023-06-18 00:45:20",
+            "last_accessed": "2023-05-19 00:45:20",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about the impacts of chronic work stress, the importance of maintaining healthy habits for blood pressure control, the benefits of quitting smoking and drinking for heart health, and the need for regular exercise and check-ups even when heart tests are normal.",
+            "description": "Summary:\n\nOn 2023-05-19, the user expressed concerns about high work stress potentially affecting their health, although they reported a stable mood. The assistant encouraged the implementation of stress management techniques and relaxation time. The user's blood pressure was well-controlled, which the assistant confirmed could have a lasting effect if consistent healthy habits are maintained. The user had also quit smoking and drinking, which significantly improved their heart health. Despite all heart tests showing normal results, the assistant emphasized the importance of regular check-ups and maintaining a healthy lifestyle. The user was exercising for an hour daily, which they reported made them feel energized. The assistant approved of this routine but cautioned not to overdo it.",
+            "embedding_key": "Summary:\n\nOn 2023-05-19, the user expressed concerns about high work stress potentially affecting their health, although they reported a stable mood. The assistant encouraged the implementation of stress management techniques and relaxation time. The user's blood pressure was well-controlled, which the assistant confirmed could have a lasting effect if consistent healthy habits are maintained. The user had also quit smoking and drinking, which significantly improved their heart health. Despite all heart tests showing normal results, the assistant emphasized the importance of regular check-ups and maintaining a healthy lifestyle. The user was exercising for an hour daily, which they reported made them feel energized. The assistant approved of this routine but cautioned not to overdo it.",
+            "poignancy": 8,
+            "keywords": [
+                "The assistant",
+                "discussed with",
+                "the user about the impacts of chronic work stress, the importance of maintaining healthy habits for blood pressure control, the benefits of quitting smoking and drinking for heart health, and the need for regular exercise and check-ups even when heart tests are normal."
+            ],
+            "filling": "Assistant: Chronic work stress can impact your health. Implement stress management techniques and ensure you have time to relax. User: My mood is stable, but work stress is high. Could this affect me? Assistant: Consistent healthy habits can lead to long-term blood pressure control. Keep up the good work. User: My blood pressure is well-controlled. Is this a lasting effect? Assistant: That's excellent news! These changes significantly benefit your heart health. Congratulations! User: I've completely quit smoking and drinking and feel great. Assistant: While current results are good, it's important to continue regular check-ups and maintain your healthy lifestyle. User: All my heart tests are normal. Do I still need to worry? Assistant: That's fantastic! Regular exercise is key to heart health. Just be sure not to overdo it. User: I'm exercising an hour daily and feel energized."
+        },
+        {
+            "node_id": "10",
+            "node_count": 10,
+            "type_count": 10,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-21 07:21:57",
+            "expiration": "2023-06-20 07:21:57",
+            "last_accessed": "2023-05-21 07:21:57",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about maintaining heart health through regular monitoring, balanced diet, physical activity, quitting smoking and drinking, and scheduling regular check-ups.",
+            "description": "Summary:\n\nOn 2023-05-21, the conversation revolved around maintaining healthy habits and monitoring health metrics. Although no specific values were mentioned, the user noted that their blood pressure had been stable. The assistant advised the user to continue monitoring their health, even if the frequency of checks was reduced.\n\nThe user reported feeling great overall and expressed relief that their ECG (Electrocardiogram) and coronary tests were normal. They also mentioned that they had quit smoking and drinking a month prior and were looking for further advice on maintaining their health.\n\nThe assistant emphasized the importance of a balanced diet rich in nutrients and regular physical activity. They congratulated the user on their lifestyle changes and recommended regular check-ups to maintain heart health. Additionally, the assistant suggested developing a long-term health plan that includes balanced nutrition, regular exercise, stress management, and routine medical check-ups. No specific dietary foods, exercise routines, or medications were discussed.",
+            "embedding_key": "Summary:\n\nOn 2023-05-21, the conversation revolved around maintaining healthy habits and monitoring health metrics. Although no specific values were mentioned, the user noted that their blood pressure had been stable. The assistant advised the user to continue monitoring their health, even if the frequency of checks was reduced.\n\nThe user reported feeling great overall and expressed relief that their ECG (Electrocardiogram) and coronary tests were normal. They also mentioned that they had quit smoking and drinking a month prior and were looking for further advice on maintaining their health.\n\nThe assistant emphasized the importance of a balanced diet rich in nutrients and regular physical activity. They congratulated the user on their lifestyle changes and recommended regular check-ups to maintain heart health. Additionally, the assistant suggested developing a long-term health plan that includes balanced nutrition, regular exercise, stress management, and routine medical check-ups. No specific dietary foods, exercise routines, or medications were discussed.",
+            "poignancy": 8,
+            "keywords": [
+                "The assistant",
+                "discussed with",
+                "the user about maintaining heart health through regular monitoring, balanced diet, physical activity, quitting smoking and drinking, and scheduling regular check-ups."
+            ],
+            "filling": "Assistant: Continue monitoring your health metrics and maintain your healthy habits. If you notice any changes, consult a healthcare professional promptly. User: Overall, I'm feeling great. What should I watch out for in the future? Assistant: You might reduce the frequency but continue regular monitoring to ensure it remains within a healthy range. User: My blood pressure has been stable. Do I need to measure it daily? Assistant: Focus on a balanced diet rich in nutrients to support your overall health. Regular physical activity will also be beneficial. User: It's been a month since I quit smoking and drinking. Is there anything else I should do? Assistant: That's great to hear. Keep up with your healthy lifestyle and schedule regular check-ups to maintain your heart health. User: My ECG and coronary tests are normal. I feel relieved. Assistant: Consider developing a long-term health plan that includes balanced nutrition, regular exercise, stress management, and routine medical check-ups. User: How should I plan my health management going forward?"
+        }
+    ]
+}

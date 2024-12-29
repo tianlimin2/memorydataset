@@ -1,0 +1,30 @@
+[
+    {
+        "hyp": "You enjoy listening to Johann Sebastian Bach's Orchestral Suites and Frederic Chopin's piano works.",
+        "ref": "You enjoy Johann Sebastian Bach's Orchestral Suites and Frederic Chopin's piano works."
+    },
+    {
+        "hyp": "Based on the provided contexts, there is no information about you watching a movie on May 2nd, 2023.",
+        "ref": "You watched 'The Shawshank Redemption'."
+    },
+    {
+        "hyp": "Based on the provided contexts, there's no information available about your favorite scene in 'The Shawshank Redemption'.",
+        "ref": "Your favorite scene is when Andy and his friends listened to music in the prison yard, feeling a sense of freedom."
+    },
+    {
+        "hyp": "On May 3rd, 2023, the recommended romance novels were \"Jane Eyre\", \"The Scarlet Letter\", and \"Pride and Prejudice\".",
+        "ref": "I recommended 'Jane Eyre', 'The Scarlet Letter', and 'Pride and Prejudice' for romance novels."
+    },
+    {
+        "hyp": "On May 3rd, 2023, the biographies recommended to you were \"The Autobiography of Benjamin Franklin\" and \"Steve Jobs\".",
+        "ref": "I recommended 'The Autobiography of Benjamin Franklin' and 'Steve Jobs' for biographies."
+    },
+    {
+        "hyp": "Based on the provided contexts, the meditation apps that were recommended to you are Headspace and Calm.",
+        "ref": "I recommended meditation apps such as Headspace and Calm."
+    },
+    {
+        "hyp": "Based on the provided context, it's not explicitly stated why you asked for advice on how to relax muscles and stretch your body on May 6th. However, it can be inferred that you were seeking ways to cope with feelings of discouragement, loneliness, and work pressure you had been experiencing. These methods were suggested as part of a broader set of relaxation techniques to help you manage stress and feel more relaxed.",
+        "ref": "You asked for advice on how to relax muscles and stretch your body due to feeling physically and mentally exhausted."
+    }
+]

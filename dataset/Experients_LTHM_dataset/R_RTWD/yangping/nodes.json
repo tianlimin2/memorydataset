@@ -1,0 +1,246 @@
+{
+    "nodes": [
+        {
+            "node_id": "0",
+            "node_count": 0,
+            "type_count": 0,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-01 11:17:04",
+            "expiration": "2023-05-31 11:17:04",
+            "last_accessed": "2023-05-01 11:17:04",
+            "subject": "The assistant",
+            "predicate": "discussed with the user about",
+            "object": "the importance of biologic treatment, using a peak flow meter, recognizing early signs of an asthma attack, the influence of genetics, and the role of mental health in managing severe asthma.",
+            "description": "Date: 2023-05-01\n\nThe conversation focused on managing severe asthma and improving the patient's quality of life. The assistant recommended discussing possible biologic treatments with a doctor. The user was advised to use a peak flow meter to monitor lung function regularly, recording the readings for the doctor to adjust treatment plans accordingly.\n\nThe assistant highlighted the importance of recognizing early signs of an asthma attack, such as increased wheezing or difficulty breathing, and taking timely action to prevent disease worsening. The user was also advised to consider a family history analysis to understand their family members' asthma conditions, which could aid in developing a personalized management plan.\n\nThe user expressed anxiety about their condition. The assistant emphasized the importance of addressing mental health in asthma management. Recommendations included joining support groups and seeking psychological counseling if feeling overwhelmed. No specific medication advice or dietary/exercise recommendations were mentioned in this conversation.",
+            "embedding_key": "Date: 2023-05-01\n\nThe conversation focused on managing severe asthma and improving the patient's quality of life. The assistant recommended discussing possible biologic treatments with a doctor. The user was advised to use a peak flow meter to monitor lung function regularly, recording the readings for the doctor to adjust treatment plans accordingly.\n\nThe assistant highlighted the importance of recognizing early signs of an asthma attack, such as increased wheezing or difficulty breathing, and taking timely action to prevent disease worsening. The user was also advised to consider a family history analysis to understand their family members' asthma conditions, which could aid in developing a personalized management plan.\n\nThe user expressed anxiety about their condition. The assistant emphasized the importance of addressing mental health in asthma management. Recommendations included joining support groups and seeking psychological counseling if feeling overwhelmed. No specific medication advice or dietary/exercise recommendations were mentioned in this conversation.",
+            "poignancy": 8,
+            "keywords": [
+                "discussed with the user about",
+                "The assistant",
+                "the importance of biologic treatment, using a peak flow meter, recognizing early signs of an asthma attack, the influence of genetics, and the role of mental health in managing severe asthma."
+            ],
+            "filling": "Assistant: It's recommended to discuss possible biologic treatment with your doctor. These treatments can significantly improve quality of life for asthma patients. User: I'm struggling to manage my severe asthma. Is there a way to improve my quality of life? Assistant: Using a peak flow meter regularly can help monitor your lung function. Make sure to record your readings and share them with your doctor to adjust treatment plans as necessary. User: What can I do to monitor my lung function? Assistant: It’s crucial to learn the early signs of an asthma attack, such as increased wheezing or difficulty breathing. Recognizing these signs can help you take timely action to prevent worsening of the disease. User: How can I tell if I'm about to have an asthma attack? Assistant: Yes, genetics can influence asthma. Consider a family history analysis to understand the asthma conditions of your family members, which can help in developing a personalized management plan. User: Does my family history play a role in my asthma? Assistant: It's important to address mental health, as it can impact asthma management. Joining support groups can be beneficial, and seeking psychological counseling may also help if you feel overwhelmed. User: I've been feeling anxious about my condition. Should I be concerned about my mental health?"
+        },
+        {
+            "node_id": "1",
+            "node_count": 1,
+            "type_count": 1,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-03 02:26:18",
+            "expiration": "2023-06-02 02:26:18",
+            "last_accessed": "2023-05-03 02:26:18",
+            "subject": "The assistant",
+            "predicate": "discussed with the user about",
+            "object": "the importance of using a peak flow meter for asthma management, recognizing early signs of an asthma attack, the potential influence of family history on their condition, and the role of stress-relieving activities in managing their asthma.",
+            "description": "Date: 2023-05-03\n\nThe user reported feeling somewhat better but expressed ongoing concerns about managing their asthma. The assistant recommended using a peak flow meter twice daily to monitor lung function and identify any trends or changes. The assistant also advised the user to watch for early signs of asthma exacerbation, such as coughing, chest tightness, or changes in breathing patterns.\n\nThe user mentioned that their father might have asthma, and the assistant suggested that discussing this could provide valuable insights into their own asthma management due to the potential genetic link.\n\nIn response to the user's feelings of stress, the assistant recommended stress-relieving activities such as yoga or meditation, highlighting their potential benefits for both mental health and asthma management. No specific details on the duration or intensity of these activities were provided.\n\nNo specific monitoring indicators with values (like blood pressure or glucose levels), dietary or exercise recommendations, or medication advice were discussed in this conversation.",
+            "embedding_key": "Date: 2023-05-03\n\nThe user reported feeling somewhat better but expressed ongoing concerns about managing their asthma. The assistant recommended using a peak flow meter twice daily to monitor lung function and identify any trends or changes. The assistant also advised the user to watch for early signs of asthma exacerbation, such as coughing, chest tightness, or changes in breathing patterns.\n\nThe user mentioned that their father might have asthma, and the assistant suggested that discussing this could provide valuable insights into their own asthma management due to the potential genetic link.\n\nIn response to the user's feelings of stress, the assistant recommended stress-relieving activities such as yoga or meditation, highlighting their potential benefits for both mental health and asthma management. No specific details on the duration or intensity of these activities were provided.\n\nNo specific monitoring indicators with values (like blood pressure or glucose levels), dietary or exercise recommendations, or medication advice were discussed in this conversation.",
+            "poignancy": 8,
+            "keywords": [
+                "discussed with the user about",
+                "the importance of using a peak flow meter for asthma management, recognizing early signs of an asthma attack, the potential influence of family history on their condition, and the role of stress-relieving activities in managing their asthma.",
+                "The assistant"
+            ],
+            "filling": "Assistant: That’s a positive sign! Continuing to evaluate your treatment plan with your doctor can help maintain your improvements and further enhance your quality of life. User: I've been feeling a bit better, but I still worry about my asthma management. Assistant: Using a peak flow meter twice daily is ideal. This way, you can get a better sense of your lung function over time and spot any trends or changes. User: How often should I use the peak flow meter? Assistant: Be on the lookout for signs like coughing, chest tightness, or changes in your breathing pattern. Early recognition can help you take preventive measures. User: What early signs should I be vigilant about? Assistant: Yes, having that conversation can provide valuable insights into your family history of asthma, which can be useful for your own management plan. User: I think my dad has asthma. Should I ask him about it? Assistant: Consider engaging in stress-relieving activities such as yoga or meditation. These can be beneficial for both your mental health and asthma management. User: I'm feeling a bit stressed about everything."
+        },
+        {
+            "node_id": "2",
+            "node_count": 2,
+            "type_count": 2,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-05 05:30:39",
+            "expiration": "2023-06-04 05:30:39",
+            "last_accessed": "2023-05-05 05:30:39",
+            "subject": "The assistant",
+            "predicate": "discussed with the user about",
+            "object": "monitoring and recording asthma symptoms, using a rescue inhaler and an asthma action plan during early signs of an attack, the potential genetic influence of asthma, and the importance of mental health support for dealing with feelings of being overwhelmed.",
+            "description": "On May 5, 2023, the conversation revolved around the user's asthma and associated symptoms, particularly chest tightness. The assistant suggested that the user monitor their symptoms closely and maintain a log of peak flow readings, including the date, time, and any symptoms experienced. This would aid their healthcare provider in making informed decisions regarding their treatment plan. \n\nIn the event of early signs of an asthma attack, the assistant advised the user to use their rescue inhaler and follow their asthma action plan. If symptoms worsen, immediate medical help should be sought. \n\nThe user also asked if their asthma could be influenced by their brother's condition, to which the assistant affirmed that asthma can have genetic factors. \n\nThe user expressed feelings of being overwhelmed. In response, the assistant suggested reaching out to a support group or a mental health professional to discuss their experiences. No specific dietary, exercise recommendations, or medication advice was given during this conversation.",
+            "embedding_key": "On May 5, 2023, the conversation revolved around the user's asthma and associated symptoms, particularly chest tightness. The assistant suggested that the user monitor their symptoms closely and maintain a log of peak flow readings, including the date, time, and any symptoms experienced. This would aid their healthcare provider in making informed decisions regarding their treatment plan. \n\nIn the event of early signs of an asthma attack, the assistant advised the user to use their rescue inhaler and follow their asthma action plan. If symptoms worsen, immediate medical help should be sought. \n\nThe user also asked if their asthma could be influenced by their brother's condition, to which the assistant affirmed that asthma can have genetic factors. \n\nThe user expressed feelings of being overwhelmed. In response, the assistant suggested reaching out to a support group or a mental health professional to discuss their experiences. No specific dietary, exercise recommendations, or medication advice was given during this conversation.",
+            "poignancy": 8,
+            "keywords": [
+                "discussed with the user about",
+                "The assistant",
+                "monitoring and recording asthma symptoms, using a rescue inhaler and an asthma action plan during early signs of an attack, the potential genetic influence of asthma, and the importance of mental health support for dealing with feelings of being overwhelmed."
+            ],
+            "filling": "Assistant: Chest tightness can be a common symptom for asthma patients. Monitor your symptoms closely and discuss any concerns with your healthcare provider to adjust your management plan. User: I still feel some tightness in my chest. Should I be worried? Assistant: Create a log to record your peak flow readings daily. Include the date, time, and any symptoms you experienced, which will help your doctor make informed decisions. User: How can I effectively track my peak flow readings? Assistant: If you notice early signs, use your rescue inhaler and follow your asthma action plan. If symptoms worsen, seek medical help immediately. User: What should I do if I notice early signs of an attack? Assistant: Yes, asthma can run in families. Understanding your brother's condition can give you insights into potential genetic factors affecting your asthma. User: Could my asthma be influenced by my brother's condition? Assistant: It’s crucial to address these feelings. Consider reaching out to a support group or a mental health professional to talk about your experiences. User: I've been feeling overwhelmed lately."
+        },
+        {
+            "node_id": "3",
+            "node_count": 3,
+            "type_count": 3,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-07 07:44:21",
+            "expiration": "2023-06-06 07:44:21",
+            "last_accessed": "2023-05-07 07:44:21",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about the impact of anxiety on asthma, the importance of using the peak flow meter correctly, the role of genetic predisposition in asthma, and the use of relaxation techniques for anxiety management.",
+            "description": "Summary:\n\nOn 2023-05-07, the conversation primarily revolved around the management of asthma and anxiety. The user reported feeling anxious despite the medication being helpful. The assistant suggested discussing this with their healthcare provider. \n\nThe assistant emphasized the importance of using a peak flow meter consistently and correctly for monitoring asthma. The user was advised to seek clarification on the proper usage of the meter from their doctor or pharmacist if needed. The assistant also highlighted the importance of regular monitoring and awareness of personal triggers for effective asthma management.\n\nIn the context of family history, the assistant suggested that if asthma is prevalent in the user's family, this could indicate a genetic predisposition. This information could be used to tailor the user's asthma management plan.\n\nFor managing anxiety, the assistant recommended incorporating relaxation techniques such as deep breathing exercises or mindfulness into the user's daily routine. No specific values for key monitoring indicators such as blood pressure or glucose levels were mentioned. Similarly, no specific symptoms were discussed, nor were any dietary or exercise recommendations given. The conversation did not include any specific medication advice regarding dosages and timing.",
+            "embedding_key": "Summary:\n\nOn 2023-05-07, the conversation primarily revolved around the management of asthma and anxiety. The user reported feeling anxious despite the medication being helpful. The assistant suggested discussing this with their healthcare provider. \n\nThe assistant emphasized the importance of using a peak flow meter consistently and correctly for monitoring asthma. The user was advised to seek clarification on the proper usage of the meter from their doctor or pharmacist if needed. The assistant also highlighted the importance of regular monitoring and awareness of personal triggers for effective asthma management.\n\nIn the context of family history, the assistant suggested that if asthma is prevalent in the user's family, this could indicate a genetic predisposition. This information could be used to tailor the user's asthma management plan.\n\nFor managing anxiety, the assistant recommended incorporating relaxation techniques such as deep breathing exercises or mindfulness into the user's daily routine. No specific values for key monitoring indicators such as blood pressure or glucose levels were mentioned. Similarly, no specific symptoms were discussed, nor were any dietary or exercise recommendations given. The conversation did not include any specific medication advice regarding dosages and timing.",
+            "poignancy": 8,
+            "keywords": [
+                "discussed with",
+                "the user about the impact of anxiety on asthma, the importance of using the peak flow meter correctly, the role of genetic predisposition in asthma, and the use of relaxation techniques for anxiety management.",
+                "The assistant"
+            ],
+            "filling": "Assistant: It's great to hear that your medication is helping! However, anxiety can affect your asthma. Consider discussing this with your healthcare provider for additional support. User: I think my medication is helping, but I still feel a bit anxious. Assistant: Ensure you are using the peak flow meter consistently and correctly. If you have questions about your technique, consider asking your doctor or pharmacist. User: Should I adjust how I use my peak flow meter? Assistant: Staying vigilant is important. Regular monitoring and knowing your triggers will help you manage your asthma effectively. User: I didn't experience an attack, but I'm still on alert. Assistant: If asthma is prevalent in your family, it may indicate a genetic predisposition. Use this information to tailor your asthma management plan with your doctor. User: What if I find out asthma is common in my family? Assistant: Incorporate relaxation techniques such as deep breathing exercises or mindfulness into your daily routine. These can help reduce anxiety levels. User: How can I manage my anxiety better?"
+        },
+        {
+            "node_id": "4",
+            "node_count": 4,
+            "type_count": 4,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-09 07:47:23",
+            "expiration": "2023-06-08 07:47:23",
+            "last_accessed": "2023-05-09 07:47:23",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about the importance of tracking progress, understanding peak flow meter readings, adjusting medication based on symptoms, gathering family history of asthma, and the role of mental health in managing asthma.",
+            "description": "Summary:\n\nOn May 9, 2023, the conversation focused on the management of the user's asthma. The user expressed overall wellness but conveyed concerns regarding their asthma. Specific values such as peak flow meter readings were discussed, but no exact figures were provided. The assistant advised the user to adjust their medication according to their action plan if they notice an increase in symptoms and to consult their healthcare provider for further evaluation.\n\nThe assistant also recommended that the user have conversations with family members to gather more information about their family's asthma history. This could provide valuable insights into managing their condition. \n\nThe assistant highlighted the importance of mental health in managing asthma and encouraged the user to seek support if needed. However, no specific feelings, emotional states, or side effects were shared by the user. There were no dietary, exercise recommendations, or specific activities discussed during this conversation.",
+            "embedding_key": "Summary:\n\nOn May 9, 2023, the conversation focused on the management of the user's asthma. The user expressed overall wellness but conveyed concerns regarding their asthma. Specific values such as peak flow meter readings were discussed, but no exact figures were provided. The assistant advised the user to adjust their medication according to their action plan if they notice an increase in symptoms and to consult their healthcare provider for further evaluation.\n\nThe assistant also recommended that the user have conversations with family members to gather more information about their family's asthma history. This could provide valuable insights into managing their condition. \n\nThe assistant highlighted the importance of mental health in managing asthma and encouraged the user to seek support if needed. However, no specific feelings, emotional states, or side effects were shared by the user. There were no dietary, exercise recommendations, or specific activities discussed during this conversation.",
+            "poignancy": 8,
+            "keywords": [
+                "discussed with",
+                "the user about the importance of tracking progress, understanding peak flow meter readings, adjusting medication based on symptoms, gathering family history of asthma, and the role of mental health in managing asthma.",
+                "The assistant"
+            ],
+            "filling": "Assistant: It's natural to have concerns, but tracking your progress can help. Share any worries with your healthcare provider to ensure your asthma is well managed. User: I'm feeling good overall but still have some worries about my asthma. Assistant: Feel free to share your readings. It’s crucial to review them regularly to identify any concerning patterns. User: I have some questions about my peak flow meter readings. Assistant: If you notice an increase in symptoms, adjust your medication as advised in your action plan and consult your healthcare provider for further evaluation. User: What should I do if I notice more symptoms? Assistant: Consider having open conversations with family members about their asthma experiences, which can provide valuable insights into your condition. User: Is there a way to gather more information about my family's asthma history? Assistant: I'm glad to help! Remember, mental health is an important aspect of managing asthma, so don’t hesitate to seek support if needed. User: I appreciate your advice on mental health."
+        },
+        {
+            "node_id": "5",
+            "node_count": 5,
+            "type_count": 5,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-11 05:18:49",
+            "expiration": "2023-06-10 05:18:49",
+            "last_accessed": "2023-05-11 05:18:49",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about monitoring peak flow, responding to early symptoms, and considering family history in managing their asthma.",
+            "description": "Summary:\n\nOn 2023-05-11, the user discussed their asthma management with the assistant. The user had been monitoring their symptoms and identified some patterns. The assistant advised them to share these patterns with their healthcare provider to refine their treatment plan. The assistant also emphasized the importance of consistently recording peak flow readings to track fluctuations, which could assist in healthcare adjustments.\n\nIn response to early symptoms, the assistant advised the user to use their rescue inhaler and follow their action plan. The user was also encouraged to take note of any changes in symptoms and communicate them to their doctor. When asked about the relevance of family asthma history, the assistant suggested that it could provide important context for the user's condition and should be discussed with the doctor to tailor the management approach. \n\nNo specific monitoring indicators, dietary or exercise recommendations, descriptions of activities, emotional states, or medication advice were mentioned in this conversation.",
+            "embedding_key": "Summary:\n\nOn 2023-05-11, the user discussed their asthma management with the assistant. The user had been monitoring their symptoms and identified some patterns. The assistant advised them to share these patterns with their healthcare provider to refine their treatment plan. The assistant also emphasized the importance of consistently recording peak flow readings to track fluctuations, which could assist in healthcare adjustments.\n\nIn response to early symptoms, the assistant advised the user to use their rescue inhaler and follow their action plan. The user was also encouraged to take note of any changes in symptoms and communicate them to their doctor. When asked about the relevance of family asthma history, the assistant suggested that it could provide important context for the user's condition and should be discussed with the doctor to tailor the management approach. \n\nNo specific monitoring indicators, dietary or exercise recommendations, descriptions of activities, emotional states, or medication advice were mentioned in this conversation.",
+            "poignancy": 8,
+            "keywords": [
+                "discussed with",
+                "The assistant",
+                "the user about monitoring peak flow, responding to early symptoms, and considering family history in managing their asthma."
+            ],
+            "filling": "Assistant: That's a positive step! Share these patterns with your healthcare provider. This information can help refine your treatment plan. User: I noticed some patterns in my symptoms. What should I do next? Assistant: Continue recording your peak flow readings consistently. This will help track any fluctuations and assist your healthcare provider in making necessary adjustments. User: How can I effectively monitor my peak flow? Assistant: If you notice early symptoms, use your rescue inhaler and follow your action plan. Take note of any changes in your symptoms and communicate them to your doctor. User: How do I respond to early symptoms? Assistant: It’s worth considering, as family history can provide important context for your own condition. Discuss this with your doctor to tailor your management approach. User: Should I be worried about my family's asthma history? Assistant: You're very welcome! I'm here to help you navigate your asthma management. User: Thank you for the support. It means a lot!"
+        },
+        {
+            "node_id": "6",
+            "node_count": 6,
+            "type_count": 6,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-13 08:41:11",
+            "expiration": "2023-06-12 08:41:11",
+            "last_accessed": "2023-05-13 08:41:11",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about the frequency of peak flow checks, recognizing early symptoms, understanding family asthma history, and the importance of mental health support in managing asthma.",
+            "description": "Summary:\n\nOn 2023-05-13, the user discussed their health concerns with the assistant, focusing on their asthma and mental health. They reported feeling stable but expressed anxiety about potential asthma attacks. To manage this, the assistant recommended monitoring their peak flow at least once or twice daily to understand their baseline and identify any changes promptly. This consistent monitoring was highlighted as a key preventative measure against asthma attacks. \n\nThe user also mentioned speaking with their family about their asthma history, which the assistant commended as a helpful step in informing their asthma management decisions. \n\nAdditionally, the user expressed a need for mental health support. The assistant emphasized the importance of prioritizing mental health and suggested reaching out to a mental health professional or a support group for further assistance.",
+            "embedding_key": "Summary:\n\nOn 2023-05-13, the user discussed their health concerns with the assistant, focusing on their asthma and mental health. They reported feeling stable but expressed anxiety about potential asthma attacks. To manage this, the assistant recommended monitoring their peak flow at least once or twice daily to understand their baseline and identify any changes promptly. This consistent monitoring was highlighted as a key preventative measure against asthma attacks. \n\nThe user also mentioned speaking with their family about their asthma history, which the assistant commended as a helpful step in informing their asthma management decisions. \n\nAdditionally, the user expressed a need for mental health support. The assistant emphasized the importance of prioritizing mental health and suggested reaching out to a mental health professional or a support group for further assistance.",
+            "poignancy": 8,
+            "keywords": [
+                "discussed with",
+                "The assistant",
+                "the user about the frequency of peak flow checks, recognizing early symptoms, understanding family asthma history, and the importance of mental health support in managing asthma."
+            ],
+            "filling": "Assistant: It's good to hear that you're feeling stable. Keeping an eye on your concerns and discussing them with your healthcare provider can help maintain your health. User: I've been feeling stable lately, but I still have concerns. Assistant: Aim to check your peak flow at least once or twice a day. This will help you understand your baseline and notice any changes promptly. User: How frequently should I check my peak flow? Assistant: Stay proactive by following your action plan and recognizing early symptoms. Consistent monitoring is key to preventing attacks. User: I'm still worried about potential attacks. Assistant: That’s a great step! Understanding your family's asthma history can help you and your doctor make more informed decisions about your management. User: I spoke to my family about their asthma history. Assistant: It’s important to prioritize mental health. Consider reaching out to a mental health professional or a support group for additional guidance. User: I feel like I could use some mental health support."
+        },
+        {
+            "node_id": "7",
+            "node_count": 7,
+            "type_count": 7,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-15 02:15:00",
+            "expiration": "2023-06-14 02:15:00",
+            "last_accessed": "2023-05-15 02:15:00",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about managing their asthma effectively, focusing on tracking symptoms, adhering to medication plans, identifying triggers, and the importance of having and regularly reviewing an emergency plan.",
+            "description": "The conversation on 2023-05-15 was primarily about managing asthma. The user reported feeling more in control of their asthma, a positive emotional state. The assistant emphasized the importance of continuing to monitor symptoms, adhering to the medication plan, and identifying any potential triggers. \n\nWhile no specific monitoring indicators or values were mentioned, the assistant suggested that changes in symptoms or health could necessitate a review and possible adjustment of the user's emergency plan. The assistant also emphasized the importance of having a clear emergency plan and reviewing it regularly, especially after any significant changes in health or medication.\n\nNo specific dietary or exercise recommendations were given in this conversation. Similarly, no specific activities were discussed, nor were any side effects or feelings related to medication use mentioned. \n\nThe assistant offered general support for the user's health journey, but no specific advice about medication dosage or timing was provided in this conversation.",
+            "embedding_key": "The conversation on 2023-05-15 was primarily about managing asthma. The user reported feeling more in control of their asthma, a positive emotional state. The assistant emphasized the importance of continuing to monitor symptoms, adhering to the medication plan, and identifying any potential triggers. \n\nWhile no specific monitoring indicators or values were mentioned, the assistant suggested that changes in symptoms or health could necessitate a review and possible adjustment of the user's emergency plan. The assistant also emphasized the importance of having a clear emergency plan and reviewing it regularly, especially after any significant changes in health or medication.\n\nNo specific dietary or exercise recommendations were given in this conversation. Similarly, no specific activities were discussed, nor were any side effects or feelings related to medication use mentioned. \n\nThe assistant offered general support for the user's health journey, but no specific advice about medication dosage or timing was provided in this conversation.",
+            "poignancy": 8,
+            "keywords": [
+                "discussed with",
+                "The assistant",
+                "the user about managing their asthma effectively, focusing on tracking symptoms, adhering to medication plans, identifying triggers, and the importance of having and regularly reviewing an emergency plan."
+            ],
+            "filling": "Assistant: That’s wonderful to hear! Feeling in control is key to managing your asthma effectively. User: I feel more in control of my asthma now. Assistant: Continue tracking your symptoms, adhering to your medication plan, and identifying any triggers that may arise. User: What should I focus on moving forward? Assistant: Absolutely! Having a clear emergency plan is crucial, especially as your symptoms can change. User: Is it still important to have an emergency plan? Assistant: Review your plan regularly, especially after any significant changes in your health or medication. Make adjustments as needed. User: What if I need to change my emergency plan? Assistant: You're very welcome! I'm here to support you on your journey to better health. User: Thank you for all your help. I appreciate it!"
+        },
+        {
+            "node_id": "8",
+            "node_count": 8,
+            "type_count": 8,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-17 08:31:26",
+            "expiration": "2023-06-16 08:31:26",
+            "last_accessed": "2023-05-17 08:31:26",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about the adjustment of their asthma medication, the expected timeline for noticing improvements, the next steps if symptoms don't improve, and the importance of continuing to track symptoms.",
+            "description": "On May 17, 2023, the user had an appointment where their asthma medication was adjusted. The user expressed feelings of hopefulness following this change. The assistant advised the user that improvements may be noticed within a few days to a week, depending on the specifics of the medication adjustment. If no improvement is noted after a week, the assistant recommended contacting the healthcare provider to discuss further adjustments or evaluations. The assistant also emphasized the importance of continuing to monitor symptoms to evaluate the effectiveness of the new medication, but no specific monitoring indicators or their values were mentioned in the conversation. There were no dietary or exercise recommendations, descriptions of activities, or specific medication advice given during this conversation.",
+            "embedding_key": "On May 17, 2023, the user had an appointment where their asthma medication was adjusted. The user expressed feelings of hopefulness following this change. The assistant advised the user that improvements may be noticed within a few days to a week, depending on the specifics of the medication adjustment. If no improvement is noted after a week, the assistant recommended contacting the healthcare provider to discuss further adjustments or evaluations. The assistant also emphasized the importance of continuing to monitor symptoms to evaluate the effectiveness of the new medication, but no specific monitoring indicators or their values were mentioned in the conversation. There were no dietary or exercise recommendations, descriptions of activities, or specific medication advice given during this conversation.",
+            "poignancy": 8,
+            "keywords": [
+                "discussed with",
+                "the user about the adjustment of their asthma medication, the expected timeline for noticing improvements, the next steps if symptoms don't improve, and the importance of continuing to track symptoms.",
+                "The assistant"
+            ],
+            "filling": "Assistant: That’s great to hear! Adjusting your medication can make a big difference in managing your asthma. User: I had my appointment, and we adjusted my medication. I feel hopeful! Assistant: It may take a few days to a week to notice improvements, depending on the medication adjustments. User: How soon should I notice a difference? Assistant: If you don’t see improvement after a week, contact your healthcare provider to discuss further adjustments or evaluations. User: What should I do if my symptoms don’t improve? Assistant: Yes, continuing to monitor your symptoms will help you and your doctor evaluate the effectiveness of the new medication. User: Should I keep tracking my symptoms after this change? Assistant: You're welcome! Stay positive and proactive about your asthma management. User: Thanks for the encouragement!"
+        },
+        {
+            "node_id": "9",
+            "node_count": 9,
+            "type_count": 9,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-19 00:58:44",
+            "expiration": "2023-06-18 00:58:44",
+            "last_accessed": "2023-05-19 00:58:44",
+            "subject": "The assistant",
+            "predicate": "discussed with the user about",
+            "object": "the side effects of their new medication, how to monitor them, and what to do in case of severe reactions.",
+            "description": "The conversation on 2023-05-19 was mainly about the user's concerns regarding the side effects of a new medication. The assistant emphasized the importance of monitoring and discussing side effects with their healthcare provider, as adjustments to the treatment might be necessary. \n\nSpecific side effects mentioned included an increased heart rate, nervousness, and difficulty sleeping. The assistant advised the user to report any severe or concerning effects immediately. These severe reactions could include swelling, difficulty breathing, or chest pain, which would require immediate emergency medical help. \n\nThe assistant also mentioned that the user's doctor might have strategies or alternative medications to minimize these side effects. However, there were no specific key monitoring indicators, dietary or exercise recommendations, descriptions of activities, or specific medication advice mentioned in this conversation.",
+            "embedding_key": "The conversation on 2023-05-19 was mainly about the user's concerns regarding the side effects of a new medication. The assistant emphasized the importance of monitoring and discussing side effects with their healthcare provider, as adjustments to the treatment might be necessary. \n\nSpecific side effects mentioned included an increased heart rate, nervousness, and difficulty sleeping. The assistant advised the user to report any severe or concerning effects immediately. These severe reactions could include swelling, difficulty breathing, or chest pain, which would require immediate emergency medical help. \n\nThe assistant also mentioned that the user's doctor might have strategies or alternative medications to minimize these side effects. However, there were no specific key monitoring indicators, dietary or exercise recommendations, descriptions of activities, or specific medication advice mentioned in this conversation.",
+            "poignancy": 8,
+            "keywords": [
+                "discussed with the user about",
+                "The assistant",
+                "the side effects of their new medication, how to monitor them, and what to do in case of severe reactions."
+            ],
+            "filling": "Assistant: It’s important to monitor side effects and discuss them with your healthcare provider, as they may need to adjust your treatment. User: I've noticed some side effects from the new medication. Assistant: Common side effects can include increased heart rate, nervousness, or difficulty sleeping. Report any severe or concerning effects immediately. User: What kind of side effects should I look out for? Assistant: Discuss any side effects with your doctor, as they may have strategies or alternative medications to minimize them. User: Is there a way to minimize these side effects? Assistant: If you experience severe reactions like swelling, difficulty breathing, or chest pain, seek emergency medical help immediately. User: What if I experience a severe reaction? Assistant: You're welcome! Stay vigilant, and don’t hesitate to reach out if you have concerns. User: Thank you for the information. I’ll keep monitoring."
+        },
+        {
+            "node_id": "10",
+            "node_count": 10,
+            "type_count": 10,
+            "type": "chat",
+            "depth": 1,
+            "created": "2023-05-21 02:40:52",
+            "expiration": "2023-06-20 02:40:52",
+            "last_accessed": "2023-05-21 02:40:52",
+            "subject": "The assistant",
+            "predicate": "discussed with",
+            "object": "the user about managing their asthma effectively, focusing on tracking symptoms, adhering to medication plans, identifying triggers, and the importance of having and regularly reviewing an emergency plan.",
+            "description": "The conversation on 2023-05-21 focused on managing asthma effectively. The user expressed feeling more in control of their asthma. The assistant advised the user to continue tracking their symptoms and adhering to their medication plan. The assistant also emphasized the importance of identifying any triggers that may arise. \n\nThe user was advised to focus on maintaining a clear emergency plan. The assistant stressed the importance of this, especially as the user's symptoms can change. The assistant suggested that the user should review their plan regularly, particularly after any significant changes in their health or medication. Adjustments to the emergency plan should be made as needed. \n\nNo specific monitoring indicators, such as blood pressure or glucose levels, were mentioned in the conversation. Similarly, there was no mention of specific symptoms or their severity or frequency. \n\nThere were also no specific dietary or exercise recommendations given, nor were there descriptions of any activities, their type, intensity, or duration. \n\nThe user expressed gratitude for the assistance provided. No specific medication advice, including dosages and timing, was given in the conversation.",
+            "embedding_key": "The conversation on 2023-05-21 focused on managing asthma effectively. The user expressed feeling more in control of their asthma. The assistant advised the user to continue tracking their symptoms and adhering to their medication plan. The assistant also emphasized the importance of identifying any triggers that may arise. \n\nThe user was advised to focus on maintaining a clear emergency plan. The assistant stressed the importance of this, especially as the user's symptoms can change. The assistant suggested that the user should review their plan regularly, particularly after any significant changes in their health or medication. Adjustments to the emergency plan should be made as needed. \n\nNo specific monitoring indicators, such as blood pressure or glucose levels, were mentioned in the conversation. Similarly, there was no mention of specific symptoms or their severity or frequency. \n\nThere were also no specific dietary or exercise recommendations given, nor were there descriptions of any activities, their type, intensity, or duration. \n\nThe user expressed gratitude for the assistance provided. No specific medication advice, including dosages and timing, was given in the conversation.",
+            "poignancy": 8,
+            "keywords": [
+                "discussed with",
+                "The assistant",
+                "the user about managing their asthma effectively, focusing on tracking symptoms, adhering to medication plans, identifying triggers, and the importance of having and regularly reviewing an emergency plan."
+            ],
+            "filling": "Assistant: That’s wonderful to hear! Feeling in control is key to managing your asthma effectively. User: I feel more in control of my asthma now. Assistant: Continue tracking your symptoms, adhering to your medication plan, and identifying any triggers that may arise. User: What should I focus on moving forward? Assistant: Absolutely! Having a clear emergency plan is crucial, especially as your symptoms can change. User: Is it still important to have an emergency plan? Assistant: Review your plan regularly, especially after any significant changes in your health or medication. Make adjustments as needed. User: What if I need to change my emergency plan? Assistant: You're very welcome! I'm here to support you on your journey to better health. User: Thank you for all your help. I appreciate it!"
+        }
+    ]
+}
